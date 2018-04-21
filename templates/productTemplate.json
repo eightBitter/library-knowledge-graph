@@ -1,0 +1,15 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"",
+  "@type":"Product",
+  "category":"",
+  "isRelatedTo":"",
+  "manufacturer":"",
+  "model":"",
+  "image":"",
+  "description":"",
+  "name":"",
+  "url":"",
+  "productID":"",
+  "offers":""
+  }

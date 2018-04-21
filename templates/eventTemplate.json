@@ -1,0 +1,36 @@
+{
+  "@context":"http://schema.org/",
+  "@id": "",
+  "@type":"Event",
+  "about":"",
+  "url":"http://www.lib.ncsu.edu/events/2018-nc-state-university-mfa-graduate-reading",
+  "name":"2018 NC STATE UNIVERSITY MFA GRADUATE READING",
+  "startDate":"2018-04-25T22:00:00-04:00",
+  "endDate":"2018-04-25T23:00:00-04:00",
+  "eventStatus":"",
+  "duration":"T1H0M",
+  "description":"2018 graduates of the NC State University MFA in Creative Writing Program present readings from their work. Past years MFA graduates have gone on to win the APR/Honickman First Book Prize, the Nebula Award, the Masters Review Anthology Prize, and the World Science Fiction Award and receive a Provincetown Fellowship, NC Arts Council Fellowship, Fulbright Scholarship, and Ron Wallace Poetry Fellowship, among other honors. Presented in partnership with the MFA in Creative Writing program.",
+  "image":"https://www.lib.ncsu.edu/sites/default/files/styles/large/public/IMG_1486.jpg?itok=IFPf92TH",
+  "location":{
+    "@id":"",
+    "@type":"Place",
+    "name":"Duke Energy Hall James B. Hunt Jr. Library",
+    "url":"https://www.lib.ncsu.edu",
+    "address":{
+      "@type":"PostalAddress",
+      "addressLocality":"Raleigh",
+      "addressRegion":"NC",
+      "streetAddress":"1070 Partners Way Campus Box 7132 Raleigh, NC 27606"
+      }
+    },
+  "offers":{
+    "@type":"Offer",
+    "url":"http://www.lib.ncsu.edu/events/2018-nc-state-university-mfa-graduate-reading",
+    "price":"0.00",
+    "priceCurrency":"USD",
+    "availability":"http://schema.org/InStock",
+    "availabilityStarts":"2018-04-25T22:00:00-04:00",
+    "validThrough":"2018-04-25T23:00:00-04:00",
+    "inventoryLevel":"999"
+    }
+  }

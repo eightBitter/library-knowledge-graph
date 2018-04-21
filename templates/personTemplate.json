@@ -1,0 +1,25 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "",
+  "@type": "Person",
+  "name": "",
+  "jobTitle": "",
+  "workLocation": "",
+  "email": "",
+  "image": "",
+  "telephone": "",
+  "url": "",
+  "affiliation": "",
+  "worksFor": "",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "",
+    "addressLocality": "",
+    "addressRegion": "",
+    "postalCode": ""
+  },
+  "makesOffer": {},
+  "sameAs" : [
+    "",
+    ""    ]
+  }

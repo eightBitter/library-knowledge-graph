@@ -1,0 +1,13 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"",
+  "@type":"Service",
+  "category":"",
+  "hoursAvailable":"",
+  "isRelatedTo":"",
+  "provider":"",
+  "serviceType":"",
+  "name":"",
+  "description":"",
+  "url"
+}

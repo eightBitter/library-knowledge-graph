@@ -1,0 +1,19 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"",
+  "@type":"Place",
+  "name":"Duke Energy Hall James B. Hunt Jr. Library",
+  "url":"https://www.lib.ncsu.edu",
+  "description":"",
+  "containedInPlace":"",
+  "containsPlace":"",
+  "logo":"",
+  "photo":"",
+  "openingHoursSpecification":"",
+  "amenityFeature":"",
+  "address":{
+    "@type":"PostalAddress",
+    "addressLocality":"Raleigh",
+    "addressRegion":"NC",
+    "streetAddress":"1070 Partners Way Campus Box 7132 Raleigh, NC 27606"
+    }
