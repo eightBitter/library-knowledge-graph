@@ -1,0 +1,26 @@
+{
+  "@context":"http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/events/library-libations-bookbot-tour-and-brews-sold-out",
+  "@type":"Event",
+  "url":"https://www.lib.ncsu.edu/events/library-libations-bookbot-tour-and-brews-sold-out",
+  "name":"Library Libations: Bookbot Tour and Brews",
+  "startDate":"2018-05-10T18:00",
+  "endDate":"2018-05-10T20:00",
+  "eventStatus":"EventScheduled",
+  "duration":"T2H0M",
+  "description":"Bookbot Alley is home to four hardworking robots that store 1.5 million volumes of the NCSU Libraries collection. Get a behind-the-scenes tour of the bookBot from expert staff and learn how the bookBot is a transformational tool for pioneering research libraries.",
+  "image":"https://www.lib.ncsu.edu/sites/default/files/styles/large/public/BookBot%20.jpg?itok=FeRgwJ-O",
+  "location":{
+    "@id":"https://www.lib.ncsu.edu/huntlibrary"
+    },
+  "offers":{
+    "@type":"Offer",
+    "url":"http://www.lib.ncsu.edu/events/2018-nc-state-university-mfa-graduate-reading",
+    "price":"20.00",
+    "priceCurrency":"USD",
+    "availability":"http://schema.org/SoldOut",
+    "availabilityStarts":"2018-05-10T18:00",
+    "validThrough":"2018-05-10T20:00",
+    "inventoryLevel":"999"
+    }
+  }

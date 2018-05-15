@@ -1,0 +1,30 @@
+{
+  "@context":"http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/workshops/virtual-reality-vr-for-everyone-interactive-unity-workshop-0",
+  "@type":"Event",
+  "about":{
+    "@id": "https://www.wikidata.org/wiki/Q170519",
+    "@type": "Thing",
+    "name": "virtual reality"
+  },
+  "url":"https://www.lib.ncsu.edu/workshops/virtual-reality-vr-for-everyone-interactive-unity-workshop-0",
+  "name":"Virtual Reality (VR) for Everyone: Interactive Unity Workshop",
+  "startDate":"2018-04-26T14:30",
+  "endDate":"2018-04-26T17:30",
+  "eventStatus":"",
+  "duration":"T3H0M",
+  "description":"This hands on interactive workshop introduces participants to virtual reality (VR) content creation using the Unity game engine. During the workshop, participants will become familiarized with the Unity interface and develop skills needed to set up, create, and build a virtual reality experience for the Oculus Rift and HTC Vive VR headsets. No prior knowledge is necessary, and computers will be provided.",
+  "location":{
+    "@id":"https://www.lib.ncsu.edu/spaces/vr-studio"
+    },
+  "offers":{
+    "@type":"Offer",
+    "url":"https://www.lib.ncsu.edu/workshops/virtual-reality-vr-for-everyone-interactive-unity-workshop-0",
+    "price":"0.00",
+    "priceCurrency":"USD",
+    "availability":"http://schema.org/InStock",
+    "availabilityStarts":"2018-04-26T14:30",
+    "validThrough":"2018-04-26T17:30",
+    "inventoryLevel":"999"
+    }
+  }

@@ -1,0 +1,30 @@
+{
+  "@context":"http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/workshops/virtual-reality-studio-orientation-85",
+  "@type":"Event",
+  "about":{
+    "@id": "https://www.wikidata.org/wiki/Q170519",
+    "@type": "Thing",
+    "name": "virtual reality"
+  },
+  "url":"https://www.lib.ncsu.edu/workshops/virtual-reality-studio-orientation-85",
+  "name":"Virtual Reality Studio Orientation",
+  "startDate":"2018-05-29T15:00",
+  "endDate":"2018-05-29T16:00",
+  "eventStatus":"EventScheduled",
+  "duration":"T1H0M",
+  "description":"This orientation is required to access the D.H. Hill VR Studio. It will provide a general introduction to virtual reality history, technology, use, making, and safety considerations.",
+  "location":{
+    "@id":"https://www.lib.ncsu.edu/spaces/vr-studio"
+  },
+  "offers":{
+    "@type":"Offer",
+    "url":"https://www.lib.ncsu.edu/workshops/virtual-reality-studio-orientation-85",
+    "price":"0.00",
+    "priceCurrency":"USD",
+    "availability":"http://schema.org/InStock",
+    "availabilityStarts":"2018-05-29T15:00",
+    "validThrough":"2018-05-29T16:00",
+    "inventoryLevel":"999"
+    }
+  }

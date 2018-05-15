@@ -1,0 +1,31 @@
+{
+  "@context":"http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/workshops/drone-building-workshop",
+  "@type":"Event",
+  "about":{
+    "@id": "https://www.wikidata.org/wiki/Q484000",
+    "@type": "Thing",
+    "name": "unmanned aerial vehicle",
+    "alternateName": "drone"
+  },
+  "url":"https://www.lib.ncsu.edu/workshops/drone-building-workshop",
+  "name":"Drone Building Workshop",
+  "startDate":"2018-05-23T14:00",
+  "endDate":"2018-05-23T17:00",
+  "eventStatus":"EventScheduled",
+  "duration":"T3H0M",
+  "description":"In this 3 hour workshop, attendees will learn the different types of drones and applications, the basics of drone building, components and their functions, and drone regulations in the area. Then, attendees will work in groups of 5 to 6 people to build a multirotor and fly a drone (weather permitting.)",
+  "image":"https://www.lib.ncsu.edu/sites/default/files/styles/large/public/Flying%20penta.jpg?itok=nHV8l8Rk",
+  "location":{
+    "@id":"https://www.lib.ncsu.edu/spaces/creativity-studio",
+  "offers":{
+    "@type":"Offer",
+    "url":"https://www.lib.ncsu.edu/workshops/drone-building-workshop",
+    "price":"0.00",
+    "priceCurrency":"USD",
+    "availability":"http://schema.org/InStock",
+    "availabilityStarts":"2018-05-23T14:00",
+    "validThrough":"2018-05-23T17:00",
+    "inventoryLevel":"999"
+    }
+  }

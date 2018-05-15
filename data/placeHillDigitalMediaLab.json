@@ -1,0 +1,16 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/spaces/digital-media-lab",
+  "@type":"Place",
+  "name":"Digital Media Lab",
+  "url":"https://www.lib.ncsu.edu/spaces/digital-media-lab",
+  "description":"The Digital Media Lab (DML) has workstations with audiovisual editing software including: three reservable 5k iMacs for video editing, two reservable programming PCs, four reservable music booths, and a reservable studio space with a green screen which also contains equipment for VHS and DV transfer, audio production, and slide scanning.",
+  "containedInPlace":"https://www.lib.ncsu.edu/about/dhhill",
+  "photo":"https://www.lib.ncsu.edu/sites/default/files/thumbnails/image/IMG_4234.jpg",
+  "openingHoursSpecification":"ADD LATER",
+  "address":{
+    "@type":"PostalAddress",
+    "addressLocality":"Raleigh",
+    "addressRegion":"NC",
+    "streetAddress":"2 Broughton Drive, Campus Box 7132, Raleigh, NC 27606"
+    }

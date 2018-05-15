@@ -1,0 +1,16 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/spaces/creativity-studio",
+  "@type":"Place",
+  "name":"Creativity Studio",
+  "url":"https://www.lib.ncsu.edu/spaces/creativity-studio",
+  "description":"Faculty and graduates students can request to use the Creativity Studio, a high-technology white-box room that can be configured for a wide variety of teaching, learning, and collaborative activities in many disciplines. It features high-definition projectors and moveable walls with dry-erase whiteboard surfaces. The Studio can be configured to host simulations, installations and virtual environments.",
+  "containedInPlace":"https://www.lib.ncsu.edu/huntlibrary",
+  "photo":"https://www.lib.ncsu.edu/sites/default/files/thumbnails/image/Hunt_Creativity-Studio_4.jpg",
+  "openingHoursSpecification":"ENTER SOMETHING HERE",
+  "address":{
+    "@type":"PostalAddress",
+    "addressLocality":"Raleigh",
+    "addressRegion":"NC",
+    "streetAddress":"1070 Partners Way Campus Box 7132 Raleigh, NC 27606"
+    }

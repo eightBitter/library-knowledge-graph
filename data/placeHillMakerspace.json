@@ -1,0 +1,16 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/spaces/dh-hill-makerspace",
+  "@type":"Place",
+  "name":"D. H. Hill Makerspace",
+  "url":"https://www.lib.ncsu.edu/spaces/dh-hill-makerspace",
+  "description":"The D.H. Hill Makerspace is located on the first floor of the D.H. Hill Library. This space gives students, faculty, and staff hands-on access to the emerging technologies of making, including 3D printers, 3D scanners, electronics prototyping kits, sewing machines, a laser cutter, and many other Maker tools.",
+  "containedInPlace":"https://www.lib.ncsu.edu/about/dhhill",
+  "photo":"https://www.lib.ncsu.edu/sites/default/files/thumbnails/image/Hill_Makerspace_9.jpg",
+  "openingHoursSpecification":"ADD LATER",
+  "address":{
+    "@type":"PostalAddress",
+    "addressLocality":"Raleigh",
+    "addressRegion":"NC",
+    "streetAddress":"2 Broughton Drive, Campus Box 7132, Raleigh, NC 27606"
+    }

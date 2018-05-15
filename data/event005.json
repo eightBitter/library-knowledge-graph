@@ -1,0 +1,41 @@
+{
+  "@context":"http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/events/documentary-film-screening-backpack-full-of-cash",
+  "@type":"Event",
+  "about":[{
+    "@id": "https://www.wikidata.org/wiki/Q93204",
+    "@type": "Thing",
+    "name": "documentary film"
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q161500",
+    "@type": "Thing",
+    "name": "privatization"
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q12182551",
+    "@type": "Thing",
+    "name": "public education"
+  }],
+  "url":"https://www.lib.ncsu.edu/events/documentary-film-screening-backpack-full-of-cash",
+  "name":"Documentary Film Screening: Backpack Full of Cash",
+  "startDate":"2018-05-10T19:00",
+  "endDate":"2018-05-10T20:30",
+  "eventStatus":"EventScheduled",
+  "duration":"T1H30M",
+  "description":"Narrated by Matt Damon, this feature-length documentary explores the growing privatization of public schools and the resulting impact on America’s most vulnerable children. Filmed in Philadelphia, New Orleans, Nashville and other cities, Backpack Full of Cash takes viewers through the tumultuous 2013-14 school year, exposing the world of corporate-driven education “reform” where public education -- starved of resources -- hangs in the balance. Panel discussion with public education leaders will follow the film along with Q&A from audience.",
+  "image":"https://www.lib.ncsu.edu/sites/default/files/styles/large/public/og-backpack.png?itok=yz-P9uRb",
+  "location":{
+    "@id":"https://www.lib.ncsu.edu/spaces/auditorium"
+    },
+  "offers":{
+    "@type":"Offer",
+    "url":"https://www.lib.ncsu.edu/events/documentary-film-screening-backpack-full-of-cash",
+    "price":"0.00",
+    "priceCurrency":"USD",
+    "availability":"http://schema.org/InStock",
+    "availabilityStarts":"2018-05-10T19:00",
+    "validThrough":"2018-04-25T20:30",
+    "inventoryLevel":"999"
+    }
+  }

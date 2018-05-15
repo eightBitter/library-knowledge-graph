@@ -1,0 +1,16 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/spaces/vr-studio",
+  "@type":"Place",
+  "name":"VR Studio",
+  "url":"https://www.lib.ncsu.edu/spaces/vr-studio",
+  "description":"Virtual reality (VR) provides new ways for people to interact with information and media. The VR Studio at D. H. Hill Library is a space for experimenting with and creating immersive content. It is equipped with eight workstations representing the two major current VR platforms, the Oculus Rift and the HTC Vive, and other equipment. There are many games and educational experiences available for research. The Studio is open for use by NCSU students, faculty, and staff. Patrons must take a short safety orientation and sign a waiver to use the Studio. Please fill out a request form to set up a consultation, to access the room outside of open hours, or for other special inquiries. ",
+  "containedInPlace":"https://www.lib.ncsu.edu/about/dhhill",
+  "photo":"https://www.lib.ncsu.edu/sites/default/files/thumbnails/image/VRdemo1_0.jpg",
+  "openingHoursSpecification":"ADD LATER",
+  "address":{
+    "@type":"PostalAddress",
+    "addressLocality":"Raleigh",
+    "addressRegion":"NC",
+    "streetAddress":"2 Broughton Drive, Campus Box 7132, Raleigh, NC 27606"
+    }

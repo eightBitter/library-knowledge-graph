@@ -1,0 +1,38 @@
+{
+  "@context":"http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/workshops/introduction-to-arduino-2",
+  "@type":"Event",
+  "about":[
+    {
+    "@id": "https://www.wikidata.org/wiki/Q175957",
+    "@type": "Thing",
+    "name": "Arduino"
+  },
+  {
+  "@id": "https://www.wikidata.org/wiki/Q165678",
+  "@type": "Thing",
+  "name": "microcontroller"
+  }
+],
+  "url":"https://www.lib.ncsu.edu/workshops/introduction-to-arduino-2",
+  "name":"Introduction to Arduino",
+  "startDate":"2018-04-26T14:00",
+  "endDate":"2018-04-26T15:00",
+  "eventStatus":"EventScheduled",
+  "duration":"T1H0M",
+  "description":"Do you want to build a robot that interacts with Twitter  or your own wearable electronics project? This workshop will cover the basics of Arduino a microcontroller circuit designed to make creating interactions between computers and the physical world easy for everyone. In this workshop, we'll create some simple example circuits and talk about how to check out electronics kits from the Libraries. Arduino Inventor Kits are available for one-week checkout from both Hill and Hunt Library, so participants will be able to take a kit home with them after the workshop to continue exploring and experimenting (based on kit availability).",
+  "image":"https://www.lib.ncsu.edu/sites/default/files/12001-Laid_out.jpg",
+  "location":{
+    "@id":"https://www.lib.ncsu.edu/spaces/dh-hill-makerspace"
+    },
+  "offers":{
+    "@type":"Offer",
+    "url":"https://www.lib.ncsu.edu/workshops/introduction-to-arduino-2",
+    "price":"0.00",
+    "priceCurrency":"USD",
+    "availability":"http://schema.org/InStock",
+    "availabilityStarts":"2018-04-26T14:00",
+    "validThrough":"2018-04-26T15:00",
+    "inventoryLevel":"999"
+    }
+  }

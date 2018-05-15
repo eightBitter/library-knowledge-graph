@@ -1,0 +1,30 @@
+{
+  "@context":"http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/workshops/record-edit-and-produce-audio-at-hill-0",
+  "@type":"Event",
+  "about":{
+    "@id": "https://www.wikidata.org/wiki/Q15280872",
+    "@type": "Thing",
+    "name": "sound engineering"
+  },
+  "url":"https://www.lib.ncsu.edu/workshops/record-edit-and-produce-audio-at-hill-0",
+  "name":"Record, Edit, and Produce Audio at Hill",
+  "startDate":"2018-04-26T18:00",
+  "endDate":"2018-04-26T19:00",
+  "eventStatus":"EventScheduled",
+  "duration":"T1H0M",
+  "description":"Learn how to record, edit, and share audio in the Hunt Library Music Rooms and Media Production Studios in this interactive workshop. You'll record your voice using library equipment, edit your recording, and learn how to share it with others. Additionally, you'll have the opportunity to become familiar with the in-room audio equipment, and, using GarageBand, learn the basics of the MIDI keyboard, practice audio editing, understand multitrack recording, and get to know the powerful production and vintage audio format digitization opportunities these rooms have to offer, and more. Appropriate for beginners but also for those at any skill level who wish to better familiarize themselves with the Hunt Library Music Rooms and Media Production Studios while gaining essential skills for both school and personal projects.",
+  "location":{
+    "@id":"https://www.lib.ncsu.edu/spaces/digital-media-lab"
+    },
+  "offers":{
+    "@type":"Offer",
+    "url":"https://www.lib.ncsu.edu/workshops/record-edit-and-produce-audio-at-hill-0",
+    "price":"0.00",
+    "priceCurrency":"USD",
+    "availability":"http://schema.org/InStock",
+    "availabilityStarts":"2018-04-26T18:00",
+    "validThrough":"2018-04-26T19:00",
+    "inventoryLevel":"999"
+    }
+  }
