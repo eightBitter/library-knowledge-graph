@@ -17,4 +17,9 @@ This is a personal attempt at creating a library knowledge graph that represents
 
 ## To Do Next
 
-- Create a couple more event records; move onto products
+- Create a few records for each service category
+  - https://www.lib.ncsu.edu/services/data-visualization
+  - https://www.lib.ncsu.edu/services/digital-media-production
+  - https://www.lib.ncsu.edu/services/researcher-support
+  - https://www.lib.ncsu.edu/services/instructor-support
+  - https://www.lib.ncsu.edu/services/makerspace

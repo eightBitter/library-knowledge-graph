@@ -1,0 +1,19 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/jfessic",
+  "@type": "Person",
+  "name": "Jeff Essic",
+  "jobTitle": "Data & Visualization Librarian",
+  "workLocation": "https://www.lib.ncsu.edu/about/dhhill",
+  "email": "jfessic@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/essic-3197.jpg?itok=sZ7gx2hB",
+  "telephone": "9195155698",
+  "url": "https://www.lib.ncsu.edu/staff/jfessic",
+  "affiliation": "",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": "https://www.lib.ncsu.edu/about/dhhill",
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/gis"
+  ],
+  "sameAs" : "https://www.linkedin.com/in/jeffessic"
+  }

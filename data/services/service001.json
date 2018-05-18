@@ -1,0 +1,18 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/do/gis",
+  "@type":"Service",
+  "category":{
+    "@id": "https://www.wikidata.org/wiki/Q483130",
+    "@type": "Thing",
+    "name": "geographic information system"
+  },
+  "isRelatedTo":"https://www.lib.ncsu.edu/services/data-visualization",
+  "provider":[
+    "https://www.lib.ncsu.edu/staff/jfessic",
+    "https://www.lib.ncsu.edu/staff/mrnutt"
+  ],
+  "name":"Geographic Information Systems (GIS)",
+  "description":"We provide access to data resources and assist researchers with identifying and using geospatial and tabular data with mapping software.",
+  "url": "https://www.lib.ncsu.edu/do/gis"
+}

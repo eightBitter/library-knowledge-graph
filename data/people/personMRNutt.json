@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/mrnutt",
+  "@type": "Person",
+  "name": "Mike Nutt",
+  "jobTitle": "Associate Head, Data & Visualization Services",
+  "workLocation": "https://www.lib.ncsu.edu/about/dhhill",
+  "email": "mrnutt@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/nutt-0199.jpg?itok=wtH66iHs",
+  "telephone": "9195150651",
+  "url": "https://www.lib.ncsu.edu/staff/mrnutt",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": "https://www.lib.ncsu.edu/about/dhhill",
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/gis"
+  ],
+  "sameAs" : "http://www.linkedin.com/in/mikenutt"
+  }

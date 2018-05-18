@@ -1,0 +1,8 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/services/data-visualization",
+  "@type":"Service",
+  "name":"Data & Visualization",
+  "description":"Data & Visualization services",
+  "url": "https://www.lib.ncsu.edu/services/data-visualization"
+}

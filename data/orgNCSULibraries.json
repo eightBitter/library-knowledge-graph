@@ -1,0 +1,7 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/",
+  "name": "NCSU Libraries",
+  "logo": "https://www.lib.ncsu.edu/sites/all/themes/ncsulib_foundation/images/ncsu-library-logo-white.png",
+  "url": "https://www.lib.ncsu.edu/"
+}

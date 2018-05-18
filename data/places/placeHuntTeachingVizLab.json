@@ -1,0 +1,26 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/spaces/teaching-and-viz",
+  "@type":"Place",
+  "name":"Teaching and Visulization Lab",
+  "url":"https://www.lib.ncsu.edu/spaces/teaching-and-viz",
+  "description":"Faculty and graduates students can request to use the Teaching and Visualization Lab, a black-box room that offers 270-degree immersive projection on three walls / five screens for a total of 94 linear feet of high-definition display surface. The room can host a variety of events including:
+
+- High-impact presentations of large-scale visualizations and simulations
+- Technology-rich interactive sessions in a small group setting
+- Command/control room simulation
+- Immersive computing
+- Game research
+- “Big data” decision theater
+- Comparative social computing
+
+270° stereoscopic 3D projection is available.",
+  "containedInPlace":"https://www.lib.ncsu.edu/huntlibrary",
+  "photo":"https://www.lib.ncsu.edu/sites/default/files/thumbnails/image/Hunt_Teaching-and-Visualization-Lab_1.jpg",
+  "openingHoursSpecification":"ENTER SOMETHING HERE",
+  "address":{
+    "@type":"PostalAddress",
+    "addressLocality":"Raleigh",
+    "addressRegion":"NC",
+    "streetAddress":"1070 Partners Way Campus Box 7132 Raleigh, NC 27606"
+    }

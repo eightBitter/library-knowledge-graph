@@ -1,0 +1,15 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/spaces/ittc-lab-1a",
+  "@type":"Place",
+  "name":"ITTC Lab 1A",
+  "url":"https://www.lib.ncsu.edu/spaces/ittc-lab-1a",
+  "description":"The ITTC Labs consist of three teaching labs used for courses and workshops offered by NCSU Libraries, DELTA, and OIT.",
+  "containedInPlace":"https://www.lib.ncsu.edu/about/dhhill",
+  "openingHoursSpecification":"ADD LATER",
+  "address":{
+    "@type":"PostalAddress",
+    "addressLocality":"Raleigh",
+    "addressRegion":"NC",
+    "streetAddress":"2 Broughton Drive, Campus Box 7132, Raleigh, NC 27606"
+    }

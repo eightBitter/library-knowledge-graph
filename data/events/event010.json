@@ -1,0 +1,32 @@
+{
+  "@context":"http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/workshops/introduction-to-google-cardboard",
+  "@type":"Event",
+  "about":{
+    "@id": "https://www.wikidata.org/wiki/Q206904",
+    "@type": "Thing",
+    "name": "R"
+  },
+  "url":"https://www.lib.ncsu.edu/workshops/introduction-to-google-cardboard",
+  "name":"R for Absolute Beginners",
+  "startDate":"2018-04-04T13:00",
+  "endDate":"2018-04-04T15:00",
+  "eventStatus":"EventScheduled",
+  "duration":"T2H0M",
+  "description":"R is a language and computing environment for statistical analysis and graphics that is free and open-source. R can be used for multiple purposes, including statistics, data cleaning, visualization and creating data-driven web applications. R is very useful for producing publication-quality graphs from data.
+
+This workshop is an introduction to R for absolute beginners who have little or no prior experience with coding. No experience with coding is expected. If you have a solid coding background, this workshop may be too introductory for you.",
+  "location":{
+    "@id":"https://www.lib.ncsu.edu/spaces/ittc-lab-1a"
+    },
+  "offers":{
+    "@type":"Offer",
+    "url":"https://www.lib.ncsu.edu/workshops/introduction-to-google-cardboard",
+    "price":"0.00",
+    "priceCurrency":"USD",
+    "availability":"http://schema.org/InStock",
+    "availabilityStarts":"2018-04-04T13:00",
+    "validThrough":"2018-04-04T15:00",
+    "inventoryLevel":"999"
+    }
+  }

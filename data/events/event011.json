@@ -1,0 +1,35 @@
+{
+  "@context":"http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/events/coffee-viz-tropical-forest-conservation-the-view-from-700-kilometers",
+  "@type":"Event",
+  "about":[{
+    "@id": "https://www.wikidata.org/wiki/Q451553",
+    "@type": "Thing",
+    "name": "visualization"
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q483130",
+    "@type": "Thing",
+    "name": "geographic information system"
+  }],
+  "url":"https://www.lib.ncsu.edu/events/coffee-viz-tropical-forest-conservation-the-view-from-700-kilometers",
+  "name":"Coffee & Viz - Tropical Forest Conservation: The View from 700 Kilometers",
+  "startDate":"2018-04-20T09:30",
+  "endDate":"2018-04-20T10:30",
+  "eventStatus":"EventScheduled",
+  "duration":"T1H0M",
+  "description":"Tropical deforestation is the second largest contributor of greenhouse emissions and has important impacts on global climate, biodiversity, and human well-being. Strategies for preserving tropical forests range from local-scale interventions, such as the establishment of protected areas, to national- and larger-scale economic (dis)incentives. New methods using time series of remotely sensed images allow us to map land-use change and evaluate the effectiveness of these various strategies. In this talk, Dr. Joshua Gray will show how this approach was applied to assess the impact of logging concessions in Indonesia.",
+  "location":{
+    "@id":"https://www.lib.ncsu.edu/spaces/teaching-and-viz"
+    },
+  "offers":{
+    "@type":"Offer",
+    "url":"https://www.lib.ncsu.edu/events/coffee-viz-tropical-forest-conservation-the-view-from-700-kilometers",
+    "price":"0.00",
+    "priceCurrency":"USD",
+    "availability":"http://schema.org/InStock",
+    "availabilityStarts":"2018-04-20T09:30",
+    "validThrough":"2018-04-04T10:30",
+    "inventoryLevel":"999"
+    }
+  }
