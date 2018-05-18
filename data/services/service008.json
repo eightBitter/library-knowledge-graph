@@ -1,0 +1,20 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/do/photography",
+  "@type":"Service",
+  "category":[{
+    "@id": "https://www.wikidata.org/wiki/Q11633",
+    "@type": "Thing",
+    "name": "photography"
+      }],
+  "isRelatedTo":"https://www.lib.ncsu.edu/services/digital-media-production",
+  "provider":[
+    "https://www.lib.ncsu.edu/staff/kmlangdo",
+    "https://www.lib.ncsu.edu/staff/mamathew",
+    "https://www.lib.ncsu.edu/staff/jevansg",
+    "https://www.lib.ncsu.edu/staff/dnwoodbu"
+  ],
+  "name":"Photography",
+  "description":"There are several workshops and cameras available at the NCSU Libraries for your photography needs.",
+  "url": "https://www.lib.ncsu.edu/do/photography"
+}

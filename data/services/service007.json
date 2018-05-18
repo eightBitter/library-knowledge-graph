@@ -1,0 +1,21 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/do/scanning",
+  "@type":"Service",
+  "category":[{
+    "@id": "https://www.wikidata.org/wiki/Q7098890",
+    "@type": "Thing",
+    "name": "optical reader",
+    "alternateName": "scanning"
+  }],
+  "isRelatedTo":"https://www.lib.ncsu.edu/services/digital-media-production",
+  "provider":[
+    "https://www.lib.ncsu.edu/staff/kmlangdo",
+    "https://www.lib.ncsu.edu/staff/mamathew",
+    "https://www.lib.ncsu.edu/staff/jevansg",
+    "https://www.lib.ncsu.edu/staff/dnwoodbu"
+  ],
+  "name":"Scanning",
+  "description":"Specialized scanners and help with converting almost any printed or photographic material into digital format.",
+  "url": "https://www.lib.ncsu.edu/do/scanning"
+}

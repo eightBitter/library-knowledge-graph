@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/ablaine",
+  "@type": "Person",
+  "name": "Alison Blaine",
+  "jobTitle": "Data & Visualization Librarian",
+  "workLocation": "https://www.lib.ncsu.edu/about/dhhill",
+  "email": "ablaine@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/blaine-4000_0.jpg?itok=UmXmrQMi",
+  "telephone": "9195133600",
+  "url": "https://www.lib.ncsu.edu/staff/ablaine",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": "https://www.lib.ncsu.edu/about/dhhill",
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/text-and-data-mining",
+    "https://www.lib.ncsu.edu/do/visualization"
+  ]
+  }

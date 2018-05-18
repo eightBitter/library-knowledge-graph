@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/mgwust",
+  "@type": "Person",
+  "name": "Markus Wust",
+  "jobTitle": "Digital Research and Scholarship Librarian",
+  "workLocation": "https://www.lib.ncsu.edu/about/dhhill",
+  "email": "mgwust@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/markus-0113.jpg?itok=wKrpUkiJ",
+  "telephone": "9195130743",
+  "url": "https://www.lib.ncsu.edu/staff/mgwust",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": "https://www.lib.ncsu.edu/about/dhhill",
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/text-and-data-mining",
+    "https://www.lib.ncsu.edu/do/virtual-reality"
+  ]
+  }

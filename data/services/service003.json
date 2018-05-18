@@ -1,0 +1,29 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/do/text-and-data-mining",
+  "@type":"Service",
+  "category":[{
+    "@id": "https://www.wikidata.org/wiki/Q676880",
+    "@type": "Thing",
+    "name": "text mining"
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q172491",
+    "@type": "Thing",
+    "name": "data mining"
+  }],
+  "isRelatedTo":"https://www.lib.ncsu.edu/services/data-visualization",
+  "provider":[
+    "https://www.lib.ncsu.edu/staff/jfessic",
+    "https://www.lib.ncsu.edu/staff/mrnutt",
+    "https://www.lib.ncsu.edu/staff/ablaine",
+    "https://www.lib.ncsu.edu/staff/dcorcutt",
+    "https://www.lib.ncsu.edu/staff/mgwust",
+    "https://www.lib.ncsu.edu/staff/hjtebbe"
+  ],
+  "name":"Text and Data Mining",
+  "description":"Text and data mining are the computer-based processes of extracting relevant information and/or patterns from machine-readable text or data. The work usually involves examining large data sets. Text and data mining is used across disciplines, from history to biology, computer science to political science.
+
+  Depending on your discipline and the kind of data you want to mine, the process may be called something other than text mining or data mining. Related terms include: text data mining, text analytics, content mining, audio mining, software mining, image mining, metadata mining, and video mining.",
+  "url": "https://www.lib.ncsu.edu/do/text-and-data-mining"
+}

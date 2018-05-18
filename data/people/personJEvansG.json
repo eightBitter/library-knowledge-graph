@@ -1,0 +1,19 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/jevansg",
+  "@type": "Person",
+  "name": "Jason Evans Groth",
+  "jobTitle": "Digital Media Librarian",
+  "workLocation": "https://www.lib.ncsu.edu/about/dhhill",
+  "email": "jevansg@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/evansgroth-7720_0.jpg?itok=7HsJUl2R",
+  "telephone": "9195152590",
+  "url": "https://www.lib.ncsu.edu/staff/jevansg",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": "https://www.lib.ncsu.edu/about/dhhill",
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/visualization",
+    "https://www.lib.ncsu.edu/do/scanning",
+    "https://www.lib.ncsu.edu/do/graphics"
+  ]
+  }

@@ -1,0 +1,17 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/jwgurley",
+  "@type": "Person",
+  "name": "Walt Gurley",
+  "jobTitle": "Data & Visualization Librarian",
+  "workLocation": "https://www.lib.ncsu.edu/about/dhhill",
+  "email": "jwgurley@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/gurley-9718.jpg?itok=j_IAOON8",
+  "telephone": "9195158822",
+  "url": "https://www.lib.ncsu.edu/staff/jwgurley",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": "https://www.lib.ncsu.edu/about/dhhill",
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/visualization"
+  ]
+  }

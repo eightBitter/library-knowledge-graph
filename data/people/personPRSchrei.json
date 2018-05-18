@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/prschrei",
+  "@type": "Person",
+  "name": "Pete Schreiner",
+  "jobTitle": "NCSU Libraries Fellow",
+  "workLocation": [
+    "https://www.lib.ncsu.edu/about/dhhill"
+  ],
+  "email": "asroger2@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/schreiner-4534_0.jpg?itok=wyd8Wplw",
+  "telephone": "9195154154",
+  "url": "https://www.lib.ncsu.edu/staff/prschrei",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": [
+    "https://www.lib.ncsu.edu/about/dhhill"
+],
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/virtual-reality"
+  ]
+  }

@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/asroger2",
+  "@type": "Person",
+  "name": "Adam Rogers",
+  "jobTitle": "Head of Making & Innovation Studio",
+  "workLocation": [
+    "https://www.lib.ncsu.edu/about/dhhill",
+    "https://www.lib.ncsu.edu/huntlibrary"
+  ],
+  "email": "asroger2@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/rogers-6947.jpg?itok=g_I2BC_B",
+  "telephone": "9195151880",
+  "url": "https://www.lib.ncsu.edu/staff/asroger2",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": [
+    "https://www.lib.ncsu.edu/about/dhhill",
+  "https://www.lib.ncsu.edu/huntlibrary"
+],
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/virtual-reality"
+  ],
+  "sameAs" : [
+    "http://twitter.com/adrogersam",
+  "https://www.linkedin.com/in/adrogersam"
+]
+  }

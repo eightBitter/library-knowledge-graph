@@ -1,0 +1,19 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/do/graphics",
+  "@type":"Service",
+  "category":[{
+    "@id": "https://www.wikidata.org/wiki/Q1027879",
+    "@type": "Thing",
+    "name": "graphics"
+          }],
+  "isRelatedTo":"https://www.lib.ncsu.edu/services/digital-media-production",
+  "provider":[
+    "https://www.lib.ncsu.edu/staff/mrnutt",
+    "https://www.lib.ncsu.edu/staff/jevansg",
+    "https://www.lib.ncsu.edu/staff/dnwoodbu"
+  ],
+  "name":"Graphics",
+  "description":"Software, computers and expert help for producing high-quality graphics for your projects.",
+  "url": "https://www.lib.ncsu.edu/do/graphics"
+}

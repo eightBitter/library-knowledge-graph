@@ -13,7 +13,8 @@
   "worksFor": "https://www.lib.ncsu.edu/",
   "address": "https://www.lib.ncsu.edu/about/dhhill",
   "makesOffer": [
-    "https://www.lib.ncsu.edu/do/gis"
+    "https://www.lib.ncsu.edu/do/gis",
+    "https://www.lib.ncsu.edu/do/visualization"
   ],
   "sameAs" : "https://www.linkedin.com/in/jeffessic"
   }

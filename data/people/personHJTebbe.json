@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/hjtebbe",
+  "@type": "Person",
+  "name": "Heidi Tebbe",
+  "jobTitle": "Collections & Research Librarian for Engineering and Data Science",
+  "workLocation": "https://www.lib.ncsu.edu/about/dhhill",
+  "email": "hjtebbe@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/tebbe-3240.jpg?itok=Qqt0N2ZW",
+  "telephone": "9195151199",
+  "url": "https://www.lib.ncsu.edu/staff/hjtebbe",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": "https://www.lib.ncsu.edu/about/dhhill",
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/text-and-data-mining"
+  ],
+  "sameAs": "https://www.linkedin.com/in/heidi-tebbe/"
+  }

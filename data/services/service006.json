@@ -1,0 +1,8 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/services/digital-media-production",
+  "@type":"Service",
+  "name":"Digital Media Production",
+  "description":"Digital media production services",
+  "url": "https://www.lib.ncsu.edu/services/digital-media-production"
+}

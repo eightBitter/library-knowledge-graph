@@ -1,0 +1,17 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/jmjeffer",
+  "@type": "Person",
+  "name": "Jason Jefferies",
+  "jobTitle": "University Library Technician",
+  "workLocation": "https://www.lib.ncsu.edu/huntlibrary",
+  "email": "jmjeffer@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/jefferies-7665.jpg?itok=8PzE1yes",
+  "telephone": "9195133522",
+  "url": "https://www.lib.ncsu.edu/staff/jmjeffer",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": "https://www.lib.ncsu.edu/huntlibrary",
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/visualization"
+  ]
+  }

@@ -1,0 +1,17 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/hlrainey",
+  "@type": "Person",
+  "name": "Hannah Rainey",
+  "jobTitle": "NCSU Libraries Fellow",
+  "workLocation": "https://www.lib.ncsu.edu/about/dhhill",
+  "email": "hlrainey@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/rainey-4562-5.jpg?itok=pw82MvjW",
+  "telephone": "9195130086",
+  "url": "https://www.lib.ncsu.edu/staff/hlrainey",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": "https://www.lib.ncsu.edu/about/dhhill",
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/visualization"
+  ]
+  }

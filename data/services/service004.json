@@ -1,0 +1,23 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/do/visualization",
+  "@type":"Service",
+  "category":[{
+    "@id": "https://www.wikidata.org/wiki/Q451553",
+    "@type": "Thing",
+    "name": "visualization"
+  }],
+  "isRelatedTo":"https://www.lib.ncsu.edu/services/data-visualization",
+  "provider":[
+    "https://www.lib.ncsu.edu/staff/jfessic",
+    "https://www.lib.ncsu.edu/staff/kacollin",
+    "https://www.lib.ncsu.edu/staff/ablaine",
+    "https://www.lib.ncsu.edu/staff/jevansg",
+    "https://www.lib.ncsu.edu/staff/jwgurley",
+    "https://www.lib.ncsu.edu/staff/jmjeffer",
+    "https://www.lib.ncsu.edu/staff/hlrainey"
+  ],
+  "name":"Visualization",
+  "description":"A good data visualization can expose new patterns and relationships in your data and help you communicate about it more clearly. The NCSU Libraries can help you become a data visualization expert.",
+  "url": "https://www.lib.ncsu.edu/do/visualization"
+}

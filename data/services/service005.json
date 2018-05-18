@@ -1,0 +1,18 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/do/large-format-printing",
+  "@type":"Service",
+  "category":[{
+    "@id": "https://www.wikidata.org/wiki/Q11034",
+    "@type": "Thing",
+    "name": "printing"
+  }],
+  "isRelatedTo":"https://www.lib.ncsu.edu/services/digital-media-production",
+  "provider":[
+    "https://www.lib.ncsu.edu/staff/kmlangdo",
+    "https://www.lib.ncsu.edu/staff/mamathew"
+  ],
+  "name":"Large Format Printing",
+  "description":"A large format printer is available at the Ask Us centers at the D. H. Hill and Hunt Libraries for large format printing for NCSU faculty, staff, students, and Centennial Campus affiliates.",
+  "url": "https://www.lib.ncsu.edu/do/large-format-printing"
+}

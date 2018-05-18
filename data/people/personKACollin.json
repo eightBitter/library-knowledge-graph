@@ -1,0 +1,17 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/kacollin",
+  "@type": "Person",
+  "name": "Karen Ciccone",
+  "jobTitle": "Department Head, Data & Visualization Services",
+  "workLocation": "https://www.lib.ncsu.edu/about/dhhill",
+  "email": "kacollin@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/ciccone-6634-2.jpg?itok=hIepW8UG",
+  "telephone": "9195153946",
+  "url": "https://www.lib.ncsu.edu/staff/kacollin",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": "https://www.lib.ncsu.edu/about/dhhill",
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/visualization"
+  ]
+  }

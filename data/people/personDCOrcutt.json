@@ -1,0 +1,17 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/dcorcutt",
+  "@type": "Person",
+  "name": "Darby Orcutt",
+  "jobTitle": "Assistant Head, Collections & Research Strategy",
+  "workLocation": "https://www.lib.ncsu.edu/about/dhhill",
+  "email": "dcorcutt@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/orcutt-8691.jpg?itok=MIIqjuTf",
+  "telephone": "9195130364",
+  "url": "https://www.lib.ncsu.edu/staff/dcorcutt",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": "https://www.lib.ncsu.edu/about/dhhill",
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/text-and-data-mining"
+  ]
+  }

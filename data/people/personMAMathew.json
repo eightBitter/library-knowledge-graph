@@ -1,0 +1,17 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/mamathew",
+  "@type": "Person",
+  "name": "Mara Mathews",
+  "jobTitle": "University Library Technician",
+  "workLocation": "https://www.lib.ncsu.edu/huntlibrary",
+  "email": "mamathew@ncsu.edu",
+  "telephone": "9195154474",
+  "url": "https://www.lib.ncsu.edu/staff/mamathew",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": "https://www.lib.ncsu.edu/huntlibrary",
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/large-format-printing",
+    "https://www.lib.ncsu.edu/do/scanning"
+  ]
+}

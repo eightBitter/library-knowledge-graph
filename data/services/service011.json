@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/do/virtual-reality",
+  "@type": "Service",
+  "category": [
+    {
+      "@id": "https://www.wikidata.org/wiki/Q170519",
+      "@type": "Thing",
+      "name": "virtual reality"
+    },
+    {
+      "@id": "https://www.wikidata.org/wiki/Q254183",
+      "@type": "Thing",
+      "name": "augmented reality"
+    }
+  ],
+  "isRelatedTo": "https://www.lib.ncsu.edu/services/digital-media-production",
+  "provider": [
+    "https://www.lib.ncsu.edu/staff/mrnutt",
+    "https://www.lib.ncsu.edu/staff/dnwoodbu",
+    "https://www.lib.ncsu.edu/staff/mgwust",
+    "https://www.lib.ncsu.edu/staff/asroger2",
+    "https://www.lib.ncsu.edu/staff/prschrei"
+  ],
+  "name": "Virtual Reality & Augmented Reality",
+  "description": "Virtual reality (VR) is a realistic and immersive simulation of a three-dimensional environment, created using interactive software and hardware, and experienced or controlled by movement of the body. Augmented reality (AR) is an enhanced image or environment as viewed on a screen or other display, produced by overlaying computer-generated images, sounds, or other data on a real-world environment.",
+  "url": "https://www.lib.ncsu.edu/do/virtual-reality"
+}

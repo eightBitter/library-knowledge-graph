@@ -12,7 +12,9 @@
   "worksFor": "https://www.lib.ncsu.edu/",
   "address": "https://www.lib.ncsu.edu/about/dhhill",
   "makesOffer": [
-    "https://www.lib.ncsu.edu/do/gis"
+    "https://www.lib.ncsu.edu/do/gis",
+    "https://www.lib.ncsu.edu/do/graphics",
+    "https://www.lib.ncsu.edu/do/virtual-reality"
   ],
   "sameAs" : "http://www.linkedin.com/in/mikenutt"
   }

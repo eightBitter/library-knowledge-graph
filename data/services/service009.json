@@ -1,0 +1,21 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/do/audio",
+  "@type":"Service",
+  "category":[{
+    "@id": "https://www.wikidata.org/wiki/Q15280872",
+    "@type": "Thing",
+    "name": "sound engineering",
+    "alternateName": "audio"
+      }],
+  "isRelatedTo":"https://www.lib.ncsu.edu/services/digital-media-production",
+  "provider":[
+    "https://www.lib.ncsu.edu/staff/kmlangdo",
+    "https://www.lib.ncsu.edu/staff/mrnutt",
+    "https://www.lib.ncsu.edu/staff/jevansg",
+    "https://www.lib.ncsu.edu/staff/dnwoodbu"
+  ],
+  "name":"Audio",
+  "description":"Record, play, experiment with voice and music.",
+  "url": "https://www.lib.ncsu.edu/do/audio"
+}
