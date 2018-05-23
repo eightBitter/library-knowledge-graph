@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/reposey",
+  "@type": "Person",
+  "name": "Rachael Posey",
+  "jobTitle": "Health & Life Sciences Research Librarian and Associate Director, Veterinary Medicine",
+  "workLocation": [
+    "https://www.lib.ncsu.edu/vetmed"
+  ],
+  "email": "reposey@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/Posey-3340.jpg?itok=qayQ8m5O",
+  "telephone": "9195136823",
+  "url": "https://www.lib.ncsu.edu/staff/reposey",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": [
+    "https://www.lib.ncsu.edu/vetmed"
+],
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/research-impact",
+    "https://www.lib.ncsu.edu/do/grants-and-funding"
+  ]
+  }

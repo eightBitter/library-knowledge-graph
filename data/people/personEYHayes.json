@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/eyhayes",
+  "@type": "Person",
+  "name": "Erica Hayes",
+  "jobTitle": "NCSU Libraries Fellow",
+  "workLocation": [
+    "https://www.lib.ncsu.edu/about/dhhill"
+  ],
+  "email": "eyhayes@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/erica.hayes-1156.jpg?itok=84_usSVC",
+  "url": "https://www.lib.ncsu.edu/staff/eyhayes",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": [
+    "https://www.lib.ncsu.edu/about/dhhill"
+],
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/data-management",
+    "https://www.lib.ncsu.edu/do/research-impact"
+  ]
+  }

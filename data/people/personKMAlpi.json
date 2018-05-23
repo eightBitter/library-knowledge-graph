@@ -1,0 +1,24 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/kmalpi",
+  "@type": "Person",
+  "name": "Kris Alpi",
+  "jobTitle": "Director, William Rand Kenan, Jr. Library of Veterinary Medicine",
+  "workLocation": [
+    "https://www.lib.ncsu.edu/vetmed"
+  ],
+  "email": "kmalpi@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/alpi-8779.jpg?itok=RIpITsaR",
+  "telephone": "9195136219",
+  "url": "https://www.lib.ncsu.edu/staff/kmalpi",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": [
+    "https://www.lib.ncsu.edu/vetmed"
+],
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/data-management",
+    "https://www.lib.ncsu.edu/do/research-impact",
+    "https://www.lib.ncsu.edu/do/grants-and-funding"
+  ],
+  "sameAs": "https://www.linkedin.com/pub/kristine-alpi/3/985/270"
+  }

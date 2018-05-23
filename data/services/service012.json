@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/do/data-management",
+  "@type": "Service",
+  "category": [
+    {
+      "@id": "https://www.wikidata.org/wiki/Q1149776",
+      "@type": "Thing",
+      "name": "data management"
+    },
+    {
+      "@id": "https://www.wikidata.org/wiki/Q15809982",
+      "@type": "Thing",
+      "name": "research data"
+    }
+  ],
+  "isRelatedTo": "https://www.lib.ncsu.edu/services/researcher-support",
+  "provider": [
+    "https://www.lib.ncsu.edu/staff/kmalpi",
+    "https://www.lib.ncsu.edu/staff/kacollin",
+    "https://www.lib.ncsu.edu/staff/wmcross",
+    "https://www.lib.ncsu.edu/staff/hmdavis4",
+    "https://www.lib.ncsu.edu/staff/jfessic",
+    "https://www.lib.ncsu.edu/staff/eyhayes",
+    "https://www.lib.ncsu.edu/staff/dmlewis6",
+    "https://www.lib.ncsu.edu/staff/mramasw",
+    "https://www.lib.ncsu.edu/staff/stnakaso"
+  ],
+  "name": "Data Management",
+  "description": "We can help during all phases of the research data lifecycle. We help prepare data management plans (DMPs) for grant proposals, consult on best practices for storage and preservation, and help optimize sharing and discovery of data.  We work with OIT and SPARCS to advance research at NC State.",
+  "url": "https://www.lib.ncsu.edu/do/data-management"
+}

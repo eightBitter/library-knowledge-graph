@@ -1,0 +1,24 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/wmcross",
+  "@type": "Person",
+  "name": "Will Cross",
+  "jobTitle": "Director, Copyright & Digital Scholarship Center",
+  "workLocation": [
+    "https://www.lib.ncsu.edu/about/dhhill"
+  ],
+  "email": "wmcross@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/cross-2859.jpg?itok=Amj2CKXP",
+  "telephone": "9195132416",
+  "url": "https://www.lib.ncsu.edu/staff/wmcross",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": [
+    "https://www.lib.ncsu.edu/about/dhhill"
+],
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/data-management",
+    "https://www.lib.ncsu.edu/do/research-impact",
+    "https://www.lib.ncsu.edu/do/grants-and-funding"
+  ],
+  "sameAs": "http://twitter.com/tceles_b_hsup"
+  }

@@ -1,0 +1,24 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/do/cdsc",
+  "@type": "Service",
+  "category": [
+    {
+      "@id": "https://www.wikidata.org/wiki/Q12948581",
+      "@type": "Thing",
+      "name": "copyright"
+    }
+  ],
+  "isRelatedTo": "https://www.lib.ncsu.edu/services/researcher-support",
+  "provider": [
+    "https://www.lib.ncsu.edu/staff/kmalpi",
+    "https://www.lib.ncsu.edu/staff/wmcross",
+    "https://www.lib.ncsu.edu/staff/dmlewis6",
+    "https://www.lib.ncsu.edu/staff/reposey",
+    "https://www.lib.ncsu.edu/staff/mramasw",
+    "https://www.lib.ncsu.edu/staff/mpark"
+  ],
+  "name": "Grants & Funding",
+  "description": "Librarians can provide assistance with searching funding databases and creating funding opportunity alerts. We can also help Find Research Collaborators. For more information, meet with a librarian or Ask Us.",
+  "url": "https://www.lib.ncsu.edu/do/cdsc"
+}

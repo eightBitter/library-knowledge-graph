@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/services/researcher-support",
+  "@type": "Service",
+  "name": "Researcher Support",
+  "description": "Researcher support",
+  "url": "https://www.lib.ncsu.edu/services/researcher-support"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/mramasw",
+  "@type": "Person",
+  "name": "Mohan Ramaswamy",
+  "jobTitle": "Director, Natural Resources Library",
+  "workLocation": [
+    "https://www.lib.ncsu.edu/nrl"
+  ],
+  "email": "mramasw@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/ramaswamy-7557.jpg?itok=AXxFtI3g",
+  "telephone": "9195133513",
+  "url": "https://www.lib.ncsu.edu/staff/mramasw",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": [
+    "https://www.lib.ncsu.edu/nrl"
+],
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/data-management",
+    "https://www.lib.ncsu.edu/do/research-impact",
+    "https://www.lib.ncsu.edu/do/grants-and-funding"
+  ],
+  "sameAs": "https://www.linkedin.com/in/mohan-ramaswamy-18138934/"
+  }

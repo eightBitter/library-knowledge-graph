@@ -14,7 +14,8 @@
   "address": "https://www.lib.ncsu.edu/about/dhhill",
   "makesOffer": [
     "https://www.lib.ncsu.edu/do/gis",
-    "https://www.lib.ncsu.edu/do/visualization"
+    "https://www.lib.ncsu.edu/do/visualization",
+    "https://www.lib.ncsu.edu/do/data-management"
   ],
   "sameAs" : "https://www.linkedin.com/in/jeffessic"
   }

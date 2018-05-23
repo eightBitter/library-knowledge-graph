@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/stnakaso",
+  "@type": "Person",
+  "name": "Sonoe Nakasone",
+  "jobTitle": "Lead Librarian for Metadata Technologies",
+  "workLocation": [
+    "https://www.lib.ncsu.edu/huntlibrary"
+  ],
+  "email": "stnakaso@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/nakasone-6542.jpg?itok=KZ9WzJQi",
+  "telephone": "9195156131",
+  "url": "https://www.lib.ncsu.edu/staff/stnakaso",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": [
+    "https://www.lib.ncsu.edu/huntlibrary"
+],
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/data-management"
+  ],
+  "sameAs": "http://twitter.com/tceles_b_hsup"
+  }

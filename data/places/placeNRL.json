@@ -1,0 +1,16 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/nrl",
+  "@type":"Place",
+  "name":"Natural Resources Library",
+  "url":"https://www.lib.ncsu.edu/nrl",
+  "description":"The Natural Resources Library provides research and instructional support for the College of Natural Resources and the department of Marine, Earth and Atmospheric Sciences at NC State. The library collection supports research and teaching in forestry, natural resources, environmental sciences, sport management, parks and recreation, tourism, paper science and engineering, wood products, biomaterials and bioenergy, and marine, earth, and atmospheric sciences.",
+  "containsPlace":"ADD THIS LATER THROUGH A SPARQL QUERY.",
+  "photo":"https://www.lib.ncsu.edu/sites/default/files/NRL%20Outside_1.JPG",
+  "openingHoursSpecification":"ENTER SOMETHING HERE",
+  "address":{
+    "@type":"PostalAddress",
+    "addressLocality":"Raleigh",
+    "addressRegion":"NC",
+    "streetAddress":"2800 Faucette Drive Campus Box 7114 Raleigh, NC 27695"
+    }

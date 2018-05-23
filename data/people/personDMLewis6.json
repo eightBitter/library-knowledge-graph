@@ -1,0 +1,24 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/dmlewis6",
+  "@type": "Person",
+  "name": "Danica Lewis",
+  "jobTitle": "Collections & Research Librarian for Life Sciences",
+  "workLocation": [
+    "https://www.lib.ncsu.edu/about/dhhill"
+  ],
+  "email": "dmlewis6@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/lewis-6325.jpg?itok=WK9ksDVn",
+  "telephone": "9195152742",
+  "url": "https://www.lib.ncsu.edu/staff/dmlewis6",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": [
+    "https://www.lib.ncsu.edu/about/dhhill"
+],
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/data-management",
+    "https://www.lib.ncsu.edu/do/research-impact",
+    "https://www.lib.ncsu.edu/do/grants-and-funding"
+  ],
+  "sameAs": "http://twitter.com/danicamlewis"
+  }

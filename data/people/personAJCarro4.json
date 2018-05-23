@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/ajcarro4",
+  "@type": "Person",
+  "name": "Alex Carroll",
+  "jobTitle": "Research Librarian for Engineering and Biotechnology",
+  "workLocation": [
+    "https://www.lib.ncsu.edu/huntlibrary"
+  ],
+  "email": "ajcarro4@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/carroll-0502.jpg?itok=Yf7P3dMA",
+  "telephone": "9195156602",
+  "url": "https://www.lib.ncsu.edu/staff/ajcarro4",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": [
+    "https://www.lib.ncsu.edu/huntlibrary"
+],
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/research-impact"
+  ]
+  }

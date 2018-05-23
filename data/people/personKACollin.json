@@ -12,6 +12,7 @@
   "worksFor": "https://www.lib.ncsu.edu/",
   "address": "https://www.lib.ncsu.edu/about/dhhill",
   "makesOffer": [
-    "https://www.lib.ncsu.edu/do/visualization"
+    "https://www.lib.ncsu.edu/do/visualization",
+    "https://www.lib.ncsu.edu/do/data-management"
   ]
   }

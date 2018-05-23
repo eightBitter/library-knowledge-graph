@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/do/research-impact",
+  "@type": "Service",
+  "category": [
+    {
+      "@id": "https://www.wikidata.org/wiki/Q5330",
+      "@type": "Thing",
+      "name": "Impact factor"
+    },
+    {
+      "@id": "https://www.wikidata.org/wiki/Q14565201",
+      "@type": "Thing",
+      "name": "altmetrics"
+    }
+  ],
+  "isRelatedTo": "https://www.lib.ncsu.edu/services/researcher-support",
+  "provider": [
+    "https://www.lib.ncsu.edu/staff/kmalpi",
+    "https://www.lib.ncsu.edu/staff/ajcarro4",
+    "https://www.lib.ncsu.edu/staff/wmcross",
+    "https://www.lib.ncsu.edu/staff/eyhayes",
+    "https://www.lib.ncsu.edu/staff/dmlewis6",
+    "https://www.lib.ncsu.edu/staff/reposey",
+    "https://www.lib.ncsu.edu/staff/mramasw",
+    "https://www.lib.ncsu.edu/staff/gkraschk",
+    "https://www.lib.ncsu.edu/staff/mlvandeg",
+    "https://www.lib.ncsu.edu/staff/mpark"
+  ],
+  "name": "Measuring Research Impact",
+  "description": "You can analyze your individual or collaborative scholarly output to:",
+  "url": "https://www.lib.ncsu.edu/do/research-impact"
+}

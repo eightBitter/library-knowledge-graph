@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/gkraschk",
+  "@type": "Person",
+  "name": "Greg Raschke",
+  "jobTitle": "Interim Vice Provost and Director of Libraries",
+  "workLocation": [
+    "https://www.lib.ncsu.edu/about/dhhill"
+  ],
+  "email": "gkraschk@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/raschke-2329.jpg?itok=GMZ0Zjkh",
+  "telephone": "9195157188",
+  "url": "https://www.lib.ncsu.edu/staff/gkraschk",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": [
+    "https://www.lib.ncsu.edu/about/dhhill"
+],
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/research-impact"
+  ]
+  }

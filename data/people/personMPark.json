@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/mpark",
+  "@type": "Person",
+  "name": "Mira Waller",
+  "jobTitle": "Interim Department Head, Research Engagement",
+  "workLocation": [
+    "https://www.lib.ncsu.edu/about/dhhill"
+  ],
+  "email": "mpark@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/waller-8272.jpg?itok=tVWRjEyO",
+  "telephone": "9195153855",
+  "url": "https://www.lib.ncsu.edu/staff/mpark",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": [
+    "https://www.lib.ncsu.edu/about/dhhill"
+],
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/research-impact",
+    "https://www.lib.ncsu.edu/do/grants-and-funding"
+  ]
+  }
