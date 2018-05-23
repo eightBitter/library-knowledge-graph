@@ -1,0 +1,17 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/tdgeib",
+  "@type": "Person",
+  "name": "Talen Geib",
+  "jobTitle": "University Library Technician",
+  "workLocation": "https://www.lib.ncsu.edu/huntlibrary",
+  "email": "tdgeib@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/geib-2257.jpg?itok=Ej-LCKWg",
+  "telephone": "9195158508",
+  "url": "https://www.lib.ncsu.edu/staff/tdgeib",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": "https://www.lib.ncsu.edu/huntlibrary",
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/manage-course-reserves"
+  ]
+}

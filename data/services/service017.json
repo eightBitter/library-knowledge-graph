@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/do/citation-management",
+  "@type": "Service",
+  "category": [
+    {
+      "@id": "https://www.wikidata.org/wiki/Q1403556",
+      "@type": "Thing",
+      "name": "reference management software",
+      "alternateName": "citation management software"
+    }
+  ],
+  "isRelatedTo": "https://www.lib.ncsu.edu/services/researcher-support",
+  "provider": [
+    "https://www.lib.ncsu.edu/staff/kmalpi",
+    "https://www.lib.ncsu.edu/staff/reposey",
+    "https://www.lib.ncsu.edu/staff/mramasw"
+  ],
+  "name": "Citation Management",
+  "description": "These tools help you store and organize lots of references, and format bibliographies and papers in specific citation styles.",
+  "url": "https://www.lib.ncsu.edu/do/citation-management"
+}

@@ -1,0 +1,25 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/do/library-instruction-programs",
+  "@type": "Service",
+  "category": [
+    {
+      "@id": "https://www.wikidata.org/wiki/Q17152826",
+      "@type": "Thing",
+      "name": "Library instruction"
+    }
+  ],
+  "isRelatedTo": "https://www.lib.ncsu.edu/services/instructor-support",
+  "provider": [
+    "https://www.lib.ncsu.edu/staff/amburke5",
+    "https://www.lib.ncsu.edu/staff/aledwar5",
+    "https://www.lib.ncsu.edu/staff/mrnutt",
+    "https://www.lib.ncsu.edu/staff/akorphan",
+    "https://www.lib.ncsu.edu/staff/kgtourin",
+    "https://www.lib.ncsu.edu/staff/dltully",
+    "https://www.lib.ncsu.edu/staff/mpark"
+  ],
+  "name": "Library Instruction Programs",
+  "description": "The NCSU Libraries provides research assistance to your classes. Librarians are able to work with you to create an instruction session suited to the needs of your students and your teaching.",
+  "url": "https://www.lib.ncsu.edu/do/library-instruction-programs"
+}

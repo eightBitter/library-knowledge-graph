@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/do/manage-course-reserves",
+  "@type": "Service",
+  "category": [
+    {
+      "@id": "https://www.wikidata.org/wiki/Q2586246",
+      "@type": "Thing",
+      "name": "Course reserve"
+    }
+  ],
+  "isRelatedTo": "https://www.lib.ncsu.edu/services/instructor-support",
+  "provider": [
+    "https://www.lib.ncsu.edu/staff/ndbayung",
+    "https://www.lib.ncsu.edu/staff/arbrand",
+    "https://www.lib.ncsu.edu/staff/wdharnis",
+    "https://www.lib.ncsu.edu/staff/dbkoh",
+    "https://www.lib.ncsu.edu/staff/cmprinc2",
+    "https://www.lib.ncsu.edu/staff/apreher",
+    "https://www.lib.ncsu.edu/staff/slthomp5",
+    "https://www.lib.ncsu.edu/staff/tdgeib"
+  ],
+  "name": "Manage Course Reserves",
+  "description": "The NCSU Libraries course reserves system provides valuable readings and other materials that support the instructional requirements of specific courses.",
+  "url": "https://www.lib.ncsu.edu/do/manage-course-reserves"
+}

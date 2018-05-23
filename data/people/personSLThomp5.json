@@ -1,0 +1,17 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/slthomp5",
+  "@type": "Person",
+  "name": "Sydney Thompson",
+  "jobTitle": "Department Head, Access Services",
+  "workLocation": "https://www.lib.ncsu.edu/huntlibrary",
+  "email": "slthomp5@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/thompson-7082.jpg?itok=gVcGukI5",
+  "telephone": "9195133586",
+  "url": "https://www.lib.ncsu.edu/staff/slthomp5",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": "https://www.lib.ncsu.edu/huntlibrary",
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/manage-course-reserves"
+  ]
+}

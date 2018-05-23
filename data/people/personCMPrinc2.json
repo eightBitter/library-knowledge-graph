@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/cmprinc2",
+  "@type": "Person",
+  "name": "Christina Prince",
+  "jobTitle": "University Library Technician",
+  "workLocation": [
+    "https://www.lib.ncsu.edu/about/dhhill"
+  ],
+  "email": "cmprinc2@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/prince-2657.jpg?itok=lmey0ds-",
+  "telephone": "9195153372",
+  "url": "https://www.lib.ncsu.edu/staff/cmprinc2",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": [
+    "https://www.lib.ncsu.edu/about/dhhill"
+],
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/manage-course-reserves"
+  ]
+  }

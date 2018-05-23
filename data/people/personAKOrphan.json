@@ -1,0 +1,17 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/akorphan",
+  "@type": "Person",
+  "name": "Andreas Orphanides",
+  "jobTitle": "Associate Head, User Experience",
+  "workLocation": "https://www.lib.ncsu.edu/about/dhhill",
+  "email": "akorphan@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/orphanides-2502.jpg?itok=KO-YJp8d",
+  "telephone": "9195130303",
+  "url": "https://www.lib.ncsu.edu/staff/akorphan",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": "https://www.lib.ncsu.edu/about/dhhill",
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/library-instruction-programs"
+  ]
+  }

@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/services/instructor-support",
+  "@type": "Service",
+  "name": "Instructor Support",
+  "description": "Instructor support",
+  "url": "https://www.lib.ncsu.edu/services/instructor-support"
+}

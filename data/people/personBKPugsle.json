@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/bkpugsle",
+  "@type": "Person",
+  "name": "Brian Pugsley",
+  "jobTitle": "University Library Technician",
+  "workLocation": [
+    "https://www.lib.ncsu.edu/about/dhhill"
+  ],
+  "email": "bkpugsle@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/pugsley-7213.jpg?itok=3Boxch7Q",
+  "telephone": "9195138265",
+  "url": "https://www.lib.ncsu.edu/staff/bkpugsle",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": [
+    "https://www.lib.ncsu.edu/about/dhhill"
+],
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/open-education"
+  ]
+  }

@@ -1,0 +1,17 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/wdharnis",
+  "@type": "Person",
+  "name": "William Harnish",
+  "jobTitle": "University Library Technician",
+  "workLocation": "https://www.lib.ncsu.edu/huntlibrary",
+  "email": "wdharnis@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/harnish.jpg?itok=xs4aWFIn",
+  "telephone": "9195134023",
+  "url": "https://www.lib.ncsu.edu/staff/wdharnis",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": "https://www.lib.ncsu.edu/huntlibrary",
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/manage-course-reserves"
+  ]
+}

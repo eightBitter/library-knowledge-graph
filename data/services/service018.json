@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/do/open-education",
+  "@type": "Service",
+  "category": [
+    {
+      "@id": "https://www.wikidata.org/wiki/Q1031140",
+      "@type": "Thing",
+      "name": "open education"
+    },
+    {
+      "@id": "https://www.wikidata.org/wiki/Q116781",
+      "@type": "Thing",
+      "name": "open educational resources"
+    }
+  ],
+  "isRelatedTo": "https://www.lib.ncsu.edu/services/instructor-support",
+  "provider": [
+    "https://www.lib.ncsu.edu/staff/lmaeschl",
+    "https://www.lib.ncsu.edu/staff/amburke5",
+    "https://www.lib.ncsu.edu/staff/ajcarro4",
+    "https://www.lib.ncsu.edu/staff/wmcross",
+    "https://www.lib.ncsu.edu/staff/aledwar5",
+    "https://www.lib.ncsu.edu/staff/eyhayes",
+    "https://www.lib.ncsu.edu/staff/bkpugsle",
+    "https://www.lib.ncsu.edu/staff/hlrainey",
+    "https://www.lib.ncsu.edu/staff/mlvandeg",
+    "https://www.lib.ncsu.edu/staff/mpark"
+  ],
+  "name": "Open Education",
+  "description": "The NCSU Libraries is committed to fostering change in the current textbook publishing environment. Librarians can partner with faculty members on licensing resources, using digital repositories, and creating and publishing their own open educational resources.",
+  "url": "https://www.lib.ncsu.edu/do/open-education"
+}

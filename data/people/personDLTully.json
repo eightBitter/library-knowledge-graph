@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/dltully",
+  "@type": "Person",
+  "name": "David Tully",
+  "jobTitle": "University Library Technician",
+  "workLocation": [
+    "https://www.lib.ncsu.edu/about/dhhill"
+  ],
+  "email": "dltully@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/tully-7106.jpg?itok=yQlT4sA8",
+  "telephone": "9195152525",
+  "url": "https://www.lib.ncsu.edu/staff/dltully",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": [
+    "https://www.lib.ncsu.edu/about/dhhill"
+],
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/library-instruction-programs"
+  ]
+  }

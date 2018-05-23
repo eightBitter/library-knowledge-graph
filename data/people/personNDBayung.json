@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/ndbayung",
+  "@type": "Person",
+  "name": "Nikee Bayunga",
+  "jobTitle": "University Library Technician",
+  "workLocation": "https://www.lib.ncsu.edu/huntlibrary",
+  "email": "ndbayung@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/bayunga-1670-2.jpg?itok=g8P-XP1d",
+  "telephone": "9195154092",
+  "url": "https://www.lib.ncsu.edu/staff/ndbayung",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": "https://www.lib.ncsu.edu/huntlibrary",
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/manage-course-reserves"
+  ],
+  "sameAs": "http://twitter.com/Migratingplaces"
+}

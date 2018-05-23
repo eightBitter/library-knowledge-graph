@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/lmaeschl",
+  "@type": "Person",
+  "name": "Luke Aeschleman",
+  "jobTitle": "Digital Technologies Development Librarian",
+  "workLocation": [
+    "https://www.lib.ncsu.edu/about/dhhill"
+  ],
+  "email": "lmaeschl@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/Aeschleman-3289.jpg?itok=Z1C4NOXx",
+  "telephone": "9195158643",
+  "url": "https://www.lib.ncsu.edu/staff/lmaeschl",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": [
+    "https://www.lib.ncsu.edu/about/dhhill"
+],
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/open-education"
+  ]
+  }

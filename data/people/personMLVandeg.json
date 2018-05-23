@@ -15,7 +15,9 @@
     "https://www.lib.ncsu.edu/about/dhhill"
 ],
   "makesOffer": [
-    "https://www.lib.ncsu.edu/do/research-impact"
+    "https://www.lib.ncsu.edu/do/research-impact",
+    "https://www.lib.ncsu.edu/do/cdsc",
+    "https://www.lib.ncsu.edu/do/open-education"
   ],
   "sameAs": ["http://twitter.com/micahvandegrift",
   "https://www.linkedin.com/in/micahvandegrift"]

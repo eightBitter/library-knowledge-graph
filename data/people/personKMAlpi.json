@@ -18,7 +18,8 @@
   "makesOffer": [
     "https://www.lib.ncsu.edu/do/data-management",
     "https://www.lib.ncsu.edu/do/research-impact",
-    "https://www.lib.ncsu.edu/do/grants-and-funding"
+    "https://www.lib.ncsu.edu/do/grants-and-funding",
+    "https://www.lib.ncsu.edu/do/citation-management"
   ],
   "sameAs": "https://www.linkedin.com/pub/kristine-alpi/3/985/270"
   }

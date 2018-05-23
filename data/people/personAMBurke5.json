@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/amburke5",
+  "@type": "Person",
+  "name": "Anne Burke",
+  "jobTitle": "Associate Head, Learning Spaces & Services",
+  "workLocation": [
+    "https://www.lib.ncsu.edu/about/dhhill"
+  ],
+  "email": "amburke5@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/burke-8025.jpg?itok=lEgoJZR5",
+  "telephone": "9195137426",
+  "url": "https://www.lib.ncsu.edu/staff/amburke5",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": [
+    "https://www.lib.ncsu.edu/about/dhhill"
+],
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/open-education",
+    "https://www.lib.ncsu.edu/do/library-instruction-programs"
+  ]
+  }

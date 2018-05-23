@@ -1,0 +1,15 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/arbrand",
+  "@type": "Person",
+  "name": "A.R. Brand",
+  "jobTitle": "University Library Technician",
+  "email": "arbrand@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/brand-9239.jpg?itok=PuOKh12D",
+  "telephone": "9195153187",
+  "url": "https://www.lib.ncsu.edu/staff/arbrand",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/manage-course-reserves"
+  ]
+}

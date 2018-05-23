@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/apreher",
+  "@type": "Person",
+  "name": "Alex Reher",
+  "jobTitle": "University Library Technician",
+  "workLocation": [
+    "https://www.lib.ncsu.edu/about/dhhill"
+  ],
+  "email": "apreher@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/reher-7029_0.jpg?itok=fRP62thB",
+  "telephone": "9195130444",
+  "url": "https://www.lib.ncsu.edu/staff/apreher",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": [
+    "https://www.lib.ncsu.edu/about/dhhill"
+],
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/manage-course-reserves"
+  ]
+  }

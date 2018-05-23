@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/dbkoh",
+  "@type": "Person",
+  "name": "David Koh",
+  "jobTitle": "University Library Technician",
+  "workLocation": [
+    "https://www.lib.ncsu.edu/about/dhhill"
+  ],
+  "email": "dbkoh@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/koh-0794-2.jpg?itok=VvQ_Kj8P",
+  "telephone": "9195156066",
+  "url": "https://www.lib.ncsu.edu/staff/dbkoh",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": [
+    "https://www.lib.ncsu.edu/about/dhhill"
+],
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/manage-course-reserves"
+  ]
+  }

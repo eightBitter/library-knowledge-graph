@@ -18,7 +18,9 @@
   "makesOffer": [
     "https://www.lib.ncsu.edu/do/data-management",
     "https://www.lib.ncsu.edu/do/research-impact",
-    "https://www.lib.ncsu.edu/do/grants-and-funding"
+    "https://www.lib.ncsu.edu/do/grants-and-funding",
+    "https://www.lib.ncsu.edu/do/cdsc",
+    "https://www.lib.ncsu.edu/do/open-education"
   ],
   "sameAs": "http://twitter.com/tceles_b_hsup"
   }

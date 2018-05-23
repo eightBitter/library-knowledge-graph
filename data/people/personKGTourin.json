@@ -1,0 +1,17 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/kgtourin",
+  "@type": "Person",
+  "name": "Greg Tourino",
+  "jobTitle": "Lead Librarian for Textiles & Engineering Research Librarian",
+  "workLocation": "https://www.lib.ncsu.edu/huntlibrary",
+  "email": "kgtourin@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/tourino-9147.jpg?itok=uddlk0Mj",
+  "telephone": "9195133862",
+  "url": "https://www.lib.ncsu.edu/staff/kgtourin",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": "https://www.lib.ncsu.edu/huntlibrary",
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/library-instruction-programs"
+  ]
+}

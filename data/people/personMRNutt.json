@@ -14,7 +14,8 @@
   "makesOffer": [
     "https://www.lib.ncsu.edu/do/gis",
     "https://www.lib.ncsu.edu/do/graphics",
-    "https://www.lib.ncsu.edu/do/virtual-reality"
+    "https://www.lib.ncsu.edu/do/virtual-reality",
+    "https://www.lib.ncsu.edu/do/library-instruction-programs"
   ],
   "sameAs" : "http://www.linkedin.com/in/mikenutt"
   }
