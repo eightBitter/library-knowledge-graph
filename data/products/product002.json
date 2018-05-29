@@ -1,0 +1,37 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/devices/eos-rebel",
+  "@type":"Product",
+  "category":{
+    "@id": "https://www.wikidata.org/wiki/Q196342",
+    "@type": "Thing",
+    "name": "digital single-lens reflex camera",
+    "alternateName": "dslr"
+  },
+  "isRelatedTo":"https://www.lib.ncsu.edu/techlending/digital-cameras-and-camcorders",
+  "manufacturer":
+  {
+  "@id": "https://www.wikidata.org/wiki/Q62621",
+  "@type": "Organization",
+  "name": "Canon Inc."
+  },
+  "model":"EOS Rebel",
+  "image":"https://www.lib.ncsu.edu/sites/default/files/Canon%20Rebel.jpg",
+  "description":"The Canon camera comes with a single flexible zoom lens that allows for stunning macro and distance photography. It is capable of capturing high resolution video as well as high quality still photographs. We also offer a limited number of flash kits the enable you to supplement the built-in flash for finer grain control over indoor photo shoots. The Canon EOS Rebel models include the T4i, T5i and T6i.",
+  "name":"EOS Rebel",
+  "url":"https://www.lib.ncsu.edu/devices/eos-rebel",
+  "offers":[
+    {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      "availableAtOrFrom": "https://www.lib.ncsu.edu/huntlibrary",
+      "inventoryLevel": "1"
+    },
+    {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      "availableAtOrFrom": "https://www.lib.ncsu.edu/about/dhhill",
+      "inventoryLevel": "1"
+    }
+  ]
+  }

@@ -1,0 +1,54 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/devices/ipad",
+  "@type":"Product",
+  "category":[
+    {
+    "@id": "https://www.wikidata.org/wiki/Q155972",
+    "@type": "Thing",
+    "name": "tablet computer"
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q2796",
+    "@type": "Thing",
+    "name": "iPad"
+  }
+],
+  "isRelatedTo":"https://www.lib.ncsu.edu/techlending/tablets",
+  "image":"https://www.lib.ncsu.edu/sites/default/files/iPad%20Pro.jpg",
+  "description":"Handheld tablet that runs Apple iOS.",
+  "name":"iPad",
+  "url":"https://www.lib.ncsu.edu/devices/ipad",
+  "offers":[
+    {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      "availableAtOrFrom": "https://www.lib.ncsu.edu/huntlibrary",
+      "itemAvailability": "7"
+    },
+    {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      "availableAtOrFrom": "https://www.lib.ncsu.edu/about/dhhill",
+      "itemAvailability": "17"
+    },
+    {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      "availableAtOrFrom": "https://www.lib.ncsu.edu/nrl",
+      "itemAvailability": "8"
+    },
+    {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      "availableAtOrFrom": "https://www.lib.ncsu.edu/vetmed",
+      "itemAvailability": "5"
+    },
+    {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      "availableAtOrFrom": "https://www.lib.ncsu.edu/design",
+      "itemAvailability": "1"
+    }
+  ]
+  }

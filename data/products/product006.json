@@ -1,0 +1,38 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/devices/dslr-video-kit",
+  "@type":"Product",
+  "category":[{
+    "@id": "https://www.wikidata.org/wiki/Q196342",
+    "@type": "Thing",
+    "name": "digital single-lens reflex camera",
+    "alternateName": "dslr"
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q192234",
+    "@type": "Thing",
+    "name": "camera lens"
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q46384",
+    "@type": "Thing",
+    "name": "microphone"
+  }],
+  "isRelatedTo":"https://www.lib.ncsu.edu/techlending/digital-cameras-and-camcorders",
+  "image":"https://www.lib.ncsu.edu/sites/default/files/videokit.png",
+  "description":"Video kit for Canon DSLR cameras that includes an additional lens, shotgun microphone, and a LED light that help enhance the standard features of the camera to better light scenes and capture stereo audio.",
+  "name":"DSLR Video Kit",
+  "url":"https://www.lib.ncsu.edu/devices/dslr-video-kit",
+  "offers":[
+    {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      "availableAtOrFrom": "https://www.lib.ncsu.edu/huntlibrary"
+    },
+    {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      "availableAtOrFrom": "https://www.lib.ncsu.edu/about/dhhill"
+    }
+  ]
+  }

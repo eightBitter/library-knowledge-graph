@@ -1,0 +1,37 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/devices/e-620",
+  "@type":"Product",
+  "category":{
+    "@id": "https://www.wikidata.org/wiki/Q196342",
+    "@type": "Thing",
+    "name": "digital single-lens reflex camera",
+    "alternateName": "dslr"
+  },
+  "isRelatedTo":"https://www.lib.ncsu.edu/techlending/digital-cameras-and-camcorders",
+  "manufacturer":
+  {
+  "@id": "https://www.wikidata.org/wiki/Q688619",
+  "@type": "Organization",
+  "name": "Olympus"
+  },
+  "model":"E-620",
+  "image":"https://www.lib.ncsu.edu/sites/default/files/Olympus.jpg",
+  "description":"The Olympus camera comes with two lenses that are great for indoor and outdoor, day and night and event shooting. The Olympus camera does not have video capability.",
+  "name":"E-620",
+  "url":"https://www.lib.ncsu.edu/devices/e-620",
+  "offers":[
+    {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      "availableAtOrFrom": "https://www.lib.ncsu.edu/huntlibrary",
+      "inventoryLevel": "4"
+    },
+    {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      "availableAtOrFrom": "https://www.lib.ncsu.edu/about/dhhill",
+      "inventoryLevel": "2"
+    }
+  ]
+  }

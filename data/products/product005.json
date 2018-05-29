@@ -1,0 +1,33 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/devices/reconyx-scouting-camera",
+  "@type":"Product",
+  "category":{
+    "@id": "https://www.wikidata.org/wiki/Q1723004",
+    "@type": "Thing",
+    "name": "Camera trap"
+  },
+  "isRelatedTo":"https://www.lib.ncsu.edu/techlending/digital-cameras-and-camcorders",
+  "manufacturer":
+  {
+  "@type": "Organization",
+  "name": "Reconyx"
+  },
+  "model":"XR6",
+  "image":"https://www.lib.ncsu.edu/sites/default/files/Reconyx.jpg",
+  "description":"Capture 8MP images and HD videos of wildlife using these motion-detecting scout cameras.",
+  "name":"Reconyx Scouting Camera",
+  "url":"https://www.lib.ncsu.edu/devices/reconyx-scouting-camera",
+  "offers":[
+    {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      "availableAtOrFrom": "https://www.lib.ncsu.edu/huntlibrary"
+    },
+    {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      "availableAtOrFrom": "https://www.lib.ncsu.edu/about/dhhill"
+    }
+  ]
+  }

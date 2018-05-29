@@ -1,0 +1,42 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/devices/chromebook",
+  "@type":"Product",
+  "category":[
+    {
+    "@id": "https://www.wikidata.org/wiki/Q3962",
+    "@type": "Thing",
+    "name": "laptop"
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q861508",
+    "@type": "Thing",
+    "name": "Chromebook"
+  }
+],
+  "isRelatedTo":"https://www.lib.ncsu.edu/techlending/laptops-netbooks",
+  "image":"https://www.lib.ncsu.edu/sites/default/files/Chromebook_0.jpg",
+  "description":"Netbook style computer that runs Google Chrome OS.",
+  "name":"Chromebook",
+  "url":"https://www.lib.ncsu.edu/devices/chromebook",
+  "offers":[
+    {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      "availableAtOrFrom": "https://www.lib.ncsu.edu/huntlibrary",
+      "itemAvailability": "13"
+    },
+    {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      "availableAtOrFrom": "https://www.lib.ncsu.edu/about/dhhill",
+      "itemAvailability": "15"
+    },
+    {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      "availableAtOrFrom": "https://www.lib.ncsu.edu/nrl",
+      "itemAvailability": "1"
+    }
+  ]
+  }

@@ -1,0 +1,36 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/devices/hd-camcorder",
+  "@type":"Product",
+  "category":{
+    "@id": "https://www.wikidata.org/wiki/Q335234",
+    "@type": "Thing",
+    "name": "camcorder"
+  },
+  "isRelatedTo":"https://www.lib.ncsu.edu/techlending/digital-cameras-and-camcorders",
+  "manufacturer":
+  {
+  "@id": "https://www.wikidata.org/wiki/Q53247",
+  "@type": "Organization",
+  "name": "Panasonic"
+  },
+  "model":"HC V700",
+  "image":"https://www.lib.ncsu.edu/sites/default/files/Panasonic%20Camcorder.jpg",
+  "description":"Panasonic HD Camcorders capable of shooting high-definition video and JPEG images. You also can store your footage using the camcorder's available SD/SDHC/SDXC memory card slot.",
+  "name":"Panasonic HD Camcorders",
+  "url":"https://www.lib.ncsu.edu/devices/hd-camcorder",
+  "offers":[
+    {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      "availableAtOrFrom": "https://www.lib.ncsu.edu/huntlibrary",
+      "inventoryLevel": "15"
+    },
+    {
+      "@type": "Offer",
+      "availability": "http://schema.org/OutOfStock",
+      "availableAtOrFrom": "https://www.lib.ncsu.edu/about/dhhill",
+      "inventoryLevel": "0"
+    }
+  ]
+  }

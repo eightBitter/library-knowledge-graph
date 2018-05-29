@@ -1,0 +1,29 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/devices/thermal-imager",
+  "@type":"Product",
+  "category":{
+    "@id": "https://www.wikidata.org/wiki/Q13428276",
+    "@type": "Thing",
+    "name": "Action camera"
+  },
+  "isRelatedTo":"https://www.lib.ncsu.edu/techlending/digital-cameras-and-camcorders",
+  "image":"https://www.lib.ncsu.edu/sites/default/files/flir.jpg",
+  "description":"Compact, handheld infrared camera for assessing heat distribution and measuring temperatures without physical contact.",
+  "name":"Thermal Imager",
+  "url":"https://www.lib.ncsu.edu/devices/thermal-imager",
+  "offers":[
+    {
+      "@type": "Offer",
+      "availability": "http://schema.org/OutOfStock",
+      "availableAtOrFrom": "https://www.lib.ncsu.edu/huntlibrary",
+      "itemAvailability": "0"
+    },
+    {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      "availableAtOrFrom": "https://www.lib.ncsu.edu/about/dhhill",
+      "itemAvailability": "1"
+    }
+  ]
+  }

@@ -1,0 +1,40 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/devices/gopro-hero",
+  "@type":"Product",
+  "category":{
+    "@id": "https://www.wikidata.org/wiki/Q13428276",
+    "@type": "Thing",
+    "name": "Action camera"
+  },
+  "isRelatedTo":"https://www.lib.ncsu.edu/techlending/digital-cameras-and-camcorders",
+  "manufacturer":
+  {
+  "@id": "https://www.wikidata.org/wiki/Q733482",
+  "@type": "Organization",
+  "name": "GoPro"
+  },
+  "model":"HERO4",
+  "image":"https://www.lib.ncsu.edu/sites/default/files/gopro.jpg",
+  "description":"A compact solid state action camera in a waterproof case.
+
+Item comes with a flat mount, a vertical mount, and a pivoting mount.
+
+Head mounts, helmet mounts, chest mounts, and tripod mounts are available by request.",
+  "name":"GoPro Hero",
+  "url":"https://www.lib.ncsu.edu/devices/gopro-hero",
+  "offers":[
+    {
+      "@type": "Offer",
+      "availability": "http://schema.org/OutOfStock",
+      "availableAtOrFrom": "https://www.lib.ncsu.edu/huntlibrary",
+      "itemAvailability": "0"
+    },
+    {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      "availableAtOrFrom": "https://www.lib.ncsu.edu/about/dhhill",
+      "itemAvailability": "6"
+    }
+  ]
+  }

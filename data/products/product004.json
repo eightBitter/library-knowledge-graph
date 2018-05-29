@@ -1,0 +1,27 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/devices/tripod",
+  "@type":"Product",
+  "category":{
+    "@id": "https://www.wikidata.org/wiki/Q683906",
+    "@type": "Thing",
+    "name": "Tripod"
+  },
+  "isRelatedTo":"https://www.lib.ncsu.edu/techlending/digital-cameras-and-camcorders",
+  "image":"https://www.lib.ncsu.edu/sites/default/files/Tripod_0.jpg",
+  "description":"Tripods allow for stable, hands free video recording and photography.",
+  "name":"Tripod",
+  "url":"https://www.lib.ncsu.edu/devices/tripod",
+  "offers":[
+    {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      "availableAtOrFrom": "https://www.lib.ncsu.edu/huntlibrary"
+    },
+    {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      "availableAtOrFrom": "https://www.lib.ncsu.edu/about/dhhill"
+    }
+  ]
+  }

@@ -1,0 +1,17 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/design",
+  "@type":"Place",
+  "name":"Harrye B. Lyons Design Library",
+  "url":"https://www.lib.ncsu.edu/design",
+  "description":"The Harrye B. Lyons Design Library supports the College of Design and has collection emphases in architecture, landscape architecture, graphic design, industrial design, and art and design.
+
+The Design Library Image Collection is now available through Luna Insight 6.3. The collection contains about 150,000 digital images covering architecture, art and design, which can be searched via Luna.",
+  "containsPlace":"ADD THROUGH SPARQL QUERY",
+  "openingHoursSpecification":"ADD LATER",
+  "address":{
+    "@type":"PostalAddress",
+    "addressLocality":"Raleigh",
+    "addressRegion":"NC",
+    "streetAddress":"209 Brooks Hall, Campus Box #7701, Raleigh, NC 27695"
+    }

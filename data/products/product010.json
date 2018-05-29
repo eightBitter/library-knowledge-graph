@@ -1,0 +1,34 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://www.lib.ncsu.edu/devices/mac-laptop",
+  "@type":"Product",
+  "category":[
+    {
+    "@id": "https://www.wikidata.org/wiki/Q3962",
+    "@type": "Thing",
+    "name": "laptop"
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q486053",
+    "@type": "Thing",
+    "name": "MacBook"
+  }
+],
+  "isRelatedTo":"https://www.lib.ncsu.edu/techlending/laptops-netbooks",
+  "image":"https://www.lib.ncsu.edu/sites/default/files/Macbook_1.jpg",
+  "description":"The NCSU Libraries loans both MacBook Airs and MacBook Pros from Ask Us.",
+  "name":"Mac Laptop",
+  "url":"https://www.lib.ncsu.edu/devices/mac-laptop",
+  "offers":[
+    {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      "availableAtOrFrom": "https://www.lib.ncsu.edu/huntlibrary"
+    },
+    {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      "availableAtOrFrom": "https://www.lib.ncsu.edu/about/dhhill"
+    }
+  ]
+  }
