@@ -18,3 +18,9 @@ This is a personal attempt at creating a library knowledge graph that represents
 ## To Do Next
 
 - Create records for at least 10 books
+  - https://catalog.lib.ncsu.edu/record/NCSU2634154
+  - https://catalog.lib.ncsu.edu/record/NCSU4083170
+  - https://catalog.lib.ncsu.edu/record/NCSU4080672
+  - https://catalog.lib.ncsu.edu/record/NCSU4059586
+  - https://catalog.lib.ncsu.edu/record/NCSU4027480
+  - https://catalog.lib.ncsu.edu/record/NCSU4087367

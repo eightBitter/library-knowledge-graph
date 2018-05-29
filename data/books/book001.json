@@ -1,0 +1,45 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://catalog.lib.ncsu.edu/record/NCSU4099186",
+  "@type":"Book",
+  "bookFormat":"eBook",
+  "isbn":"9781315680361",
+  "numberOfPages":"231",
+  "about":[
+    {
+      "@id": "https://www.wikidata.org/wiki/Q161500",
+      "@type": "Thing",
+      "name": "privatization"
+    },
+    {
+      "@id": "https://www.wikidata.org/wiki/Q12182551",
+      "@type": "Thing",
+      "name": "public education"
+    }
+  ],
+  "accessMode":"textual",
+  "datePublished":"2016",
+  "editor":[
+    {
+      "@type": "Person",
+      "name": "Frank Adamson"
+    },
+    {
+      "@type": "Person",
+      "name": "Bjorn Astrand"
+    },
+    {
+      "@type": "Person",
+      "name": "Linda Darling-Hammond"
+    }
+  ],
+  "inLanguage":"eng",
+  "keywords":"",
+  "publisher":{
+    "@id": "https://www.wikidata.org/wiki/Q1508259",
+    "@type": "Organization",
+    "name": "Routledge"
+  },
+  "name":"Global educational reform : how privatization and public investment influence education outcomes",
+  "identifier":"(OCoLC)958106148"
+  }

@@ -1,0 +1,58 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://catalog.lib.ncsu.edu/record/NCSU4110548",
+  "@type":"Book",
+  "bookFormat":"eBook",
+  "isbn":"9780807076071",
+  "about":[
+    {
+      "@id": "https://www.wikidata.org/wiki/Q161500",
+      "@type": "Thing",
+      "name": "privatization"
+    },
+    {
+      "@id": "https://www.wikidata.org/wiki/Q12182551",
+      "@type": "Thing",
+      "name": "public education"
+    },
+    {
+      "@id": "https://www.wikidata.org/wiki/Q12241709",
+      "@type": "Thing",
+      "name": "charter school"
+    }
+  ],
+  "accessMode":"textual",
+  "author":[
+    {
+      "@type": "Person",
+      "name": "Raynard Sanders"
+    },
+    {
+      "@type": "Person",
+      "name": "David Stovall"
+    },
+    {
+      "@type": "Person",
+      "name": "Terrenda White"
+    }
+  ],
+  "contributor":"",
+  "copyrightHolder":{
+    "@id": "https://www.wikidata.org/wiki/Q4875979",
+    "@type": "Organization",
+    "name": "Beacon Press"
+  },
+  "copyrightYear":"2018",
+  "datePublished":"2018",
+  "inLanguage":"eng",
+  "keywords":"",
+  "publisher":{
+    "@id": "https://www.wikidata.org/wiki/Q4875979",
+    "@type": "Organization",
+    "name": "Beacon Press"
+  },
+  "thumbnailUrl":"https://syndetics.com/index.php?isbn=0807076074/MC.GIF&upc=&oclc=&client=ncstateu",
+  "name":"Twenty-first-century Jim Crow schools : the impact of charters on public education",
+  "image":"https://syndetics.com/index.php?isbn=0807076074/MC.GIF&upc=&oclc=&client=ncstateu",
+  "identifier":"(Sirsi) o1031107942"
+  }
