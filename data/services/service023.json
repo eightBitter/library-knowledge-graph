@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/do/electronics",
+  "@type": "Service",
+  "category": [
+    {
+      "@id": "https://www.wikidata.org/wiki/Q11650",
+      "@type": "Thing",
+      "name": "electronics"
+    },
+    {
+      "@id": "https://www.wikidata.org/wiki/Q175957",
+      "@type": "Thing",
+      "name": "Arduino"
+    },
+    {
+      "@id": "https://www.wikidata.org/wiki/Q245",
+      "@type": "Thing",
+      "name": "Raspberry Pi"
+    }
+  ],
+  "isRelatedTo": "https://www.lib.ncsu.edu/services/makerspace",
+  "provider": [
+    "https://www.lib.ncsu.edu/staff/jrhandlo",
+    "https://www.lib.ncsu.edu/staff/jmhaynes",
+    "https://www.lib.ncsu.edu/staff/crnickel",
+    "https://www.lib.ncsu.edu/staff/asroger2",
+    "https://www.lib.ncsu.edu/staff/dnwoodbu"
+  ],
+  "name": "Electronics",
+  "description": "At the NCSU Libraries, we believe electronics are for everyone to make. We provide access to easy-to-learn yet powerful platforms such as Arduino and the Raspberry Pi, which are available in kits with electronic components for prototyping. The items below are available for checkout at both D.H. Hill and Hunt Library.
+
+We have additional equipment not listed here (boards, sensors, etc.) that can be checked out for projects and even long-term use. Please contact us at hill_makerspace@ncsu.edu with your needs and we will do our best to help.",
+  "url": "https://www.lib.ncsu.edu/do/electronics"
+}

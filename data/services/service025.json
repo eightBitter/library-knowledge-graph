@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/do/cutting-milling",
+  "@type": "Service",
+  "category": [
+    {
+      "@id": "https://www.wikidata.org/wiki/Q593053",
+      "@type": "Thing",
+      "name": "laser cutting"
+    },
+    {
+      "@id": "https://www.wikidata.org/wiki/Q656950",
+      "@type": "Thing",
+      "name": "milling"
+    }
+  ],
+  "isRelatedTo": "https://www.lib.ncsu.edu/services/makerspace",
+  "provider": [
+    "https://www.lib.ncsu.edu/staff/eolson",
+    "https://www.lib.ncsu.edu/staff/jmhaynes",
+    "https://www.lib.ncsu.edu/staff/crnickel",
+    "https://www.lib.ncsu.edu/staff/asroger2",
+    "https://www.lib.ncsu.edu/staff/dnwoodbu"
+  ],
+  "name": "Cutting & Milling",
+  "description": "A laser cutter is an amazingly powerful digital fabrication tool used for computationally cutting and engraving a variety of materials. At the D.H. Hill Makerspace, we offer a laser cutting service to all current NCSU students, faculty, and staff. The service costs are $5 per 15 minutes of appointment time, with a $10 minimum, plus material costs. We will only cut or engrave materials that we have sourced, listed below.
+
+You do not need to attend a Makerspace Orientation prior to your appointment. For safety reasons, only library staff are able to operate the laser cutter.
+
+Design guidelines: In preparing your files (e.g. in Illustrator or Inkscape), please use a canvas of 11.5" x 23.5" and for your cut lines use paths with a stroke weight of 0.001 inches. Any content of thicker weight will be engraved rather than cut.",
+  "url": "https://www.lib.ncsu.edu/do/cutting-milling"
+}

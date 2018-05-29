@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/crnickel",
+  "@type": "Person",
+  "name": "Colin Nickels",
+  "jobTitle": "NCSU Libraries Fellow",
+  "workLocation": "https://www.lib.ncsu.edu/about/dhhill",
+  "email": "crnickel@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/Nickels-1128.jpg?itok=GWh2Lv6w",
+  "telephone": "9195155996",
+  "url": "https://www.lib.ncsu.edu/staff/crnickel",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": "https://www.lib.ncsu.edu/about/dhhill",
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/electronics",
+    "https://www.lib.ncsu.edu/do/3d-printing",
+    "https://www.lib.ncsu.edu/do/wearables"
+  ],
+  "sameAs" : "http://twitter.com/ColinRNickels"
+  }

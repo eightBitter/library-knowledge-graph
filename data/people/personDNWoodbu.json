@@ -14,7 +14,9 @@
   "makesOffer": [
     "https://www.lib.ncsu.edu/do/scanning",
     "https://www.lib.ncsu.edu/do/graphics",
-    "https://www.lib.ncsu.edu/do/virtual-reality"
+    "https://www.lib.ncsu.edu/do/virtual-reality",
+    "https://www.lib.ncsu.edu/do/electronics",
+    "https://www.lib.ncsu.edu/do/3d-printing"
   ],
   "sameAs": [
     "http://twitter.com/@dnw"

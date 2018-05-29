@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/do/wearables",
+  "@type": "Service",
+  "category": [
+    {
+      "@id": "https://www.wikidata.org/wiki/Q4845080",
+      "@type": "Thing",
+      "name": "wearable technology"
+    }
+  ],
+  "isRelatedTo": "https://www.lib.ncsu.edu/services/makerspace",
+  "provider": [
+    "https://www.lib.ncsu.edu/staff/jrhandlo",
+    "https://www.lib.ncsu.edu/staff/jmhaynes",
+    "https://www.lib.ncsu.edu/staff/crnickel",
+    "https://www.lib.ncsu.edu/staff/asroger2",
+    "https://www.lib.ncsu.edu/staff/mamathew"
+  ],
+  "name": "Wearables",
+  "description": "The D.H. Hill Makerspace provides tools and support for sewing and working with fabrics, and for integrating electronics into textile projects. Wearable technology is an exciting area for innovation and creativity, with interest in it growing from both consumers and tech companies. Devices like the FitBit and Apple Watch contain sensors and use protocols very much like the ones you can learn and prototype with in the Makerspace!",
+  "url": "https://www.lib.ncsu.edu/do/wearables"
+}

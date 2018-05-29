@@ -1,0 +1,19 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/eolson",
+  "@type": "Person",
+  "name": "Erik Olson",
+  "jobTitle": "Business & Technology Applications Analyst",
+  "workLocation": "https://www.lib.ncsu.edu/about/dhhill",
+  "email": "eolson@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/olson-7450_0.jpg?itok=MameLube",
+  "telephone": "9195133651",
+  "url": "https://www.lib.ncsu.edu/staff/eolson",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": "https://www.lib.ncsu.edu/about/dhhill",
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/cutting-milling"
+  ],
+  "sameAs" : ["http://www.linkedin.com/in/itseriko",
+  "http://twitter.com/itseriko"]
+  }

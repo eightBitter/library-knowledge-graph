@@ -18,7 +18,10 @@
   "https://www.lib.ncsu.edu/huntlibrary"
 ],
   "makesOffer": [
-    "https://www.lib.ncsu.edu/do/virtual-reality"
+    "https://www.lib.ncsu.edu/do/virtual-reality",
+    "https://www.lib.ncsu.edu/do/electronics",
+    "https://www.lib.ncsu.edu/do/3d-printing",
+    "https://www.lib.ncsu.edu/do/wearables"
   ],
   "sameAs" : [
     "http://twitter.com/adrogersam",

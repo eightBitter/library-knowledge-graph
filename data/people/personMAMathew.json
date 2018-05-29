@@ -12,6 +12,7 @@
   "address": "https://www.lib.ncsu.edu/huntlibrary",
   "makesOffer": [
     "https://www.lib.ncsu.edu/do/large-format-printing",
-    "https://www.lib.ncsu.edu/do/scanning"
+    "https://www.lib.ncsu.edu/do/scanning",
+    "https://www.lib.ncsu.edu/do/wearables"
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/jrhandlo",
+  "@type": "Person",
+  "name": "Jessica Elam",
+  "jobTitle": "CRDM Graduate Assistant",
+  "workLocation": "https://www.lib.ncsu.edu/about/dhhill",
+  "email": "jrhandlo@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/handloff-4189.jpg?itok=BwwRcvux",
+  "url": "https://www.lib.ncsu.edu/staff/jrhandlo",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": "https://www.lib.ncsu.edu/about/dhhill",
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/electronics",
+    "https://www.lib.ncsu.edu/do/3d-printing",
+    "https://www.lib.ncsu.edu/do/wearables"
+  ]
+  }

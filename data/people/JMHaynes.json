@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/staff/jmhaynes",
+  "@type": "Person",
+  "name": "Justin Haynes",
+  "jobTitle": "University Library Technician",
+  "workLocation": "https://www.lib.ncsu.edu/about/dhhill",
+  "email": "jmhaynes@ncsu.edu",
+  "image": "https://www.lib.ncsu.edu/sites/default/files/styles/large/public/haynes-0290.jpg?itok=tU1H_unY",
+  "url": "https://www.lib.ncsu.edu/staff/jmhaynes",
+  "worksFor": "https://www.lib.ncsu.edu/",
+  "address": "https://www.lib.ncsu.edu/about/dhhill",
+  "makesOffer": [
+    "https://www.lib.ncsu.edu/do/electronics",
+    "https://www.lib.ncsu.edu/do/3d-printing",
+    "https://www.lib.ncsu.edu/do/wearables"
+  ]
+  }

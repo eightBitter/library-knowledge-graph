@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/do/3d-printing",
+  "@type": "Service",
+  "category": [
+    {
+      "@id": "https://www.wikidata.org/wiki/Q229367",
+      "@type": "Thing",
+      "name": "3D printing"
+    }
+  ],
+  "isRelatedTo": "https://www.lib.ncsu.edu/services/makerspace",
+  "provider": [
+    "https://www.lib.ncsu.edu/staff/jrhandlo",
+    "https://www.lib.ncsu.edu/staff/jmhaynes",
+    "https://www.lib.ncsu.edu/staff/crnickel",
+    "https://www.lib.ncsu.edu/staff/asroger2",
+    "https://www.lib.ncsu.edu/staff/dnwoodbu"
+  ],
+  "name": "3D Printing",
+  "description": "The NCSU Libraries offers 3D printing in both the D. H. Hill and James B. Hunt Jr. Library Makerspaces.",
+  "url": "https://www.lib.ncsu.edu/do/3d-printing"
+}

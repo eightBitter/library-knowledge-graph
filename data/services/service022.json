@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://www.lib.ncsu.edu/services/makerspace",
+  "@type": "Service",
+  "name": "Makerspace",
+  "description": "Makerspace services",
+  "url": "https://www.lib.ncsu.edu/services/makerspace"
+}
