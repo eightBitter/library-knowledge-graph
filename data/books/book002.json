@@ -45,7 +45,11 @@
   "copyrightYear":"2018",
   "datePublished":"2018",
   "inLanguage":"eng",
-  "keywords":"",
+  "keywords":[
+    "privatization",
+    "public education",
+    "charter school"
+  ],
   "publisher":{
     "@id": "https://www.wikidata.org/wiki/Q4875979",
     "@type": "Organization",

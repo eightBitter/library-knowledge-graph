@@ -1,0 +1,53 @@
+{
+  "@context": "http://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://d.lib.ncsu.edu/collections/catalog/gng00199",
+  "url": "https://d.lib.ncsu.edu/collections/catalog/gng00199",
+  "name": "Eighteenth-annual conservation conference",
+  "thumbnailUrl": "https://iiif.lib.ncsu.edu/iiif/gng00199_001/full/350,/0/default.jpg",
+  "image": "https://iiif.lib.ncsu.edu/iiif/gng00199_001/full/350,/0/default.jpg",
+  "dateCreated": "1960-07-18",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Community and Extension"
+    },
+    {
+      "@type": "Thing",
+      "name": "4-H clubs",
+      "sameAs": "http://id.loc.gov/authorities/subjects/sh85000002"
+    },
+    {
+      "name": "North Carolina State University. Department of 4-H Youth Development",
+      "@type": "Organization"
+    },
+    {
+      "@id": "https://www.wikidata.org/wiki/Q628403",
+      "@type": "Thing",
+      "name": "conservation"
+    }
+  ],
+  "keywords": [
+    "Community and Extension"
+  ],
+  "genre": [
+    "Reports"
+  ],
+  "inLanguage": [
+    "eng"
+  ],
+  "isPartOf": [
+    "https://d.lib.ncsu.edu/collections/catalog?f%5Bispartof_facet%5D%5B%5D=Green+%27N%27+Growing"
+  ],
+  "contentLocation": [
+    {
+      "@type": "Place",
+      "name": "North Carolina",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "35.50069",
+        "longitude": "-80.00032"
+      }
+    }
+  ]
+}

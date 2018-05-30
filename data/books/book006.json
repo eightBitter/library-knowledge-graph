@@ -1,0 +1,49 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://catalog.lib.ncsu.edu/record/NCSU4059586",
+  "@type":"Book",
+  "bookFormat":"Book",
+  "isbn":"9781506337005",
+  "numberOfPages":"320",
+  "about":[
+    {
+    "@id": "https://www.wikidata.org/wiki/Q676880",
+    "@type": "Thing",
+    "name": "text mining"
+  },
+  {
+  "@id": "https://www.wikidata.org/wiki/Q34749",
+  "@type": "Thing",
+  "name": "social science"
+}
+],
+  "accessMode":"textual",
+  "author":[
+    {
+      "@type": "Person",
+      "name": "Gabe Ignatow"
+    },
+    {
+      "@type": "Person",
+      "name": "Rada F. Mihalcea"
+    }
+  ],
+  "copyrightHolder":{
+    "@id": "https://www.wikidata.org/wiki/Q251266",
+    "@type": "Organization",
+    "name": "SAGE Publications"
+  },
+  "copyrightYear":"2018",
+  "datePublished":"2018",
+  "inLanguage":"eng",
+  "keywords":[
+    "text mining",
+    "social science"
+  ],
+  "publisher":"https://www.wikidata.org/wiki/Q251266",
+  "translator":"",
+  "thumbnailUrl":"https://syndetics.com/index.php?isbn=1506337007/MC.GIF&upc=&oclc=&client=ncstateu",
+  "name":"An introduction to text mining : research design, data collection, and analysis",
+  "image":"https://syndetics.com/index.php?isbn=1506337007/MC.GIF&upc=&oclc=&client=ncstateu",
+  "identifier":"(Sirsi) i9781506337005"
+  }

@@ -1,0 +1,35 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://catalog.lib.ncsu.edu/record/NCSU4083170",
+  "@type":"Book",
+  "bookEdition":"First edition",
+  "bookFormat":"Book",
+  "isbn":"9780393253696",
+  "numberOfPages":"290",
+  "about":{
+    "@id": "https://www.wikidata.org/wiki/Q170519",
+    "@type": "Thing",
+    "name": "virtual reality"
+  },
+  "accessMode":"textual",
+  "author":{
+    "@type": "Person",
+    "name": "Jeremy Bailenson"
+  },
+  "copyrightHolder":{
+    "@type": "Organization",
+    "name": "W. W. Norton & Company"
+  },
+  "copyrightYear":"2018",
+  "datePublished":"2018",
+  "inLanguage":"eng",
+  "keywords":"virtual reality",
+  "publisher":{
+    "@type": "Organization",
+    "name": "W. W. Norton & Company"
+  },
+  "thumbnailUrl":"https://syndetics.com/index.php?isbn=0393253694/MC.GIF&upc=&oclc=&client=ncstateu",
+  "name":"Experience on demand : what virtual reality is, how it works, and what it can do",
+  "image":"https://syndetics.com/index.php?isbn=0393253694/MC.GIF&upc=&oclc=&client=ncstateu",
+  "identifier":"(Sirsi) i9780393253696"
+  }

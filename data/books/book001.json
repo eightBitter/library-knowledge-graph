@@ -34,7 +34,10 @@
     }
   ],
   "inLanguage":"eng",
-  "keywords":"",
+  "keywords":[
+    "privatization",
+    "public education"
+  ],
   "publisher":{
     "@id": "https://www.wikidata.org/wiki/Q1508259",
     "@type": "Organization",

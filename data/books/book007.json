@@ -1,0 +1,41 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://catalog.lib.ncsu.edu/record/NCSU4027480",
+  "@type":"Book",
+  "bookFormat":"eBook",
+  "isbn":"9780081021514",
+  "about":[
+    {
+      "@id": "https://www.wikidata.org/wiki/Q603441",
+      "@type": "Thing",
+      "name": "bibliometrics"
+    },
+    {
+      "@id": "https://www.wikidata.org/wiki/Q16387",
+      "@type": "Thing",
+      "name": "information science"
+    }
+  ],
+  "accessMode":"textual",
+  "author":{
+    "@type": "Person",
+    "name": "Rafael Ball"
+  },
+  "copyrightHolder":{
+    "@id": "https://www.wikidata.org/wiki/Q5071252",
+    "@type": "Organization",
+    "name": "Chandos Publishing"
+  },
+  "copyrightYear":"2017",
+  "datePublished":"2017",
+  "inLanguage":"eng",
+  "keywords":[
+    "bibliometrics",
+    "information science"
+  ],
+  "publisher":"https://www.wikidata.org/wiki/Q5071252",
+  "thumbnailUrl":"https://syndetics.com/index.php?isbn=0081021518/MC.GIF&upc=&oclc=&client=ncstateu",
+  "name":"Introduction to bibliometrics [electronic resource] : new development and trends",
+  "image":"https://syndetics.com/index.php?isbn=0081021518/MC.GIF&upc=&oclc=&client=ncstateu",
+  "identifier":"(Sirsi) 1488748"
+  }

@@ -1,0 +1,44 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://catalog.lib.ncsu.edu/record/NCSU2634154",
+  "@type":"Book",
+  "bookFormat":"eBook",
+  "isbn":"9780240819167",
+  "about":[
+    {
+    "@id": "https://www.wikidata.org/wiki/Q15280872",
+    "@type": "Thing",
+    "name": "sound engineering"
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q959049",
+    "@type": "Thing",
+    "name": "music production"
+  }
+  ],
+  "accessMode":"textual",
+  "author":{
+    "@type": "Person",
+    "name": "Tom Dittmar"
+  },
+  "copyrightHolder":{
+    "@id": "https://www.wikidata.org/wiki/Q5463836",
+    "@type": "Organization",
+    "name": "Focal Press"
+  },
+  "copyrightYear":"2012",
+  "inLanguage":"eng",
+  "keywords":[
+    "sound engineering",
+    "music production"
+  ],
+  "publisher":{
+    "@id": "https://www.wikidata.org/wiki/Q5463836",
+    "@type": "Organization",
+    "name": "Focal Press"
+  },
+  "thumbnailUrl":"https://syndetics.com/index.php?isbn=0240819160/MC.GIF&upc=&oclc=&client=ncstateu",
+  "name":"Audio engineering 101 [electronic resource] : a beginner's guide to music production",
+  "image":"https://syndetics.com/index.php?isbn=0240819160/MC.GIF&upc=&oclc=&client=ncstateu",
+  "identifier":"(Sirsi) 10518457"
+  }

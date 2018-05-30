@@ -1,0 +1,66 @@
+{
+  "@context": "http://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://d.lib.ncsu.edu/collections/catalog/ua023_007-005-bx0014-005-045",
+  "url": "https://d.lib.ncsu.edu/collections/catalog/ua023_007-005-bx0014-005-045",
+  "name": "Samuel Kirby Discusses Forest Conservation",
+  "description": "Transcribed from back:  Farm Forestry, by R.W. Graeber, Extension Forester.  Mr. Samuel Kirby in action.  Mr. Kirby is giving his \"Spiritual\" lecture before the Club boys and girls of Columbus County preparing them to receive the discussion of \"Our Duty in Conserving the American Forests\" by the Extension Forester.  Lake Waccamaw, N.C. Aug 18th, 1926",
+  "thumbnailUrl": "https://iiif.lib.ncsu.edu/iiif/ua023_007-005-bx0014-005-045/full/350,/0/default.jpg",
+  "image": "https://iiif.lib.ncsu.edu/iiif/ua023_007-005-bx0014-005-045/full/350,/0/default.jpg",
+  "creator": [
+    {
+      "name": "Graeber, R. W. (Robert Walter), 1888-1967",
+      "description": "Extension Forestry Specialist of State College",
+      "@type": "Person",
+      "familyName": "Graeber",
+      "givenName": "Robert Walter",
+      "birthDate": "1888",
+      "deathDate": "1967",
+      "gender": "male"
+    }
+  ],
+  "dateCreated": "1926-08-18",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "4-H clubs",
+      "sameAs": "http://id.loc.gov/authorities/subjects/sh85000002"
+    },
+    {
+      "@type": "Thing",
+      "name": "Forest conservation",
+      "sameAs": "http://id.loc.gov/authorities/subjects/sh85050567"
+    },
+    {
+      "@type": "Thing",
+      "name": "Forests and forestry",
+      "sameAs": "http://id.loc.gov/authorities/subjects/sh85050707"
+    },
+    {
+      "@id": "https://www.wikidata.org/wiki/Q628403",
+      "@type": "Thing",
+      "name": "conservation"
+    }
+  ],
+  "keywords": [],
+  "genre": [
+    "Photographs"
+  ],
+  "inLanguage": [
+    "eng"
+  ],
+  "isPartOf": [
+    "https://d.lib.ncsu.edu/collections/catalog?f%5Bispartof_facet%5D%5B%5D=University+Archives+Photographs"
+  ],
+  "contentLocation": [
+    {
+      "@type": "Place",
+      "name": "Lake Waccamaw (N.C.)",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "34.31906",
+        "longitude": "-78.50001"
+      }
+    }
+  ]
+}

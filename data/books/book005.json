@@ -1,0 +1,35 @@
+{
+  "@context":"http://schema.org/",
+  "@id":"https://catalog.lib.ncsu.edu/record/NCSU4080672",
+  "@type":"Book",
+  "bookFormat":"eBook",
+  "isbn":"9781491950784",
+  "about":{
+    "@id": "https://www.wikidata.org/wiki/Q206904",
+    "@type": "Thing",
+    "name": "R"
+  },
+  "accessMode":"textual",
+  "author":[
+    {
+      "@type": "Person",
+      "name": "Colin Gillespie"
+    },
+    {
+      "@type": "Person",
+      "name": "Robin Lovelace"
+    }
+  ],
+  "datePublished":"2016",
+  "inLanguage":"eng",
+  "keywords":"R (Computer program language)",
+  "publisher":{
+    "@id": "https://www.wikidata.org/wiki/Q1065097",
+    "@type": "Organization",
+    "name": "O'Reilly Media"
+  },
+  "thumbnailUrl":"https://syndetics.com/index.php?isbn=1491950781/MC.GIF&upc=&oclc=&client=ncstateu",
+  "name":"Efficient R programming [electronic resource] : a practical guide to smarter programming",
+  "image":"https://syndetics.com/index.php?isbn=1491950781/MC.GIF&upc=&oclc=&client=ncstateu",
+  "identifier":"(WaSeSS)ssj0001838146"
+  }

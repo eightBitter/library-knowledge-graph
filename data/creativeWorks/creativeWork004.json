@@ -1,0 +1,109 @@
+{
+  "@context": "http://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://d.lib.ncsu.edu/collections/catalog/0228131",
+  "url": "https://d.lib.ncsu.edu/collections/catalog/0228131",
+  "name": "Researchers in physics lab",
+  "description": "On the back of the photograph: \"Wesley Doggett (left) / Physics\"",
+  "thumbnailUrl": "https://iiif.lib.ncsu.edu/iiif/0228131/full/350,/0/default.jpg",
+  "image": "https://iiif.lib.ncsu.edu/iiif/0228131/full/350,/0/default.jpg",
+  "creator": [
+    {
+      "name": "North Carolina State University",
+      "description": "Established by the N.C. General Assembly in 1887 as a Land Grant college in Raleigh, NC, the University now has the largest student body of the 17 campuses comprising the University of North Carolina system and is the largest institution of higher learning in the state.",
+      "@type": "Organization",
+      "sameAs": "http://id.loc.gov/authorities/names/n81014041"
+    }
+  ],
+  "dateCreated": "1974-06-04",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Engineering"
+    },
+    {
+      "@type": "Thing",
+      "name": "People"
+    },
+    {
+      "@type": "Thing",
+      "name": "Classrooms",
+      "sameAs": "http://id.loc.gov/authorities/subjects/sh88003345"
+    },
+    {
+      "@type": "Thing",
+      "name": "College students",
+      "sameAs": "http://id.loc.gov/authorities/subjects/sh85028356"
+    },
+    {
+      "@type": "Thing",
+      "name": "College teachers",
+      "sameAs": "http://id.loc.gov/authorities/subjects/sh85028378"
+    },
+    {
+      "@type": "Thing",
+      "name": "Laboratories",
+      "sameAs": "http://id.loc.gov/authorities/subjects/sh85073739"
+    },
+    {
+      "@type": "Thing",
+      "name": "Physics -- Research",
+      "sameAs": "http://id.loc.gov/authorities/subjects/sh85101666"
+    },
+    {
+      "@type": "Thing",
+      "name": "Scientists",
+      "sameAs": "http://id.loc.gov/authorities/subjects/sh85118696"
+    },
+    {
+      "name": "North Carolina State University. College of Engineering",
+      "@type": "Organization",
+      "sameAs": "http://id.loc.gov/authorities/names/no91010878"
+    },
+    {
+      "name": "North Carolina State University -- Students",
+      "@type": "Organization"
+    },
+    {
+      "name": "Doggett, Wesley Osborne",
+      "description": "Professor for the Department of Physics from 1958 until he retired in 1993 and became Emeritus Professor.  Assistant Dean of Physical and Mathematical Sciences (PAMS) from 1964 to 1968. He is the discoverer of an isomer of the element rubidium and the co-discoverer of two isomers of tin. He received several awards and accolades such as being listed in Who’s Who in the South and Southeast and Outstanding Educators of America 1970.",
+      "@type": "Person",
+      "familyName": "Doggett",
+      "givenName": "Wesley Osborne",
+      "gender": "male"
+    },
+    {
+      "name": "North Carolina State University -- Faculty",
+      "@type": "Organization"
+    },
+    {
+      "@id": "https://www.wikidata.org/wiki/Q413",
+      "@type": "Thing",
+      "name": "physics"
+    }
+  ],
+  "keywords": [
+    "Engineering",
+    "People"
+  ],
+  "genre": [
+    "Photographs"
+  ],
+  "inLanguage": [
+    "eng"
+  ],
+  "isPartOf": [
+    "https://d.lib.ncsu.edu/collections/catalog?f%5Bispartof_facet%5D%5B%5D=University+Archives+Photographs"
+  ],
+  "contentLocation": [
+    {
+      "@type": "Place",
+      "name": "Raleigh (N.C.)",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "35.7719",
+        "longitude": "-78.6389"
+      }
+    }
+  ]
+}

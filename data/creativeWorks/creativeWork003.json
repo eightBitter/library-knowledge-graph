@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://d.lib.ncsu.edu/collections/catalog/0007349",
+  "url": "https://d.lib.ncsu.edu/collections/catalog/0007349",
+  "name": "Newton Underwood, Professor of Physics",
+  "thumbnailUrl": "https://iiif.lib.ncsu.edu/iiif/0007349/full/350,/0/default.jpg",
+  "image": "https://iiif.lib.ncsu.edu/iiif/0007349/full/350,/0/default.jpg",
+  "dateCreated": "1950",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "People"
+    },
+    {
+      "@id": "https://www.wikidata.org/wiki/Q413",
+      "@type": "Thing",
+      "name": "Physics",
+      "sameAs": "http://id.loc.gov/authorities/subjects/sh85101653"
+    },
+    {
+      "@type": "Thing",
+      "name": "Teachers",
+      "sameAs": "http://id.loc.gov/authorities/subjects/sh85132964"
+    },
+    {
+      "name": "North Carolina State University -- Faculty",
+      "@type": "Organization"
+    },
+    {
+      "name": "North Carolina State University. College of Physical and Mathematical Sciences",
+      "@type": "Organization"
+    }
+  ],
+  "keywords": [
+    "People"
+  ],
+  "genre": [
+    "Photographs"
+  ],
+  "isPartOf": [
+    "https://d.lib.ncsu.edu/collections/catalog?f%5Bispartof_facet%5D%5B%5D=University+Archives+Photographs"
+  ]
+}

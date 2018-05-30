@@ -11,7 +11,13 @@
     "@id": "https://www.wikidata.org/wiki/Q483130",
     "@type": "Thing",
     "name": "geographic information system"
-  }],
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q628403",
+    "@type": "Thing",
+    "name" "conservation"
+    }
+  ],
   "url":"https://www.lib.ncsu.edu/events/coffee-viz-tropical-forest-conservation-the-view-from-700-kilometers",
   "name":"Coffee & Viz - Tropical Forest Conservation: The View from 700 Kilometers",
   "startDate":"2018-04-20T09:30",
