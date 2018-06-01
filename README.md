@@ -17,4 +17,4 @@ This is a personal attempt at creating a library knowledge graph that represents
 
 ## To Do Next
 
-- Transform files to TTL
+- Transform files to TTL using rdfconvert.py
