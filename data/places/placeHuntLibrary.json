@@ -5,13 +5,61 @@
   "name":"James B. Hunt Jr. Library",
   "url":"https://www.lib.ncsu.edu",
   "description":"Out Library of the Future. The James B. Hunt Jr. Library captures the innovative, foward-looking spirit of NC State University.",
-  "containsPlace":"ADD THIS LATER THROUGH A SPARQL QUERY.",
+  "containsPlace":[
+    "https://www.lib.ncsu.edu/spaces/teaching-and-viz",
+    "https://www.lib.ncsu.edu/spaces/auditorium",
+    "https://www.lib.ncsu.edu/spaces/creativity-studio"
+  ],
   "logo":"https://www.lib.ncsu.edu/sites/all/themes/ncsulib_foundation/images/ncsu-library-logo-white.png",
   "photo":"https://www.lib.ncsu.edu/sites/default/files/hunt1.jpg",
-  "openingHoursSpecification":"ENTER SOMETHING HERE",
+  "openingHoursSpecification":[
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "09:00",
+      "closes":  "23:00",
+      "dayOfWeek": "http://schema.org/Sunday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "07:00",
+      "closes":  "23:00",
+      "dayOfWeek": "http://schema.org/Monday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "07:00",
+      "closes":  "23:00",
+      "dayOfWeek": "http://schema.org/Tuesday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "07:00",
+      "closes":  "23:00",
+      "dayOfWeek": "http://schema.org/Wednesday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "07:00",
+      "closes":  "23:00",
+      "dayOfWeek":  "http://schema.org/Thursday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "07:00",
+      "closes":  "18:00",
+      "dayOfWeek": "http://schema.org/Friday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "09:00",
+      "closes":  "18:00",
+      "dayOfWeek":  "http://schema.org/Saturday"
+    }
+  ],
   "address":{
     "@type":"PostalAddress",
     "addressLocality":"Raleigh",
     "addressRegion":"NC",
     "streetAddress":"1070 Partners Way Campus Box 7132 Raleigh, NC 27606"
     }
+}

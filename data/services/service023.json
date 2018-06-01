@@ -28,8 +28,6 @@
     "https://www.lib.ncsu.edu/staff/dnwoodbu"
   ],
   "name": "Electronics",
-  "description": "At the NCSU Libraries, we believe electronics are for everyone to make. We provide access to easy-to-learn yet powerful platforms such as Arduino and the Raspberry Pi, which are available in kits with electronic components for prototyping. The items below are available for checkout at both D.H. Hill and Hunt Library.
-
-We have additional equipment not listed here (boards, sensors, etc.) that can be checked out for projects and even long-term use. Please contact us at hill_makerspace@ncsu.edu with your needs and we will do our best to help.",
+  "description": "At the NCSU Libraries, we believe electronics are for everyone to make. We provide access to easy-to-learn yet powerful platforms such as Arduino and the Raspberry Pi, which are available in kits with electronic components for prototyping. The items below are available for checkout at both D.H. Hill and Hunt Library.\n\nWe have additional equipment not listed here (boards, sensors, etc.) that can be checked out for projects and even long-term use. Please contact us at hill_makerspace@ncsu.edu with your needs and we will do our best to help.",
   "url": "https://www.lib.ncsu.edu/do/electronics"
 }

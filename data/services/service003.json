@@ -22,8 +22,6 @@
     "https://www.lib.ncsu.edu/staff/hjtebbe"
   ],
   "name":"Text and Data Mining",
-  "description":"Text and data mining are the computer-based processes of extracting relevant information and/or patterns from machine-readable text or data. The work usually involves examining large data sets. Text and data mining is used across disciplines, from history to biology, computer science to political science.
-
-  Depending on your discipline and the kind of data you want to mine, the process may be called something other than text mining or data mining. Related terms include: text data mining, text analytics, content mining, audio mining, software mining, image mining, metadata mining, and video mining.",
+  "description":"Text and data mining are the computer-based processes of extracting relevant information and/or patterns from machine-readable text or data. The work usually involves examining large data sets. Text and data mining is used across disciplines, from history to biology, computer science to political science.\n\nDepending on your discipline and the kind of data you want to mine, the process may be called something other than text mining or data mining. Related terms include: text data mining, text analytics, content mining, audio mining, software mining, image mining, metadata mining, and video mining.",
   "url": "https://www.lib.ncsu.edu/do/text-and-data-mining"
 }

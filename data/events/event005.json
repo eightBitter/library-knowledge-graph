@@ -23,7 +23,7 @@
   "endDate":"2018-05-10T20:30",
   "eventStatus":"EventScheduled",
   "duration":"T1H30M",
-  "description":"Narrated by Matt Damon, this feature-length documentary explores the growing privatization of public schools and the resulting impact on America’s most vulnerable children. Filmed in Philadelphia, New Orleans, Nashville and other cities, Backpack Full of Cash takes viewers through the tumultuous 2013-14 school year, exposing the world of corporate-driven education “reform” where public education -- starved of resources -- hangs in the balance. Panel discussion with public education leaders will follow the film along with Q&A from audience.",
+  "description":"Narrated by Matt Damon, this feature-length documentary explores the growing privatization of public schools and the resulting impact on America’s most vulnerable children. Filmed in Philadelphia, New Orleans, Nashville and other cities, Backpack Full of Cash takes viewers through the tumultuous 2013-14 school year, exposing the world of corporate-driven education \"reform\" where public education -- starved of resources -- hangs in the balance. Panel discussion with public education leaders will follow the film along with Q&A from audience.",
   "image":"https://www.lib.ncsu.edu/sites/default/files/styles/large/public/og-backpack.png?itok=yz-P9uRb",
   "location":{
     "@id":"https://www.lib.ncsu.edu/spaces/auditorium"

@@ -5,13 +5,62 @@
   "name":"D. H. Hill Library",
   "url":"https://www.lib.ncsu.edu/about/dhhill",
   "description":"Located on NC State's north campus, the D. H. Hill Library is one of NC State’s two main libraries (complementing the James B. Hunt Jr. Library on Centennial Campus). It houses 70% of the Libraries collection of over 5 million items and offers a variety of popular spaces and technologies for both individual and group work. These spaces include the Learning Commons, separate commons spaces for faculty members and graduate students, and quieter areas such as the Special Collections Reading Room, the Silent Reading Room, and study seating in the bookstacks towers. The Makerspace, Digital Media Lab, and Virtual Reality Studio provide specialized equipment, services, and workshops; and The Creamery and the Hill of Beans coffee bar offer NC State ice cream, coffee, and snacks.",
-  "containsPlace":"ADD THROUGH SPARQL QUERY",
+  "containsPlace":[
+    "https://www.lib.ncsu.edu/spaces/vr-studio",
+    "https://www.lib.ncsu.edu/spaces/dh-hill-makerspace",
+    "https://www.lib.ncsu.edu/spaces/ittc-lab-1a",
+    "https://www.lib.ncsu.edu/spaces/digital-media-lab"
+  ],
   "logo":"https://www.lib.ncsu.edu/sites/all/themes/ncsulib_foundation/images/ncsu-library-logo-white.png",
   "photo":"https://www.lib.ncsu.edu/website/images/bannerImgDHHill4.png",
-  "openingHoursSpecification":"ADD LATER",
+  "openingHoursSpecification":[
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "09:00",
+      "closes":  "23:00",
+      "dayOfWeek": "http://schema.org/Sunday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "07:00",
+      "closes":  "23:00",
+      "dayOfWeek": "http://schema.org/Monday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "07:00",
+      "closes":  "23:00",
+      "dayOfWeek": "http://schema.org/Tuesday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "07:00",
+      "closes":  "23:00",
+      "dayOfWeek": "http://schema.org/Wednesday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "07:00",
+      "closes":  "23:00",
+      "dayOfWeek":  "http://schema.org/Thursday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "07:00",
+      "closes":  "18:00",
+      "dayOfWeek": "http://schema.org/Friday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "09:00",
+      "closes":  "18:00",
+      "dayOfWeek":  "http://schema.org/Saturday"
+    }
+  ],
   "address":{
     "@type":"PostalAddress",
     "addressLocality":"Raleigh",
     "addressRegion":"NC",
     "streetAddress":"2 Broughton Drive, Campus Box 7132, Raleigh, NC 27606"
     }
+}

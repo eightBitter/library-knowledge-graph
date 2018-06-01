@@ -6,10 +6,54 @@
   "url":"https://www.lib.ncsu.edu/spaces/ittc-lab-1a",
   "description":"The ITTC Labs consist of three teaching labs used for courses and workshops offered by NCSU Libraries, DELTA, and OIT.",
   "containedInPlace":"https://www.lib.ncsu.edu/about/dhhill",
-  "openingHoursSpecification":"ADD LATER",
+  "openingHoursSpecification":[
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "00:00",
+      "closes":  "00:00",
+      "dayOfWeek": "http://schema.org/Sunday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "12:00",
+      "closes":  "17:00",
+      "dayOfWeek": "http://schema.org/Monday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "12:00",
+      "closes":  "17:00",
+      "dayOfWeek": "http://schema.org/Tuesday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "12:00",
+      "closes":  "17:00",
+      "dayOfWeek": "http://schema.org/Wednesday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "12:00",
+      "closes":  "17:00",
+      "dayOfWeek":  "http://schema.org/Thursday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "12:00",
+      "closes":  "17:00",
+      "dayOfWeek": "http://schema.org/Friday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "00:00",
+      "closes":  "00:00",
+      "dayOfWeek":  "http://schema.org/Saturday"
+    }
+  ],
   "address":{
     "@type":"PostalAddress",
     "addressLocality":"Raleigh",
     "addressRegion":"NC",
     "streetAddress":"2 Broughton Drive, Campus Box 7132, Raleigh, NC 27606"
     }
+}

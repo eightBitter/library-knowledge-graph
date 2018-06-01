@@ -17,4 +17,4 @@ This is a personal attempt at creating a library knowledge graph that represents
 
 ## To Do Next
 
-- Add hours and containsPlace to places
+- Transform files to TTL

@@ -7,11 +7,54 @@
   "description":"We support the study of life sciences, veterinary medicine, and animal and human health at North Carolina State University. and contribute to education, research and care at the College of Veterinary Medicine.
 
 The library is open to veterinarians, veterinary technicians, researchers, students, animal caregivers, and the public who seek quality health information that may be used to promote and preserve animal and human health in North Carolina and around the world.",
-  "containsPlace":"ADD THROUGH SPARQL QUERY",
-  "openingHoursSpecification":"ADD LATER",
+  "openingHoursSpecification":[
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "13:00",
+      "closes":  "17:00",
+      "dayOfWeek": "http://schema.org/Sunday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "07:30",
+      "closes":  "21:00",
+      "dayOfWeek": "http://schema.org/Monday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "07:30",
+      "closes":  "21:00",
+      "dayOfWeek": "http://schema.org/Tuesday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "07:30",
+      "closes":  "21:00",
+      "dayOfWeek": "http://schema.org/Wednesday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "07:30",
+      "closes":  "21:00",
+      "dayOfWeek":  "http://schema.org/Thursday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "07:30",
+      "closes":  "18:00",
+      "dayOfWeek": "http://schema.org/Friday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "13:00",
+      "closes":  "17:00",
+      "dayOfWeek":  "http://schema.org/Saturday"
+    }
+  ],
   "address":{
     "@type":"PostalAddress",
     "addressLocality":"Raleigh",
     "addressRegion":"NC",
     "streetAddress":"1060 William Moore Dr, Campus Box #8401, Raleigh, NC 27606"
     }
+}

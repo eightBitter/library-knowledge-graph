@@ -1,11 +1,11 @@
 {
-  "@context":"http://schema.org/",
-  "@id":"https://catalog.lib.ncsu.edu/record/NCSU4087367",
-  "@type":"Book",
-  "bookEdition":"First edition",
-  "bookFormat":"eBook",
-  "isbn":"9781351188319",
-  "about":[
+  "@context": "http://schema.org/",
+  "@id": "https://catalog.lib.ncsu.edu/record/NCSU4087367",
+  "@type": "Book",
+  "bookEdition": "First edition",
+  "bookFormat": "eBook",
+  "isbn": "9781351188319",
+  "about": [
     {
       "@id": "https://www.wikidata.org/wiki/Q413",
       "@type": "Thing",
@@ -22,23 +22,23 @@
       "name": "Raspberry Pi"
     }
   ],
-  "accessMode":"textual",
-  "author":{
+  "accessMode": "textual",
+  "author": {
     "@type": "Person",
     "name": "Volker Ziemann"
   },
-  "datePublished":"2018",
-  "inLanguage":"eng",
-  "keywords":[
+  "datePublished": "2018",
+  "inLanguage": "eng",
+  "keywords": [
     "physics",
     "Arduino",
     "Raspberry Pi"
   ],
-  "publisher":{
+  "publisher": {
     "@id": "https://www.wikidata.org/wiki/Q954828",
     "@type": "Organization",
     "name": "CRC Press"
   },
-  "name":"A Hands-On Course in Sensors Using the Arduino and Raspberry Pi",
-  "identifier":"(OCoLC)1023861793"
-  }
+  "name": "A Hands-On Course in Sensors Using the Arduino and Raspberry Pi",
+  "identifier": "(OCoLC)1023861793"
+}

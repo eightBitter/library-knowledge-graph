@@ -7,10 +7,54 @@
   "description":"The Auditorium provides for panel discussions, HD capture and video conferencing sessions, and special presentations like roundtables and mini forums. The audiovisual system includes an extended desktop display solution enabling multiple images to be projected on the projection screen. A sample of equipment in the room includes: two HD DLP projectors, multi-windowing video processor, blu-ray player and auxiliary AV inputs, program audio and movie surround sound system, color touch panel with source device preview and lighting control, and three HD cameras and associated mics for videoconferencing.",
   "containedInPlace":"https://www.lib.ncsu.edu/huntlibrary",
   "photo":"https://www.lib.ncsu.edu/sites/default/files/thumbnails/image/Hunt_Auditorium_1.jpg",
-  "openingHoursSpecification":"ENTER SOMETHING HERE",
+  "openingHoursSpecification":[
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "00:00",
+      "closes":  "00:00",
+      "dayOfWeek": "http://schema.org/Sunday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "12:00",
+      "closes":  "17:00",
+      "dayOfWeek": "http://schema.org/Monday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "12:00",
+      "closes":  "17:00",
+      "dayOfWeek": "http://schema.org/Tuesday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "12:00",
+      "closes":  "17:00",
+      "dayOfWeek": "http://schema.org/Wednesday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "12:00",
+      "closes":  "17:00",
+      "dayOfWeek":  "http://schema.org/Thursday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "12:00",
+      "closes":  "17:00",
+      "dayOfWeek": "http://schema.org/Friday"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens":  "00:00",
+      "closes":  "00:00",
+      "dayOfWeek":  "http://schema.org/Saturday"
+    }
+  ],
   "address":{
     "@type":"PostalAddress",
     "addressLocality":"Raleigh",
     "addressRegion":"NC",
     "streetAddress":"1070 Partners Way Campus Box 7132 Raleigh, NC 27606"
     }
+}
