@@ -14,11 +14,11 @@
   "worksFor": "https://www.lib.ncsu.edu/",
   "address": [
     "https://www.lib.ncsu.edu/about/dhhill"
-],
+  ],
   "makesOffer": [
     "https://www.lib.ncsu.edu/do/data-management",
     "https://www.lib.ncsu.edu/do/research-impact",
     "https://www.lib.ncsu.edu/do/grants-and-funding"
   ],
   "sameAs": "http://twitter.com/danicamlewis"
-  }
+}

@@ -4,9 +4,7 @@
   "@type":"Place",
   "name":"William Rand Kenan, Jr. Library of Veterinary Medicine",
   "url":"https://www.lib.ncsu.edu/vetmed",
-  "description":"We support the study of life sciences, veterinary medicine, and animal and human health at North Carolina State University. and contribute to education, research and care at the College of Veterinary Medicine.
-
-The library is open to veterinarians, veterinary technicians, researchers, students, animal caregivers, and the public who seek quality health information that may be used to promote and preserve animal and human health in North Carolina and around the world.",
+  "description":"We support the study of life sciences, veterinary medicine, and animal and human health at North Carolina State University. and contribute to education, research and care at the College of Veterinary Medicine.\n\nThe library is open to veterinarians, veterinary technicians, researchers, students, animal caregivers, and the public who seek quality health information that may be used to promote and preserve animal and human health in North Carolina and around the world.",
   "openingHoursSpecification":[
     {
       "@type": "OpeningHoursSpecification",

@@ -8,7 +8,7 @@ This is a personal attempt at creating a library knowledge graph that represents
 - [x] Design templates for each entity type
 - [x] Come up with a taxonomy for connecting entities
 - [x] Create 10 example records for each entity
-- [ ] Ingest records into GraphDB and run some queries to explore relationships
+- [x] Ingest records into GraphDB and run some queries to explore relationships
 - [ ] Install question-answer software (check earlier research notes for particular software)
 - [ ] Create use-case examples
   - Related content (Amazon)
@@ -17,4 +17,9 @@ This is a personal attempt at creating a library knowledge graph that represents
 
 ## To Do Next
 
-- Transform files to TTL using rdfconvert.py
+- Figure out why the script is converting certain URIs to strings. See
+  - schema:makesOffer
+  - schema:provider
+  - workLocation
+  - worksFor
+  - address
