@@ -31,5 +31,10 @@
   "thumbnailUrl":"https://syndetics.com/index.php?isbn=1491950781/MC.GIF&upc=&oclc=&client=ncstateu",
   "name":"Efficient R programming [electronic resource] : a practical guide to smarter programming",
   "image":"https://syndetics.com/index.php?isbn=1491950781/MC.GIF&upc=&oclc=&client=ncstateu",
-  "identifier":"(WaSeSS)ssj0001838146"
+  "identifier":
+    {
+   "@type": "PropertyValue",
+     "propertyID": "WaSeSS",
+     "value":  "ssj0001838146"
+     }
   }

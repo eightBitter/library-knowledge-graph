@@ -40,5 +40,10 @@
     "name": "CRC Press"
   },
   "name": "A Hands-On Course in Sensors Using the Arduino and Raspberry Pi",
-  "identifier": "(OCoLC)1023861793"
+  "identifier":
+    {
+   "@type": "PropertyValue",
+     "propertyID": "OCoLC",
+     "value":  "1023861793"
+     }
 }

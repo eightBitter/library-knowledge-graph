@@ -31,5 +31,10 @@
   "thumbnailUrl":"https://syndetics.com/index.php?isbn=0393253694/MC.GIF&upc=&oclc=&client=ncstateu",
   "name":"Experience on demand : what virtual reality is, how it works, and what it can do",
   "image":"https://syndetics.com/index.php?isbn=0393253694/MC.GIF&upc=&oclc=&client=ncstateu",
-  "identifier":"(Sirsi) i9780393253696"
+  "identifier":
+    {
+   "@type": "PropertyValue",
+     "propertyID": "Sirsi",
+     "value":  "i9780393253696"
+     }
   }

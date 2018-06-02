@@ -6,8 +6,8 @@ from rdflib.serializer import Serializer
 
 
 # read all the files from this directory
-input_path = "."
-output_path = "../all_rdf.ttl"
+input_path = "../data/*/."
+output_path = "../data/all_rdf.ttl"
 
 filenames = []
 contents = ''

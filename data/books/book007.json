@@ -37,5 +37,10 @@
   "thumbnailUrl":"https://syndetics.com/index.php?isbn=0081021518/MC.GIF&upc=&oclc=&client=ncstateu",
   "name":"Introduction to bibliometrics [electronic resource] : new development and trends",
   "image":"https://syndetics.com/index.php?isbn=0081021518/MC.GIF&upc=&oclc=&client=ncstateu",
-  "identifier":"(Sirsi) 1488748"
+  "identifier":
+    {
+   "@type": "PropertyValue",
+     "propertyID": "Sirsi",
+     "value":  "1488748"
+     }
   }

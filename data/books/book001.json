@@ -44,5 +44,10 @@
     "name": "Routledge"
   },
   "name":"Global educational reform : how privatization and public investment influence education outcomes",
-  "identifier":"(OCoLC)958106148"
+  "identifier":
+    {
+   "@type": "PropertyValue",
+     "propertyID": "OCoLC",
+     "value":  "958106148"
+     }
   }

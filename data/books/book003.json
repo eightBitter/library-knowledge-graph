@@ -40,5 +40,10 @@
   "thumbnailUrl":"https://syndetics.com/index.php?isbn=0240819160/MC.GIF&upc=&oclc=&client=ncstateu",
   "name":"Audio engineering 101 [electronic resource] : a beginner's guide to music production",
   "image":"https://syndetics.com/index.php?isbn=0240819160/MC.GIF&upc=&oclc=&client=ncstateu",
-  "identifier":"(Sirsi) 10518457"
+  "identifier":
+    {
+   "@type": "PropertyValue",
+     "propertyID": "Sirsi",
+     "value":  "10518457"
+     }
   }

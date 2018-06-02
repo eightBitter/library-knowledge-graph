@@ -58,5 +58,10 @@
   "thumbnailUrl":"https://syndetics.com/index.php?isbn=0807076074/MC.GIF&upc=&oclc=&client=ncstateu",
   "name":"Twenty-first-century Jim Crow schools : the impact of charters on public education",
   "image":"https://syndetics.com/index.php?isbn=0807076074/MC.GIF&upc=&oclc=&client=ncstateu",
-  "identifier":"(Sirsi) o1031107942"
+  "identifier":
+    {
+   "@type": "PropertyValue",
+     "propertyID": "Sirsi",
+     "value":  "o1031107942"
+     }
   }

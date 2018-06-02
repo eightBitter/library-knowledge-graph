@@ -45,5 +45,10 @@
   "thumbnailUrl":"https://syndetics.com/index.php?isbn=1506337007/MC.GIF&upc=&oclc=&client=ncstateu",
   "name":"An introduction to text mining : research design, data collection, and analysis",
   "image":"https://syndetics.com/index.php?isbn=1506337007/MC.GIF&upc=&oclc=&client=ncstateu",
-  "identifier":"(Sirsi) i9781506337005"
+  "identifier":
+    {
+   "@type": "PropertyValue",
+     "propertyID": "Sirsi",
+     "value":  "i9781506337005"
+     }
   }
