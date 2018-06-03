@@ -17,4 +17,10 @@ This is a personal attempt at creating a library knowledge graph that represents
 
 ## To Do Next
 
-- Transform files to TTL using rdfconvert.py
+- Figure out why the script is converting certain URIs to strings. See
+  - schema:makesOffer
+  - schema:provider
+  - workLocation
+  - worksFor
+  - address
+  - Will need to explicitly specify data type. See JMHaynes.json
