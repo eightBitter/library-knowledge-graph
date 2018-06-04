@@ -24,3 +24,9 @@ This is a personal attempt at creating a library knowledge graph that represents
   - worksFor
   - address
   - Will need to explicitly specify data type. See JMHaynes.json
+
+  ## Goals for week of June 4
+
+  - Get data cleaned and into GraphDB
+  - Explore the data and come up with a list of natural questions and corresponding SPARQL queries
+  - Install QA extension
