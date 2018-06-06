@@ -1,4 +1,3 @@
-@prefix : <http://schema.org/> .
 @prefix cat: <http://www.w3.org/ns/dcat#> .
 @prefix cc: <http://creativecommons.org/ns#> .
 @prefix cnt: <http://www.w3.org/2008/content#> .
@@ -53,7 +52,7 @@
         [ a schema:Person ;
             schema:name "Linda Darling-Hammond" ] ;
     schema:identifier [ a schema:PropertyValue ;
-            schema:propertyID <file:///Users/jtshelby/Documents/libraryKnowledgeGraph/code/OCoLC> ;
+            schema:propertyID "OCoLC" ;
             schema:value "958106148" ] ;
     schema:inLanguage "eng" ;
     schema:isbn "9781315680361" ;
@@ -91,7 +90,7 @@
     schema:copyrightYear "2018" ;
     schema:datePublished "2018"^^schema:Date ;
     schema:identifier [ a schema:PropertyValue ;
-            schema:propertyID <file:///Users/jtshelby/Documents/libraryKnowledgeGraph/code/Sirsi> ;
+            schema:propertyID "Sirsi" ;
             schema:value "o1031107942" ] ;
     schema:image <https://syndetics.com/index.php?isbn=0807076074/MC.GIF&upc=&oclc=&client=ncstateu> ;
     schema:inLanguage "eng" ;
@@ -127,7 +126,7 @@
     schema:copyrightHolder <https://www.wikidata.org/wiki/Q5463836> ;
     schema:copyrightYear "2012" ;
     schema:identifier [ a schema:PropertyValue ;
-            schema:propertyID <file:///Users/jtshelby/Documents/libraryKnowledgeGraph/code/Sirsi> ;
+            schema:propertyID "Sirsi" ;
             schema:value "10518457" ] ;
     schema:image <https://syndetics.com/index.php?isbn=0240819160/MC.GIF&upc=&oclc=&client=ncstateu> ;
     schema:inLanguage "eng" ;
@@ -161,7 +160,7 @@
     schema:copyrightYear "2018" ;
     schema:datePublished "2018"^^schema:Date ;
     schema:identifier [ a schema:PropertyValue ;
-            schema:propertyID <file:///Users/jtshelby/Documents/libraryKnowledgeGraph/code/Sirsi> ;
+            schema:propertyID "Sirsi" ;
             schema:value "i9780393253696" ] ;
     schema:image <https://syndetics.com/index.php?isbn=0393253694/MC.GIF&upc=&oclc=&client=ncstateu> ;
     schema:inLanguage "eng" ;
@@ -188,7 +187,7 @@
     schema:bookFormat "eBook" ;
     schema:datePublished "2016"^^schema:Date ;
     schema:identifier [ a schema:PropertyValue ;
-            schema:propertyID <file:///Users/jtshelby/Documents/libraryKnowledgeGraph/code/WaSeSS> ;
+            schema:propertyID "WaSeSS" ;
             schema:value "ssj0001838146" ] ;
     schema:image <https://syndetics.com/index.php?isbn=1491950781/MC.GIF&upc=&oclc=&client=ncstateu> ;
     schema:inLanguage "eng" ;
@@ -219,7 +218,7 @@
     schema:copyrightYear "2018" ;
     schema:datePublished "2018"^^schema:Date ;
     schema:identifier [ a schema:PropertyValue ;
-            schema:propertyID <file:///Users/jtshelby/Documents/libraryKnowledgeGraph/code/Sirsi> ;
+            schema:propertyID "Sirsi" ;
             schema:value "i9781506337005" ] ;
     schema:image <https://syndetics.com/index.php?isbn=1506337007/MC.GIF&upc=&oclc=&client=ncstateu> ;
     schema:inLanguage "eng" ;
@@ -254,7 +253,7 @@
     schema:copyrightYear "2017" ;
     schema:datePublished "2017"^^schema:Date ;
     schema:identifier [ a schema:PropertyValue ;
-            schema:propertyID <file:///Users/jtshelby/Documents/libraryKnowledgeGraph/code/Sirsi> ;
+            schema:propertyID "Sirsi" ;
             schema:value "1488748" ] ;
     schema:image <https://syndetics.com/index.php?isbn=0081021518/MC.GIF&upc=&oclc=&client=ncstateu> ;
     schema:inLanguage "eng" ;
@@ -287,7 +286,7 @@
     schema:bookFormat "eBook" ;
     schema:datePublished "2018"^^schema:Date ;
     schema:identifier [ a schema:PropertyValue ;
-            schema:propertyID <file:///Users/jtshelby/Documents/libraryKnowledgeGraph/code/OCoLC> ;
+            schema:propertyID "OCoLC" ;
             schema:value "1023861793" ] ;
     schema:inLanguage "eng" ;
     schema:isbn "9781351188319" ;
@@ -326,7 +325,7 @@
                     schema:longitude "-80.00032" ] ;
             schema:name "North Carolina" ] ;
     schema:dateCreated "1960-07-18"^^schema:Date ;
-    schema:genre <file:///Users/jtshelby/Documents/libraryKnowledgeGraph/code/Reports> ;
+    schema:genre "Reports" ;
     schema:image <https://iiif.lib.ncsu.edu/iiif/gng00199_001/full/350,/0/default.jpg> ;
     schema:inLanguage "eng" ;
     schema:isPartOf "https://d.lib.ncsu.edu/collections/catalog?f%5Bispartof_facet%5D%5B%5D=Green+%27N%27+Growing" ;
@@ -366,7 +365,7 @@
             schema:name "Graeber, R. W. (Robert Walter), 1888-1967" ] ;
     schema:dateCreated "1926-08-18"^^schema:Date ;
     schema:description "Transcribed from back:  Farm Forestry, by R.W. Graeber, Extension Forester.  Mr. Samuel Kirby in action.  Mr. Kirby is giving his \"Spiritual\" lecture before the Club boys and girls of Columbus County preparing them to receive the discussion of \"Our Duty in Conserving the American Forests\" by the Extension Forester.  Lake Waccamaw, N.C. Aug 18th, 1926" ;
-    schema:genre <file:///Users/jtshelby/Documents/libraryKnowledgeGraph/code/Photographs> ;
+    schema:genre "Photographs" ;
     schema:image <https://iiif.lib.ncsu.edu/iiif/ua023_007-005-bx0014-005-045/full/350,/0/default.jpg> ;
     schema:inLanguage "eng" ;
     schema:isPartOf "https://d.lib.ncsu.edu/collections/catalog?f%5Bispartof_facet%5D%5B%5D=University+Archives+Photographs" ;
@@ -391,7 +390,7 @@
             schema:name "People" ],
         <https://www.wikidata.org/wiki/Q413> ;
     schema:dateCreated "1950"^^schema:Date ;
-    schema:genre <file:///Users/jtshelby/Documents/libraryKnowledgeGraph/code/Photographs> ;
+    schema:genre "Photographs" ;
     schema:image <https://iiif.lib.ncsu.edu/iiif/0007349/full/350,/0/default.jpg> ;
     schema:isPartOf "https://d.lib.ncsu.edu/collections/catalog?f%5Bispartof_facet%5D%5B%5D=University+Archives+Photographs" ;
     schema:keywords "People" ;
@@ -453,7 +452,7 @@
             schema:sameAs <http://id.loc.gov/authorities/names/n81014041> ] ;
     schema:dateCreated "1974-06-04"^^schema:Date ;
     schema:description "On the back of the photograph: \"Wesley Doggett (left) / Physics\"" ;
-    schema:genre <file:///Users/jtshelby/Documents/libraryKnowledgeGraph/code/Photographs> ;
+    schema:genre "Photographs" ;
     schema:image <https://iiif.lib.ncsu.edu/iiif/0228131/full/350,/0/default.jpg> ;
     schema:inLanguage "eng" ;
     schema:isPartOf "https://d.lib.ncsu.edu/collections/catalog?f%5Bispartof_facet%5D%5B%5D=University+Archives+Photographs" ;
@@ -469,7 +468,7 @@
 
 
 <https://www.lib.ncsu.edu/spaces/creativity-studio> schema:offers [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
+            schema:availability <http://schema.org/InStock> ;
             schema:availabilityStarts "2018-05-23T14:00"^^schema:DateTime ;
             schema:inventoryLevel "999" ;
             schema:price "0.00" ;
@@ -507,7 +506,7 @@
     schema:location <https://www.lib.ncsu.edu/spaces/vr-studio> ;
     schema:name "Virtual Reality Studio Orientation" ;
     schema:offers [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
+            schema:availability <http://schema.org/InStock> ;
             schema:availabilityStarts "2018-05-23T16:00"^^schema:DateTime ;
             schema:inventoryLevel "999" ;
             schema:price "0.00" ;
@@ -531,7 +530,7 @@
     schema:location <https://www.lib.ncsu.edu/spaces/vr-studio> ;
     schema:name "Virtual Reality Studio Orientation" ;
     schema:offers [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
+            schema:availability <http://schema.org/InStock> ;
             schema:availabilityStarts "2018-05-29T15:00"^^schema:DateTime ;
             schema:inventoryLevel "999" ;
             schema:price "0.00" ;
@@ -555,7 +554,7 @@
     schema:location <https://www.lib.ncsu.edu/spaces/vr-studio> ;
     schema:name "Virtual Reality Studio Orientation" ;
     schema:offers [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
+            schema:availability <http://schema.org/InStock> ;
             schema:availabilityStarts "2018-05-14T16:00"^^schema:DateTime ;
             schema:inventoryLevel "999" ;
             schema:price "0.00" ;
@@ -588,7 +587,7 @@
     schema:location <https://www.lib.ncsu.edu/spaces/auditorium> ;
     schema:name "Documentary Film Screening: Backpack Full of Cash" ;
     schema:offers [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
+            schema:availability <http://schema.org/InStock> ;
             schema:availabilityStarts "2018-05-10T19:00"^^schema:DateTime ;
             schema:inventoryLevel "999" ;
             schema:price "0.00" ;
@@ -633,7 +632,7 @@
     schema:location <https://www.lib.ncsu.edu/spaces/digital-media-lab> ;
     schema:name "Record, Edit, and Produce Audio at Hill" ;
     schema:offers [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
+            schema:availability <http://schema.org/InStock> ;
             schema:availabilityStarts "2018-04-26T18:00"^^schema:DateTime ;
             schema:inventoryLevel "999" ;
             schema:price "0.00" ;
@@ -657,7 +656,7 @@
     schema:location <https://www.lib.ncsu.edu/spaces/vr-studio> ;
     schema:name "Virtual Reality (VR) for Everyone: Interactive Unity Workshop" ;
     schema:offers [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
+            schema:availability <http://schema.org/InStock> ;
             schema:availabilityStarts "2018-04-26T14:30"^^schema:DateTime ;
             schema:inventoryLevel "999" ;
             schema:price "0.00" ;
@@ -686,7 +685,7 @@
     schema:location <https://www.lib.ncsu.edu/spaces/dh-hill-makerspace> ;
     schema:name "Introduction to Arduino" ;
     schema:offers [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
+            schema:availability <http://schema.org/InStock> ;
             schema:availabilityStarts "2018-04-26T14:00"^^schema:DateTime ;
             schema:inventoryLevel "999" ;
             schema:price "0.00" ;
@@ -712,7 +711,7 @@ This workshop is an introduction to R for absolute beginners who have little or 
     schema:location <https://www.lib.ncsu.edu/spaces/ittc-lab-1a> ;
     schema:name "R for Absolute Beginners" ;
     schema:offers [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
+            schema:availability <http://schema.org/InStock> ;
             schema:availabilityStarts "2018-04-04T13:00"^^schema:DateTime ;
             schema:inventoryLevel "999" ;
             schema:price "0.00" ;
@@ -744,7 +743,7 @@ This workshop is an introduction to R for absolute beginners who have little or 
     schema:location <https://www.lib.ncsu.edu/spaces/teaching-and-viz> ;
     schema:name "Coffee & Viz - Tropical Forest Conservation: The View from 700 Kilometers" ;
     schema:offers [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
+            schema:availability <http://schema.org/InStock> ;
             schema:availabilityStarts "2018-04-20T09:30"^^schema:DateTime ;
             schema:inventoryLevel "999" ;
             schema:price "0.00" ;
@@ -757,105 +756,105 @@ This workshop is an introduction to R for absolute beginners who have little or 
 
 
 <https://www.lib.ncsu.edu/staff/jmhaynes> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "jmhaynes@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/haynes-0290.jpg?itok=tU1H_unY> ;
     schema:jobTitle "University Library Technician" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/3d-printing",
-        "https://www.lib.ncsu.edu/do/electronics",
-        "https://www.lib.ncsu.edu/do/wearables" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/3d-printing>,
+        <https://www.lib.ncsu.edu/do/electronics>,
+        <https://www.lib.ncsu.edu/do/wearables> ;
     schema:name "Justin Haynes" ;
     schema:url <https://www.lib.ncsu.edu/staff/jmhaynes> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/ablaine> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "ablaine@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/blaine-4000_0.jpg?itok=UmXmrQMi> ;
     schema:jobTitle "Data & Visualization Librarian" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/text-and-data-mining",
-        "https://www.lib.ncsu.edu/do/visualization" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/text-and-data-mining>,
+        <https://www.lib.ncsu.edu/do/visualization> ;
     schema:name "Alison Blaine" ;
     schema:telephone "9195133600" ;
     schema:url <https://www.lib.ncsu.edu/staff/ablaine> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/ajcarro4> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/huntlibrary" ;
+    schema:address <https://www.lib.ncsu.edu/huntlibrary> ;
     schema:email "ajcarro4@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/carroll-0502.jpg?itok=Yf7P3dMA> ;
     schema:jobTitle "Research Librarian for Engineering and Biotechnology" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/open-education",
-        "https://www.lib.ncsu.edu/do/research-impact" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/open-education>,
+        <https://www.lib.ncsu.edu/do/research-impact> ;
     schema:name "Alex Carroll" ;
     schema:telephone "9195156602" ;
     schema:url <https://www.lib.ncsu.edu/staff/ajcarro4> ;
-    schema:workLocation "https://www.lib.ncsu.edu/huntlibrary" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/huntlibrary> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/akorphan> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "akorphan@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/orphanides-2502.jpg?itok=KO-YJp8d> ;
     schema:jobTitle "Associate Head, User Experience" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/library-instruction-programs" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/library-instruction-programs> ;
     schema:name "Andreas Orphanides" ;
     schema:telephone "9195130303" ;
     schema:url <https://www.lib.ncsu.edu/staff/akorphan> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/aledwar5> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "aledwar5@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/edwards%20a.-6315.jpg?itok=bGSskvuA> ;
     schema:jobTitle "University Library Technician" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/library-instruction-programs",
-        "https://www.lib.ncsu.edu/do/open-education" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/library-instruction-programs>,
+        <https://www.lib.ncsu.edu/do/open-education> ;
     schema:name "Alison Edwards" ;
     schema:telephone "9195152337" ;
     schema:url <https://www.lib.ncsu.edu/staff/aledwar5> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/amburke5> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "amburke5@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/burke-8025.jpg?itok=lEgoJZR5> ;
     schema:jobTitle "Associate Head, Learning Spaces & Services" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/library-instruction-programs",
-        "https://www.lib.ncsu.edu/do/open-education" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/library-instruction-programs>,
+        <https://www.lib.ncsu.edu/do/open-education> ;
     schema:name "Anne Burke" ;
     schema:telephone "9195137426" ;
     schema:url <https://www.lib.ncsu.edu/staff/amburke5> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/apreher> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "apreher@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/reher-7029_0.jpg?itok=fRP62thB> ;
     schema:jobTitle "University Library Technician" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/manage-course-reserves" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/manage-course-reserves> ;
     schema:name "Alex Reher" ;
     schema:telephone "9195130444" ;
     schema:url <https://www.lib.ncsu.edu/staff/apreher> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
@@ -863,620 +862,620 @@ This workshop is an introduction to R for absolute beginners who have little or 
     schema:email "arbrand@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/brand-9239.jpg?itok=PuOKh12D> ;
     schema:jobTitle "University Library Technician" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/manage-course-reserves" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/manage-course-reserves> ;
     schema:name "A.R. Brand" ;
     schema:telephone "9195153187" ;
     schema:url <https://www.lib.ncsu.edu/staff/arbrand> ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/asroger2> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill",
+    schema:address <https://www.lib.ncsu.edu/about/dhhill>,
         "https://www.lib.ncsu.edu/huntlibrary" ;
     schema:email "asroger2@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/rogers-6947.jpg?itok=g_I2BC_B> ;
     schema:jobTitle "Head of Making & Innovation Studio" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/3d-printing",
-        "https://www.lib.ncsu.edu/do/electronics",
-        "https://www.lib.ncsu.edu/do/virtual-reality",
-        "https://www.lib.ncsu.edu/do/wearables" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/3d-printing>,
+        <https://www.lib.ncsu.edu/do/electronics>,
+        <https://www.lib.ncsu.edu/do/virtual-reality>,
+        <https://www.lib.ncsu.edu/do/wearables> ;
     schema:name "Adam Rogers" ;
     schema:sameAs <http://twitter.com/adrogersam>,
         <https://www.linkedin.com/in/adrogersam> ;
     schema:telephone "9195151880" ;
     schema:url <https://www.lib.ncsu.edu/staff/asroger2> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill",
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill>,
         "https://www.lib.ncsu.edu/huntlibrary" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/bkpugsle> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "bkpugsle@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/pugsley-7213.jpg?itok=3Boxch7Q> ;
     schema:jobTitle "University Library Technician" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/open-education" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/open-education> ;
     schema:name "Brian Pugsley" ;
     schema:telephone "9195138265" ;
     schema:url <https://www.lib.ncsu.edu/staff/bkpugsle> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/cmprinc2> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "cmprinc2@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/prince-2657.jpg?itok=lmey0ds-> ;
     schema:jobTitle "University Library Technician" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/manage-course-reserves" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/manage-course-reserves> ;
     schema:name "Christina Prince" ;
     schema:telephone "9195153372" ;
     schema:url <https://www.lib.ncsu.edu/staff/cmprinc2> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/crnickel> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "crnickel@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/Nickels-1128.jpg?itok=GWh2Lv6w> ;
     schema:jobTitle "NCSU Libraries Fellow" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/3d-printing",
-        "https://www.lib.ncsu.edu/do/electronics",
-        "https://www.lib.ncsu.edu/do/wearables" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/3d-printing>,
+        <https://www.lib.ncsu.edu/do/electronics>,
+        <https://www.lib.ncsu.edu/do/wearables> ;
     schema:name "Colin Nickels" ;
     schema:sameAs <http://twitter.com/ColinRNickels> ;
     schema:telephone "9195155996" ;
     schema:url <https://www.lib.ncsu.edu/staff/crnickel> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/dbkoh> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "dbkoh@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/koh-0794-2.jpg?itok=VvQ_Kj8P> ;
     schema:jobTitle "University Library Technician" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/manage-course-reserves" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/manage-course-reserves> ;
     schema:name "David Koh" ;
     schema:telephone "9195156066" ;
     schema:url <https://www.lib.ncsu.edu/staff/dbkoh> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/dcorcutt> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "dcorcutt@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/orcutt-8691.jpg?itok=MIIqjuTf> ;
     schema:jobTitle "Assistant Head, Collections & Research Strategy" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/text-and-data-mining" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/text-and-data-mining> ;
     schema:name "Darby Orcutt" ;
     schema:telephone "9195130364" ;
     schema:url <https://www.lib.ncsu.edu/staff/dcorcutt> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/dltully> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "dltully@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/tully-7106.jpg?itok=yQlT4sA8> ;
     schema:jobTitle "University Library Technician" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/library-instruction-programs" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/library-instruction-programs> ;
     schema:name "David Tully" ;
     schema:telephone "9195152525" ;
     schema:url <https://www.lib.ncsu.edu/staff/dltully> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/dmlewis6> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "dmlewis6@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/lewis-6325.jpg?itok=WK9ksDVn> ;
     schema:jobTitle "Collections & Research Librarian for Life Sciences" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/data-management",
-        "https://www.lib.ncsu.edu/do/grants-and-funding",
-        "https://www.lib.ncsu.edu/do/research-impact" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/data-management>,
+        <https://www.lib.ncsu.edu/do/grants-and-funding>,
+        <https://www.lib.ncsu.edu/do/research-impact> ;
     schema:name "Danica Lewis" ;
     schema:sameAs <http://twitter.com/danicamlewis> ;
     schema:telephone "9195152742" ;
     schema:url <https://www.lib.ncsu.edu/staff/dmlewis6> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/dnwoodbu> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "dnwoodbu@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/woodbu-7636_0.jpg?itok=fcT3iggI> ;
     schema:jobTitle "Department Head, Learning Spaces & Services" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/3d-printing",
-        "https://www.lib.ncsu.edu/do/electronics",
-        "https://www.lib.ncsu.edu/do/graphics",
-        "https://www.lib.ncsu.edu/do/scanning",
-        "https://www.lib.ncsu.edu/do/virtual-reality" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/3d-printing>,
+        <https://www.lib.ncsu.edu/do/electronics>,
+        <https://www.lib.ncsu.edu/do/graphics>,
+        <https://www.lib.ncsu.edu/do/scanning>,
+        <https://www.lib.ncsu.edu/do/virtual-reality> ;
     schema:name "David Woodbury" ;
     schema:sameAs <http://twitter.com/@dnw>,
         <https://www.linkedin.com/in/davidwoodbury> ;
     schema:telephone "9195137192" ;
     schema:url <https://www.lib.ncsu.edu/staff/dnwoodbu> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/eolson> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "eolson@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/olson-7450_0.jpg?itok=MameLube> ;
     schema:jobTitle "Business & Technology Applications Analyst" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/cutting-milling" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/cutting-milling> ;
     schema:name "Erik Olson" ;
     schema:sameAs <http://twitter.com/itseriko>,
         <http://www.linkedin.com/in/itseriko> ;
     schema:telephone "9195133651" ;
     schema:url <https://www.lib.ncsu.edu/staff/eolson> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/eyhayes> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "eyhayes@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/erica.hayes-1156.jpg?itok=84_usSVC> ;
     schema:jobTitle "NCSU Libraries Fellow" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/data-management",
-        "https://www.lib.ncsu.edu/do/open-education",
-        "https://www.lib.ncsu.edu/do/research-impact" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/data-management>,
+        <https://www.lib.ncsu.edu/do/open-education>,
+        <https://www.lib.ncsu.edu/do/research-impact> ;
     schema:name "Erica Hayes" ;
     schema:url <https://www.lib.ncsu.edu/staff/eyhayes> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/gkraschk> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "gkraschk@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/raschke-2329.jpg?itok=GMZ0Zjkh> ;
     schema:jobTitle "Interim Vice Provost and Director of Libraries" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/research-impact" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/research-impact> ;
     schema:name "Greg Raschke" ;
     schema:telephone "9195157188" ;
     schema:url <https://www.lib.ncsu.edu/staff/gkraschk> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/hjtebbe> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "hjtebbe@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/tebbe-3240.jpg?itok=Qqt0N2ZW> ;
     schema:jobTitle "Collections & Research Librarian for Engineering and Data Science" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/text-and-data-mining" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/text-and-data-mining> ;
     schema:name "Heidi Tebbe" ;
     schema:sameAs <https://www.linkedin.com/in/heidi-tebbe/> ;
     schema:telephone "9195151199" ;
     schema:url <https://www.lib.ncsu.edu/staff/hjtebbe> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/hlrainey> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "hlrainey@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/rainey-4562-5.jpg?itok=pw82MvjW> ;
     schema:jobTitle "NCSU Libraries Fellow" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/open-education",
-        "https://www.lib.ncsu.edu/do/visualization" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/open-education>,
+        <https://www.lib.ncsu.edu/do/visualization> ;
     schema:name "Hannah Rainey" ;
     schema:telephone "9195130086" ;
     schema:url <https://www.lib.ncsu.edu/staff/hlrainey> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/hmdavis4> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "hmdavis4@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/davis-9008.jpg?itok=qLc6Wl1l> ;
     schema:jobTitle "Department Head, Collections & Research Strategy" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/data-management" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/data-management> ;
     schema:name "Hilary Davis" ;
     schema:sameAs <http://twitter.com/@ncsulibresearch> ;
     schema:telephone "9195130654" ;
     schema:url <https://www.lib.ncsu.edu/staff/hmdavis4> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/jevansg> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "jevansg@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/evansgroth-7720_0.jpg?itok=7HsJUl2R> ;
     schema:jobTitle "Digital Media Librarian" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/graphics",
-        "https://www.lib.ncsu.edu/do/scanning",
-        "https://www.lib.ncsu.edu/do/visualization" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/graphics>,
+        <https://www.lib.ncsu.edu/do/scanning>,
+        <https://www.lib.ncsu.edu/do/visualization> ;
     schema:name "Jason Evans Groth" ;
     schema:telephone "9195152590" ;
     schema:url <https://www.lib.ncsu.edu/staff/jevansg> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/jfessic> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:affiliation "" ;
     schema:email "jfessic@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/essic-3197.jpg?itok=sZ7gx2hB> ;
     schema:jobTitle "Data & Visualization Librarian" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/data-management",
-        "https://www.lib.ncsu.edu/do/gis",
-        "https://www.lib.ncsu.edu/do/visualization" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/data-management>,
+        <https://www.lib.ncsu.edu/do/gis>,
+        <https://www.lib.ncsu.edu/do/visualization> ;
     schema:name "Jeff Essic" ;
     schema:sameAs <https://www.linkedin.com/in/jeffessic> ;
     schema:telephone "9195155698" ;
     schema:url <https://www.lib.ncsu.edu/staff/jfessic> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/jmjeffer> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/huntlibrary" ;
+    schema:address <https://www.lib.ncsu.edu/huntlibrary> ;
     schema:email "jmjeffer@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/jefferies-7665.jpg?itok=8PzE1yes> ;
     schema:jobTitle "University Library Technician" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/visualization" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/visualization> ;
     schema:name "Jason Jefferies" ;
     schema:telephone "9195133522" ;
     schema:url <https://www.lib.ncsu.edu/staff/jmjeffer> ;
-    schema:workLocation "https://www.lib.ncsu.edu/huntlibrary" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/huntlibrary> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/jrhandlo> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "jrhandlo@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/handloff-4189.jpg?itok=BwwRcvux> ;
     schema:jobTitle "CRDM Graduate Assistant" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/3d-printing",
-        "https://www.lib.ncsu.edu/do/electronics",
-        "https://www.lib.ncsu.edu/do/wearables" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/3d-printing>,
+        <https://www.lib.ncsu.edu/do/electronics>,
+        <https://www.lib.ncsu.edu/do/wearables> ;
     schema:name "Jessica Elam" ;
     schema:url <https://www.lib.ncsu.edu/staff/jrhandlo> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/jwgurley> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "jwgurley@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/gurley-9718.jpg?itok=j_IAOON8> ;
     schema:jobTitle "Data & Visualization Librarian" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/visualization" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/visualization> ;
     schema:name "Walt Gurley" ;
     schema:telephone "9195158822" ;
     schema:url <https://www.lib.ncsu.edu/staff/jwgurley> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/kacollin> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "kacollin@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/ciccone-6634-2.jpg?itok=hIepW8UG> ;
     schema:jobTitle "Department Head, Data & Visualization Services" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/data-management",
-        "https://www.lib.ncsu.edu/do/visualization" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/data-management>,
+        <https://www.lib.ncsu.edu/do/visualization> ;
     schema:name "Karen Ciccone" ;
     schema:telephone "9195153946" ;
     schema:url <https://www.lib.ncsu.edu/staff/kacollin> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/kgtourin> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/huntlibrary" ;
+    schema:address <https://www.lib.ncsu.edu/huntlibrary> ;
     schema:email "kgtourin@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/tourino-9147.jpg?itok=uddlk0Mj> ;
     schema:jobTitle "Lead Librarian for Textiles & Engineering Research Librarian" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/library-instruction-programs" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/library-instruction-programs> ;
     schema:name "Greg Tourino" ;
     schema:telephone "9195133862" ;
     schema:url <https://www.lib.ncsu.edu/staff/kgtourin> ;
-    schema:workLocation "https://www.lib.ncsu.edu/huntlibrary" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/huntlibrary> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/kmalpi> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/vetmed" ;
+    schema:address <https://www.lib.ncsu.edu/vetmed> ;
     schema:email "kmalpi@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/alpi-8779.jpg?itok=RIpITsaR> ;
     schema:jobTitle "Director, William Rand Kenan, Jr. Library of Veterinary Medicine" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/citation-management",
-        "https://www.lib.ncsu.edu/do/data-management",
-        "https://www.lib.ncsu.edu/do/grants-and-funding",
-        "https://www.lib.ncsu.edu/do/research-impact" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/citation-management>,
+        <https://www.lib.ncsu.edu/do/data-management>,
+        <https://www.lib.ncsu.edu/do/grants-and-funding>,
+        <https://www.lib.ncsu.edu/do/research-impact> ;
     schema:name "Kris Alpi" ;
     schema:sameAs <https://www.linkedin.com/pub/kristine-alpi/3/985/270> ;
     schema:telephone "9195136219" ;
     schema:url <https://www.lib.ncsu.edu/staff/kmalpi> ;
-    schema:workLocation "https://www.lib.ncsu.edu/vetmed" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/vetmed> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/kmlangdo> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/huntlibrary" ;
+    schema:address <https://www.lib.ncsu.edu/huntlibrary> ;
     schema:email "kmlangdo@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/langdon-7765_0.jpg?itok=L6hnOVWn> ;
     schema:jobTitle "University Library Technician" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/large-format-printing",
-        "https://www.lib.ncsu.edu/do/scanning" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/large-format-printing>,
+        <https://www.lib.ncsu.edu/do/scanning> ;
     schema:name "Kyle Langdon" ;
     schema:telephone "9195150797" ;
     schema:url <https://www.lib.ncsu.edu/staff/kmlangdo> ;
-    schema:workLocation "https://www.lib.ncsu.edu/huntlibrary" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/huntlibrary> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/lmaeschl> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "lmaeschl@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/Aeschleman-3289.jpg?itok=Z1C4NOXx> ;
     schema:jobTitle "Digital Technologies Development Librarian" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/open-education" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/open-education> ;
     schema:name "Luke Aeschleman" ;
     schema:telephone "9195158643" ;
     schema:url <https://www.lib.ncsu.edu/staff/lmaeschl> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/mamathew> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/huntlibrary" ;
+    schema:address <https://www.lib.ncsu.edu/huntlibrary> ;
     schema:email "mamathew@ncsu.edu" ;
     schema:jobTitle "University Library Technician" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/large-format-printing",
-        "https://www.lib.ncsu.edu/do/scanning",
-        "https://www.lib.ncsu.edu/do/wearables" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/large-format-printing>,
+        <https://www.lib.ncsu.edu/do/scanning>,
+        <https://www.lib.ncsu.edu/do/wearables> ;
     schema:name "Mara Mathews" ;
     schema:telephone "9195154474" ;
     schema:url <https://www.lib.ncsu.edu/staff/mamathew> ;
-    schema:workLocation "https://www.lib.ncsu.edu/huntlibrary" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/huntlibrary> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/mgwust> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "mgwust@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/markus-0113.jpg?itok=wKrpUkiJ> ;
     schema:jobTitle "Digital Research and Scholarship Librarian" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/text-and-data-mining",
-        "https://www.lib.ncsu.edu/do/virtual-reality" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/text-and-data-mining>,
+        <https://www.lib.ncsu.edu/do/virtual-reality> ;
     schema:name "Markus Wust" ;
     schema:telephone "9195130743" ;
     schema:url <https://www.lib.ncsu.edu/staff/mgwust> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/mlvandeg> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "mlvandeg@ncsu.edu" ;
     schema:jobTitle "Open Knowledge Librarian" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/cdsc",
-        "https://www.lib.ncsu.edu/do/open-education",
-        "https://www.lib.ncsu.edu/do/research-impact" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/cdsc>,
+        <https://www.lib.ncsu.edu/do/open-education>,
+        <https://www.lib.ncsu.edu/do/research-impact> ;
     schema:name "Micah Vandegrift" ;
     schema:sameAs <http://twitter.com/micahvandegrift>,
         <https://www.linkedin.com/in/micahvandegrift> ;
     schema:telephone "9195132416" ;
     schema:url <https://www.lib.ncsu.edu/staff/mlvandeg> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/mpark> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "mpark@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/waller-8272.jpg?itok=tVWRjEyO> ;
     schema:jobTitle "Interim Department Head, Research Engagement" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/grants-and-funding",
-        "https://www.lib.ncsu.edu/do/library-instruction-programs",
-        "https://www.lib.ncsu.edu/do/open-education",
-        "https://www.lib.ncsu.edu/do/research-impact" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/grants-and-funding>,
+        <https://www.lib.ncsu.edu/do/library-instruction-programs>,
+        <https://www.lib.ncsu.edu/do/open-education>,
+        <https://www.lib.ncsu.edu/do/research-impact> ;
     schema:name "Mira Waller" ;
     schema:telephone "9195153855" ;
     schema:url <https://www.lib.ncsu.edu/staff/mpark> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/mramasw> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/nrl" ;
+    schema:address <https://www.lib.ncsu.edu/nrl> ;
     schema:email "mramasw@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/ramaswamy-7557.jpg?itok=AXxFtI3g> ;
     schema:jobTitle "Director, Natural Resources Library" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/citation-management",
-        "https://www.lib.ncsu.edu/do/data-management",
-        "https://www.lib.ncsu.edu/do/grants-and-funding",
-        "https://www.lib.ncsu.edu/do/research-impact" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/citation-management>,
+        <https://www.lib.ncsu.edu/do/data-management>,
+        <https://www.lib.ncsu.edu/do/grants-and-funding>,
+        <https://www.lib.ncsu.edu/do/research-impact> ;
     schema:name "Mohan Ramaswamy" ;
     schema:sameAs <https://www.linkedin.com/in/mohan-ramaswamy-18138934/> ;
     schema:telephone "9195133513" ;
     schema:url <https://www.lib.ncsu.edu/staff/mramasw> ;
-    schema:workLocation "https://www.lib.ncsu.edu/nrl" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/nrl> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/mrnutt> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "mrnutt@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/nutt-0199.jpg?itok=wtH66iHs> ;
     schema:jobTitle "Associate Head, Data & Visualization Services" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/gis",
-        "https://www.lib.ncsu.edu/do/graphics",
-        "https://www.lib.ncsu.edu/do/library-instruction-programs",
-        "https://www.lib.ncsu.edu/do/virtual-reality" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/gis>,
+        <https://www.lib.ncsu.edu/do/graphics>,
+        <https://www.lib.ncsu.edu/do/library-instruction-programs>,
+        <https://www.lib.ncsu.edu/do/virtual-reality> ;
     schema:name "Mike Nutt" ;
     schema:sameAs <http://www.linkedin.com/in/mikenutt> ;
     schema:telephone "9195150651" ;
     schema:url <https://www.lib.ncsu.edu/staff/mrnutt> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/ndbayung> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/huntlibrary" ;
+    schema:address <https://www.lib.ncsu.edu/huntlibrary> ;
     schema:email "ndbayung@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/bayunga-1670-2.jpg?itok=g8P-XP1d> ;
     schema:jobTitle "University Library Technician" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/manage-course-reserves" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/manage-course-reserves> ;
     schema:name "Nikee Bayunga" ;
     schema:sameAs <http://twitter.com/Migratingplaces> ;
     schema:telephone "9195154092" ;
     schema:url <https://www.lib.ncsu.edu/staff/ndbayung> ;
-    schema:workLocation "https://www.lib.ncsu.edu/huntlibrary" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/huntlibrary> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/prschrei> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "asroger2@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/schreiner-4534_0.jpg?itok=wyd8Wplw> ;
     schema:jobTitle "NCSU Libraries Fellow" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/virtual-reality" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/virtual-reality> ;
     schema:name "Pete Schreiner" ;
     schema:telephone "9195154154" ;
     schema:url <https://www.lib.ncsu.edu/staff/prschrei> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/reposey> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/vetmed" ;
+    schema:address <https://www.lib.ncsu.edu/vetmed> ;
     schema:email "reposey@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/Posey-3340.jpg?itok=qayQ8m5O> ;
     schema:jobTitle "Health & Life Sciences Research Librarian and Associate Director, Veterinary Medicine" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/citation-management",
-        "https://www.lib.ncsu.edu/do/grants-and-funding",
-        "https://www.lib.ncsu.edu/do/research-impact" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/citation-management>,
+        <https://www.lib.ncsu.edu/do/grants-and-funding>,
+        <https://www.lib.ncsu.edu/do/research-impact> ;
     schema:name "Rachael Posey" ;
     schema:telephone "9195136823" ;
     schema:url <https://www.lib.ncsu.edu/staff/reposey> ;
-    schema:workLocation "https://www.lib.ncsu.edu/vetmed" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/vetmed> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/slthomp5> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/huntlibrary" ;
+    schema:address <https://www.lib.ncsu.edu/huntlibrary> ;
     schema:email "slthomp5@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/thompson-7082.jpg?itok=gVcGukI5> ;
     schema:jobTitle "Department Head, Access Services" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/manage-course-reserves" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/manage-course-reserves> ;
     schema:name "Sydney Thompson" ;
     schema:telephone "9195133586" ;
     schema:url <https://www.lib.ncsu.edu/staff/slthomp5> ;
-    schema:workLocation "https://www.lib.ncsu.edu/huntlibrary" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/huntlibrary> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/stnakaso> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/huntlibrary" ;
+    schema:address <https://www.lib.ncsu.edu/huntlibrary> ;
     schema:email "stnakaso@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/nakasone-6542.jpg?itok=KZ9WzJQi> ;
     schema:jobTitle "Lead Librarian for Metadata Technologies" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/data-management" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/data-management> ;
     schema:name "Sonoe Nakasone" ;
     schema:sameAs <http://twitter.com/tceles_b_hsup> ;
     schema:telephone "9195156131" ;
     schema:url <https://www.lib.ncsu.edu/staff/stnakaso> ;
-    schema:workLocation "https://www.lib.ncsu.edu/huntlibrary" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/huntlibrary> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/tdgeib> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/huntlibrary" ;
+    schema:address <https://www.lib.ncsu.edu/huntlibrary> ;
     schema:email "tdgeib@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/geib-2257.jpg?itok=Ej-LCKWg> ;
     schema:jobTitle "University Library Technician" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/manage-course-reserves" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/manage-course-reserves> ;
     schema:name "Talen Geib" ;
     schema:telephone "9195158508" ;
     schema:url <https://www.lib.ncsu.edu/staff/tdgeib> ;
-    schema:workLocation "https://www.lib.ncsu.edu/huntlibrary" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/huntlibrary> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/wdharnis> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/huntlibrary" ;
+    schema:address <https://www.lib.ncsu.edu/huntlibrary> ;
     schema:email "wdharnis@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/harnish.jpg?itok=xs4aWFIn> ;
     schema:jobTitle "University Library Technician" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/manage-course-reserves" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/manage-course-reserves> ;
     schema:name "William Harnish" ;
     schema:telephone "9195134023" ;
     schema:url <https://www.lib.ncsu.edu/staff/wdharnis> ;
-    schema:workLocation "https://www.lib.ncsu.edu/huntlibrary" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/huntlibrary> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
 <https://www.lib.ncsu.edu/staff/wmcross> a schema:Person ;
-    schema:address "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:address <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:email "wmcross@ncsu.edu" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/styles/large/public/cross-2859.jpg?itok=Amj2CKXP> ;
     schema:jobTitle "Director, Copyright & Digital Scholarship Center" ;
-    schema:makesOffer "https://www.lib.ncsu.edu/do/cdsc",
-        "https://www.lib.ncsu.edu/do/data-management",
-        "https://www.lib.ncsu.edu/do/grants-and-funding",
-        "https://www.lib.ncsu.edu/do/open-education",
-        "https://www.lib.ncsu.edu/do/research-impact" ;
+    schema:makesOffer <https://www.lib.ncsu.edu/do/cdsc>,
+        <https://www.lib.ncsu.edu/do/data-management>,
+        <https://www.lib.ncsu.edu/do/grants-and-funding>,
+        <https://www.lib.ncsu.edu/do/open-education>,
+        <https://www.lib.ncsu.edu/do/research-impact> ;
     schema:name "Will Cross" ;
     schema:sameAs <http://twitter.com/tceles_b_hsup> ;
     schema:telephone "9195132416" ;
     schema:url <https://www.lib.ncsu.edu/staff/wmcross> ;
-    schema:workLocation "https://www.lib.ncsu.edu/about/dhhill" ;
-    schema:worksFor "https://www.lib.ncsu.edu/" .
+    schema:workLocation <https://www.lib.ncsu.edu/about/dhhill> ;
+    schema:worksFor <https://www.lib.ncsu.edu/> .
 
 
 
@@ -1485,38 +1484,38 @@ This workshop is an introduction to R for absolute beginners who have little or 
             schema:addressLocality "Raleigh" ;
             schema:addressRegion "NC" ;
             schema:streetAddress "1070 Partners Way Campus Box 7132 Raleigh, NC 27606" ] ;
-    schema:containedInPlace "https://www.lib.ncsu.edu/huntlibrary" ;
+    schema:containedInPlace <https://www.lib.ncsu.edu/huntlibrary> ;
     schema:description "Faculty and graduates students can request to use the Creativity Studio, a high-technology white-box room that can be configured for a wide variety of teaching, learning, and collaborative activities in many disciplines. It features high-definition projectors and moveable walls with dry-erase whiteboard surfaces. The Studio can be configured to host simulations, installations and virtual environments." ;
     schema:name "Creativity Studio" ;
     schema:openingHoursSpecification [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Monday" ;
+            schema:dayOfWeek <http://schema.org/Monday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Tuesday" ;
-            schema:opens "12:00" ],
-        [ a schema:OpeningHoursSpecification ;
-            schema:closes "00:00" ;
-            schema:dayOfWeek "http://schema.org/Sunday" ;
-            schema:opens "00:00" ],
-        [ a schema:OpeningHoursSpecification ;
-            schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Friday" ;
-            schema:opens "12:00" ],
-        [ a schema:OpeningHoursSpecification ;
-            schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Thursday" ;
+            schema:dayOfWeek <http://schema.org/Tuesday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "00:00" ;
-            schema:dayOfWeek "http://schema.org/Saturday" ;
+            schema:dayOfWeek <http://schema.org/Sunday> ;
             schema:opens "00:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Wednesday" ;
+            schema:dayOfWeek <http://schema.org/Friday> ;
+            schema:opens "12:00" ],
+        [ a schema:OpeningHoursSpecification ;
+            schema:closes "17:00" ;
+            schema:dayOfWeek <http://schema.org/Thursday> ;
+            schema:opens "12:00" ],
+        [ a schema:OpeningHoursSpecification ;
+            schema:closes "00:00" ;
+            schema:dayOfWeek <http://schema.org/Saturday> ;
+            schema:opens "00:00" ],
+        [ a schema:OpeningHoursSpecification ;
+            schema:closes "17:00" ;
+            schema:dayOfWeek <http://schema.org/Wednesday> ;
             schema:opens "12:00" ] ;
-    schema:photo "https://www.lib.ncsu.edu/sites/default/files/thumbnails/image/Hunt_Creativity-Studio_4.jpg" ;
+    schema:photo <https://www.lib.ncsu.edu/sites/default/files/thumbnails/image/Hunt_Creativity-Studio_4.jpg> ;
     schema:url <https://www.lib.ncsu.edu/spaces/creativity-studio> .
 
 
@@ -1532,31 +1531,31 @@ The Design Library Image Collection is now available through Luna Insight 6.3. T
     schema:name "Harrye B. Lyons Design Library" ;
     schema:openingHoursSpecification [ a schema:OpeningHoursSpecification ;
             schema:closes "21:00" ;
-            schema:dayOfWeek "http://schema.org/Thursday" ;
+            schema:dayOfWeek <http://schema.org/Thursday> ;
             schema:opens "07:30" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "21:00" ;
-            schema:dayOfWeek "http://schema.org/Wednesday" ;
+            schema:dayOfWeek <http://schema.org/Wednesday> ;
             schema:opens "07:30" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Friday" ;
+            schema:dayOfWeek <http://schema.org/Friday> ;
             schema:opens "07:30" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Saturday" ;
+            schema:dayOfWeek <http://schema.org/Saturday> ;
             schema:opens "13:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "21:00" ;
-            schema:dayOfWeek "http://schema.org/Tuesday" ;
+            schema:dayOfWeek <http://schema.org/Tuesday> ;
             schema:opens "07:30" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "21:00" ;
-            schema:dayOfWeek "http://schema.org/Monday" ;
+            schema:dayOfWeek <http://schema.org/Monday> ;
             schema:opens "07:30" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Sunday" ;
+            schema:dayOfWeek <http://schema.org/Sunday> ;
             schema:opens "13:00" ] ;
     schema:url <https://www.lib.ncsu.edu/design> .
 
@@ -1567,42 +1566,42 @@ The Design Library Image Collection is now available through Luna Insight 6.3. T
             schema:addressLocality "Raleigh" ;
             schema:addressRegion "NC" ;
             schema:streetAddress "2 Broughton Drive, Campus Box 7132, Raleigh, NC 27606" ] ;
-    schema:containsPlace "https://www.lib.ncsu.edu/spaces/dh-hill-makerspace",
-        "https://www.lib.ncsu.edu/spaces/digital-media-lab",
-        "https://www.lib.ncsu.edu/spaces/ittc-lab-1a",
-        "https://www.lib.ncsu.edu/spaces/vr-studio" ;
+    schema:containsPlace <https://www.lib.ncsu.edu/spaces/dh-hill-makerspace>,
+        <https://www.lib.ncsu.edu/spaces/digital-media-lab>,
+        <https://www.lib.ncsu.edu/spaces/ittc-lab-1a>,
+        <https://www.lib.ncsu.edu/spaces/vr-studio> ;
     schema:description "Located on NC State's north campus, the D. H. Hill Library is one of NC State’s two main libraries (complementing the James B. Hunt Jr. Library on Centennial Campus). It houses 70% of the Libraries collection of over 5 million items and offers a variety of popular spaces and technologies for both individual and group work. These spaces include the Learning Commons, separate commons spaces for faculty members and graduate students, and quieter areas such as the Special Collections Reading Room, the Silent Reading Room, and study seating in the bookstacks towers. The Makerspace, Digital Media Lab, and Virtual Reality Studio provide specialized equipment, services, and workshops; and The Creamery and the Hill of Beans coffee bar offer NC State ice cream, coffee, and snacks." ;
     schema:logo <https://www.lib.ncsu.edu/sites/all/themes/ncsulib_foundation/images/ncsu-library-logo-white.png> ;
     schema:name "D. H. Hill Library" ;
     schema:openingHoursSpecification [ a schema:OpeningHoursSpecification ;
             schema:closes "23:00" ;
-            schema:dayOfWeek "http://schema.org/Thursday" ;
+            schema:dayOfWeek <http://schema.org/Thursday> ;
             schema:opens "07:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "23:00" ;
-            schema:dayOfWeek "http://schema.org/Monday" ;
+            schema:dayOfWeek <http://schema.org/Monday> ;
             schema:opens "07:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "23:00" ;
-            schema:dayOfWeek "http://schema.org/Tuesday" ;
+            schema:dayOfWeek <http://schema.org/Tuesday> ;
             schema:opens "07:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "18:00" ;
-            schema:dayOfWeek "http://schema.org/Saturday" ;
+            schema:dayOfWeek <http://schema.org/Saturday> ;
             schema:opens "09:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "18:00" ;
-            schema:dayOfWeek "http://schema.org/Friday" ;
+            schema:dayOfWeek <http://schema.org/Friday> ;
             schema:opens "07:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "23:00" ;
-            schema:dayOfWeek "http://schema.org/Sunday" ;
+            schema:dayOfWeek <http://schema.org/Sunday> ;
             schema:opens "09:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "23:00" ;
-            schema:dayOfWeek "http://schema.org/Wednesday" ;
+            schema:dayOfWeek <http://schema.org/Wednesday> ;
             schema:opens "07:00" ] ;
-    schema:photo "https://www.lib.ncsu.edu/website/images/bannerImgDHHill4.png" ;
+    schema:photo <https://www.lib.ncsu.edu/website/images/bannerImgDHHill4.png> ;
     schema:url <https://www.lib.ncsu.edu/about/dhhill> .
 
 
@@ -1612,38 +1611,38 @@ The Design Library Image Collection is now available through Luna Insight 6.3. T
             schema:addressLocality "Raleigh" ;
             schema:addressRegion "NC" ;
             schema:streetAddress "2 Broughton Drive, Campus Box 7132, Raleigh, NC 27606" ] ;
-    schema:containedInPlace "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:containedInPlace <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:description "The Digital Media Lab (DML) has workstations with audiovisual editing software including: three reservable 5k iMacs for video editing, two reservable programming PCs, four reservable music booths, and a reservable studio space with a green screen which also contains equipment for VHS and DV transfer, audio production, and slide scanning." ;
     schema:name "Digital Media Lab" ;
     schema:openingHoursSpecification [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Thursday" ;
+            schema:dayOfWeek <http://schema.org/Thursday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "00:00" ;
-            schema:dayOfWeek "http://schema.org/Sunday" ;
+            schema:dayOfWeek <http://schema.org/Sunday> ;
             schema:opens "00:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Wednesday" ;
+            schema:dayOfWeek <http://schema.org/Wednesday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Monday" ;
+            schema:dayOfWeek <http://schema.org/Monday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Friday" ;
+            schema:dayOfWeek <http://schema.org/Friday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Tuesday" ;
+            schema:dayOfWeek <http://schema.org/Tuesday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "00:00" ;
-            schema:dayOfWeek "http://schema.org/Saturday" ;
+            schema:dayOfWeek <http://schema.org/Saturday> ;
             schema:opens "00:00" ] ;
-    schema:photo "https://www.lib.ncsu.edu/sites/default/files/thumbnails/image/IMG_4234.jpg" ;
+    schema:photo <https://www.lib.ncsu.edu/sites/default/files/thumbnails/image/IMG_4234.jpg> ;
     schema:url <https://www.lib.ncsu.edu/spaces/digital-media-lab> .
 
 
@@ -1653,36 +1652,36 @@ The Design Library Image Collection is now available through Luna Insight 6.3. T
             schema:addressLocality "Raleigh" ;
             schema:addressRegion "NC" ;
             schema:streetAddress "2 Broughton Drive, Campus Box 7132, Raleigh, NC 27606" ] ;
-    schema:containedInPlace "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:containedInPlace <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:description "The ITTC Labs consist of three teaching labs used for courses and workshops offered by NCSU Libraries, DELTA, and OIT." ;
     schema:name "ITTC Lab 1A" ;
     schema:openingHoursSpecification [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Friday" ;
+            schema:dayOfWeek <http://schema.org/Friday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "00:00" ;
-            schema:dayOfWeek "http://schema.org/Sunday" ;
+            schema:dayOfWeek <http://schema.org/Sunday> ;
             schema:opens "00:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "00:00" ;
-            schema:dayOfWeek "http://schema.org/Saturday" ;
+            schema:dayOfWeek <http://schema.org/Saturday> ;
             schema:opens "00:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Thursday" ;
+            schema:dayOfWeek <http://schema.org/Thursday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Tuesday" ;
+            schema:dayOfWeek <http://schema.org/Tuesday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Monday" ;
+            schema:dayOfWeek <http://schema.org/Monday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Wednesday" ;
+            schema:dayOfWeek <http://schema.org/Wednesday> ;
             schema:opens "12:00" ] ;
     schema:url <https://www.lib.ncsu.edu/spaces/ittc-lab-1a> .
 
@@ -1693,38 +1692,38 @@ The Design Library Image Collection is now available through Luna Insight 6.3. T
             schema:addressLocality "Raleigh" ;
             schema:addressRegion "NC" ;
             schema:streetAddress "2 Broughton Drive, Campus Box 7132, Raleigh, NC 27606" ] ;
-    schema:containedInPlace "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:containedInPlace <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:description "The D.H. Hill Makerspace is located on the first floor of the D.H. Hill Library. This space gives students, faculty, and staff hands-on access to the emerging technologies of making, including 3D printers, 3D scanners, electronics prototyping kits, sewing machines, a laser cutter, and many other Maker tools." ;
     schema:name "D. H. Hill Makerspace" ;
     schema:openingHoursSpecification [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Wednesday" ;
+            schema:dayOfWeek <http://schema.org/Wednesday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "00:00" ;
-            schema:dayOfWeek "http://schema.org/Sunday" ;
+            schema:dayOfWeek <http://schema.org/Sunday> ;
             schema:opens "00:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Thursday" ;
+            schema:dayOfWeek <http://schema.org/Thursday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Monday" ;
+            schema:dayOfWeek <http://schema.org/Monday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Tuesday" ;
+            schema:dayOfWeek <http://schema.org/Tuesday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Friday" ;
+            schema:dayOfWeek <http://schema.org/Friday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "00:00" ;
-            schema:dayOfWeek "http://schema.org/Saturday" ;
+            schema:dayOfWeek <http://schema.org/Saturday> ;
             schema:opens "00:00" ] ;
-    schema:photo "https://www.lib.ncsu.edu/sites/default/files/thumbnails/image/Hill_Makerspace_9.jpg" ;
+    schema:photo <https://www.lib.ncsu.edu/sites/default/files/thumbnails/image/Hill_Makerspace_9.jpg> ;
     schema:url <https://www.lib.ncsu.edu/spaces/dh-hill-makerspace> .
 
 
@@ -1734,38 +1733,38 @@ The Design Library Image Collection is now available through Luna Insight 6.3. T
             schema:addressLocality "Raleigh" ;
             schema:addressRegion "NC" ;
             schema:streetAddress "1070 Partners Way Campus Box 7132 Raleigh, NC 27606" ] ;
-    schema:containedInPlace "https://www.lib.ncsu.edu/huntlibrary" ;
+    schema:containedInPlace <https://www.lib.ncsu.edu/huntlibrary> ;
     schema:description "The Auditorium provides for panel discussions, HD capture and video conferencing sessions, and special presentations like roundtables and mini forums. The audiovisual system includes an extended desktop display solution enabling multiple images to be projected on the projection screen. A sample of equipment in the room includes: two HD DLP projectors, multi-windowing video processor, blu-ray player and auxiliary AV inputs, program audio and movie surround sound system, color touch panel with source device preview and lighting control, and three HD cameras and associated mics for videoconferencing." ;
     schema:name "Auditorium" ;
     schema:openingHoursSpecification [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Monday" ;
+            schema:dayOfWeek <http://schema.org/Monday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Friday" ;
+            schema:dayOfWeek <http://schema.org/Friday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Tuesday" ;
+            schema:dayOfWeek <http://schema.org/Tuesday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Wednesday" ;
+            schema:dayOfWeek <http://schema.org/Wednesday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "00:00" ;
-            schema:dayOfWeek "http://schema.org/Saturday" ;
+            schema:dayOfWeek <http://schema.org/Saturday> ;
             schema:opens "00:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "00:00" ;
-            schema:dayOfWeek "http://schema.org/Sunday" ;
+            schema:dayOfWeek <http://schema.org/Sunday> ;
             schema:opens "00:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Thursday" ;
+            schema:dayOfWeek <http://schema.org/Thursday> ;
             schema:opens "12:00" ] ;
-    schema:photo "https://www.lib.ncsu.edu/sites/default/files/thumbnails/image/Hunt_Auditorium_1.jpg" ;
+    schema:photo <https://www.lib.ncsu.edu/sites/default/files/thumbnails/image/Hunt_Auditorium_1.jpg> ;
     schema:url <https://www.lib.ncsu.edu/spaces/auditorium> .
 
 
@@ -1775,41 +1774,41 @@ The Design Library Image Collection is now available through Luna Insight 6.3. T
             schema:addressLocality "Raleigh" ;
             schema:addressRegion "NC" ;
             schema:streetAddress "1070 Partners Way Campus Box 7132 Raleigh, NC 27606" ] ;
-    schema:containsPlace "https://www.lib.ncsu.edu/spaces/auditorium",
-        "https://www.lib.ncsu.edu/spaces/creativity-studio",
-        "https://www.lib.ncsu.edu/spaces/teaching-and-viz" ;
+    schema:containsPlace <https://www.lib.ncsu.edu/spaces/auditorium>,
+        <https://www.lib.ncsu.edu/spaces/creativity-studio>,
+        <https://www.lib.ncsu.edu/spaces/teaching-and-viz> ;
     schema:description "Out Library of the Future. The James B. Hunt Jr. Library captures the innovative, foward-looking spirit of NC State University." ;
     schema:logo <https://www.lib.ncsu.edu/sites/all/themes/ncsulib_foundation/images/ncsu-library-logo-white.png> ;
     schema:name "James B. Hunt Jr. Library" ;
     schema:openingHoursSpecification [ a schema:OpeningHoursSpecification ;
             schema:closes "18:00" ;
-            schema:dayOfWeek "http://schema.org/Friday" ;
+            schema:dayOfWeek <http://schema.org/Friday> ;
             schema:opens "07:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "23:00" ;
-            schema:dayOfWeek "http://schema.org/Monday" ;
+            schema:dayOfWeek <http://schema.org/Monday> ;
             schema:opens "07:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "23:00" ;
-            schema:dayOfWeek "http://schema.org/Sunday" ;
+            schema:dayOfWeek <http://schema.org/Sunday> ;
             schema:opens "09:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "23:00" ;
-            schema:dayOfWeek "http://schema.org/Tuesday" ;
+            schema:dayOfWeek <http://schema.org/Tuesday> ;
             schema:opens "07:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "23:00" ;
-            schema:dayOfWeek "http://schema.org/Thursday" ;
+            schema:dayOfWeek <http://schema.org/Thursday> ;
             schema:opens "07:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "18:00" ;
-            schema:dayOfWeek "http://schema.org/Saturday" ;
+            schema:dayOfWeek <http://schema.org/Saturday> ;
             schema:opens "09:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "23:00" ;
-            schema:dayOfWeek "http://schema.org/Wednesday" ;
+            schema:dayOfWeek <http://schema.org/Wednesday> ;
             schema:opens "07:00" ] ;
-    schema:photo "https://www.lib.ncsu.edu/sites/default/files/hunt1.jpg" ;
+    schema:photo <https://www.lib.ncsu.edu/sites/default/files/hunt1.jpg> ;
     schema:url <https://www.lib.ncsu.edu/> .
 
 
@@ -1819,7 +1818,7 @@ The Design Library Image Collection is now available through Luna Insight 6.3. T
             schema:addressLocality "Raleigh" ;
             schema:addressRegion "NC" ;
             schema:streetAddress "1070 Partners Way Campus Box 7132 Raleigh, NC 27606" ] ;
-    schema:containedInPlace "https://www.lib.ncsu.edu/huntlibrary" ;
+    schema:containedInPlace <https://www.lib.ncsu.edu/huntlibrary> ;
     schema:description """Faculty and graduates students can request to use the Teaching and Visualization Lab, a black-box room that offers 270-degree immersive projection on three walls / five screens for a total of 94 linear feet of high-definition display surface. The room can host a variety of events including:
 
 - High-impact presentations of large-scale visualizations and simulations
@@ -1834,33 +1833,33 @@ The Design Library Image Collection is now available through Luna Insight 6.3. T
     schema:name "Teaching and Visulization Lab" ;
     schema:openingHoursSpecification [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Friday" ;
+            schema:dayOfWeek <http://schema.org/Friday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Monday" ;
+            schema:dayOfWeek <http://schema.org/Monday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "00:00" ;
-            schema:dayOfWeek "http://schema.org/Sunday" ;
+            schema:dayOfWeek <http://schema.org/Sunday> ;
             schema:opens "00:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "00:00" ;
-            schema:dayOfWeek "http://schema.org/Saturday" ;
+            schema:dayOfWeek <http://schema.org/Saturday> ;
             schema:opens "00:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Thursday" ;
+            schema:dayOfWeek <http://schema.org/Thursday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Tuesday" ;
+            schema:dayOfWeek <http://schema.org/Tuesday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Wednesday" ;
+            schema:dayOfWeek <http://schema.org/Wednesday> ;
             schema:opens "12:00" ] ;
-    schema:photo "https://www.lib.ncsu.edu/sites/default/files/thumbnails/image/Hunt_Teaching-and-Visualization-Lab_1.jpg" ;
+    schema:photo <https://www.lib.ncsu.edu/sites/default/files/thumbnails/image/Hunt_Teaching-and-Visualization-Lab_1.jpg> ;
     schema:url <https://www.lib.ncsu.edu/spaces/teaching-and-viz> .
 
 
@@ -1874,33 +1873,33 @@ The Design Library Image Collection is now available through Luna Insight 6.3. T
     schema:name "Natural Resources Library" ;
     schema:openingHoursSpecification [ a schema:OpeningHoursSpecification ;
             schema:closes "21:00" ;
-            schema:dayOfWeek "http://schema.org/Monday" ;
+            schema:dayOfWeek <http://schema.org/Monday> ;
             schema:opens "07:30" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "21:00" ;
-            schema:dayOfWeek "http://schema.org/Wednesday" ;
+            schema:dayOfWeek <http://schema.org/Wednesday> ;
             schema:opens "07:30" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Sunday" ;
+            schema:dayOfWeek <http://schema.org/Sunday> ;
             schema:opens "13:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "00:00" ;
-            schema:dayOfWeek "http://schema.org/Saturday" ;
+            schema:dayOfWeek <http://schema.org/Saturday> ;
             schema:opens "00:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "21:00" ;
-            schema:dayOfWeek "http://schema.org/Tuesday" ;
+            schema:dayOfWeek <http://schema.org/Tuesday> ;
             schema:opens "07:30" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Friday" ;
+            schema:dayOfWeek <http://schema.org/Friday> ;
             schema:opens "07:30" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "21:00" ;
-            schema:dayOfWeek "http://schema.org/Thursday" ;
+            schema:dayOfWeek <http://schema.org/Thursday> ;
             schema:opens "07:30" ] ;
-    schema:photo "https://www.lib.ncsu.edu/sites/default/files/NRL%20Outside_1.JPG" ;
+    schema:photo <https://www.lib.ncsu.edu/sites/default/files/NRL%20Outside_1.JPG> ;
     schema:url <https://www.lib.ncsu.edu/nrl> .
 
 
@@ -1916,31 +1915,31 @@ The library is open to veterinarians, veterinary technicians, researchers, stude
     schema:name "William Rand Kenan, Jr. Library of Veterinary Medicine" ;
     schema:openingHoursSpecification [ a schema:OpeningHoursSpecification ;
             schema:closes "21:00" ;
-            schema:dayOfWeek "http://schema.org/Thursday" ;
+            schema:dayOfWeek <http://schema.org/Thursday> ;
             schema:opens "07:30" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Saturday" ;
+            schema:dayOfWeek <http://schema.org/Saturday> ;
             schema:opens "13:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "18:00" ;
-            schema:dayOfWeek "http://schema.org/Friday" ;
+            schema:dayOfWeek <http://schema.org/Friday> ;
             schema:opens "07:30" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "21:00" ;
-            schema:dayOfWeek "http://schema.org/Tuesday" ;
+            schema:dayOfWeek <http://schema.org/Tuesday> ;
             schema:opens "07:30" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "21:00" ;
-            schema:dayOfWeek "http://schema.org/Wednesday" ;
+            schema:dayOfWeek <http://schema.org/Wednesday> ;
             schema:opens "07:30" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Sunday" ;
+            schema:dayOfWeek <http://schema.org/Sunday> ;
             schema:opens "13:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "21:00" ;
-            schema:dayOfWeek "http://schema.org/Monday" ;
+            schema:dayOfWeek <http://schema.org/Monday> ;
             schema:opens "07:30" ] ;
     schema:url <https://www.lib.ncsu.edu/vetmed> .
 
@@ -1951,38 +1950,38 @@ The library is open to veterinarians, veterinary technicians, researchers, stude
             schema:addressLocality "Raleigh" ;
             schema:addressRegion "NC" ;
             schema:streetAddress "2 Broughton Drive, Campus Box 7132, Raleigh, NC 27606" ] ;
-    schema:containedInPlace "https://www.lib.ncsu.edu/about/dhhill" ;
+    schema:containedInPlace <https://www.lib.ncsu.edu/about/dhhill> ;
     schema:description "Virtual reality (VR) provides new ways for people to interact with information and media. The VR Studio at D. H. Hill Library is a space for experimenting with and creating immersive content. It is equipped with eight workstations representing the two major current VR platforms, the Oculus Rift and the HTC Vive, and other equipment. There are many games and educational experiences available for research. The Studio is open for use by NCSU students, faculty, and staff. Patrons must take a short safety orientation and sign a waiver to use the Studio. Please fill out a request form to set up a consultation, to access the room outside of open hours, or for other special inquiries. " ;
     schema:name "VR Studio" ;
     schema:openingHoursSpecification [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Tuesday" ;
+            schema:dayOfWeek <http://schema.org/Tuesday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "00:00" ;
-            schema:dayOfWeek "http://schema.org/Sunday" ;
+            schema:dayOfWeek <http://schema.org/Sunday> ;
             schema:opens "00:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Wednesday" ;
+            schema:dayOfWeek <http://schema.org/Wednesday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Friday" ;
+            schema:dayOfWeek <http://schema.org/Friday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Monday" ;
+            schema:dayOfWeek <http://schema.org/Monday> ;
             schema:opens "12:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "00:00" ;
-            schema:dayOfWeek "http://schema.org/Saturday" ;
+            schema:dayOfWeek <http://schema.org/Saturday> ;
             schema:opens "00:00" ],
         [ a schema:OpeningHoursSpecification ;
             schema:closes "17:00" ;
-            schema:dayOfWeek "http://schema.org/Thursday" ;
+            schema:dayOfWeek <http://schema.org/Thursday> ;
             schema:opens "12:00" ] ;
-    schema:photo "https://www.lib.ncsu.edu/sites/default/files/thumbnails/image/VRdemo1_0.jpg" ;
+    schema:photo <https://www.lib.ncsu.edu/sites/default/files/thumbnails/image/VRdemo1_0.jpg> ;
     schema:url <https://www.lib.ncsu.edu/spaces/vr-studio> .
 
 
@@ -1991,17 +1990,17 @@ The library is open to veterinarians, veterinary technicians, researchers, stude
     schema:category <https://www.wikidata.org/wiki/Q335234> ;
     schema:description "Panasonic HD Camcorders capable of shooting high-definition video and JPEG images. You also can store your footage using the camcorder's available SD/SDHC/SDXC memory card slot." ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/Panasonic%20Camcorder.jpg> ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/techlending/digital-cameras-and-camcorders" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/techlending/digital-cameras-and-camcorders> ;
     schema:manufacturer <https://www.wikidata.org/wiki/Q53247> ;
     schema:model "HC V700" ;
     schema:name "Panasonic HD Camcorders" ;
     schema:offers [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/huntlibrary" ;
+            schema:availability <http://schema.org/InStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/huntlibrary> ;
             schema:inventoryLevel "15" ],
         [ a schema:Offer ;
-            schema:availability "http://schema.org/OutOfStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/about/dhhill" ;
+            schema:availability <http://schema.org/OutOfStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/about/dhhill> ;
             schema:inventoryLevel "0" ] ;
     schema:url <https://www.lib.ncsu.edu/devices/hd-camcorder> .
 
@@ -2017,17 +2016,17 @@ The library is open to veterinarians, veterinary technicians, researchers, stude
     schema:category <https://www.wikidata.org/wiki/Q196342> ;
     schema:description "The Canon camera comes with a single flexible zoom lens that allows for stunning macro and distance photography. It is capable of capturing high resolution video as well as high quality still photographs. We also offer a limited number of flash kits the enable you to supplement the built-in flash for finer grain control over indoor photo shoots. The Canon EOS Rebel models include the T4i, T5i and T6i." ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/Canon%20Rebel.jpg> ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/techlending/digital-cameras-and-camcorders" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/techlending/digital-cameras-and-camcorders> ;
     schema:manufacturer <https://www.wikidata.org/wiki/Q62621> ;
     schema:model "EOS Rebel" ;
     schema:name "EOS Rebel" ;
     schema:offers [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/about/dhhill" ;
+            schema:availability <http://schema.org/InStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/about/dhhill> ;
             schema:inventoryLevel "1" ],
         [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/huntlibrary" ;
+            schema:availability <http://schema.org/InStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/huntlibrary> ;
             schema:inventoryLevel "1" ] ;
     schema:url <https://www.lib.ncsu.edu/devices/eos-rebel> .
 
@@ -2044,17 +2043,17 @@ The library is open to veterinarians, veterinary technicians, researchers, stude
     schema:category <https://www.wikidata.org/wiki/Q196342> ;
     schema:description "The Olympus camera comes with two lenses that are great for indoor and outdoor, day and night and event shooting. The Olympus camera does not have video capability." ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/Olympus.jpg> ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/techlending/digital-cameras-and-camcorders" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/techlending/digital-cameras-and-camcorders> ;
     schema:manufacturer <https://www.wikidata.org/wiki/Q688619> ;
     schema:model "E-620" ;
     schema:name "E-620" ;
     schema:offers [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/huntlibrary" ;
+            schema:availability <http://schema.org/InStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/huntlibrary> ;
             schema:inventoryLevel "4" ],
         [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/about/dhhill" ;
+            schema:availability <http://schema.org/InStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/about/dhhill> ;
             schema:inventoryLevel "2" ] ;
     schema:url <https://www.lib.ncsu.edu/devices/e-620> .
 
@@ -2071,14 +2070,14 @@ The library is open to veterinarians, veterinary technicians, researchers, stude
     schema:category <https://www.wikidata.org/wiki/Q683906> ;
     schema:description "Tripods allow for stable, hands free video recording and photography." ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/Tripod_0.jpg> ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/techlending/digital-cameras-and-camcorders" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/techlending/digital-cameras-and-camcorders> ;
     schema:name "Tripod" ;
     schema:offers [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/about/dhhill" ],
+            schema:availability <http://schema.org/InStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/about/dhhill> ],
         [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/huntlibrary" ] ;
+            schema:availability <http://schema.org/InStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/huntlibrary> ] ;
     schema:url <https://www.lib.ncsu.edu/devices/tripod> .
 
 <https://www.wikidata.org/wiki/Q683906> a schema:Thing ;
@@ -2090,17 +2089,17 @@ The library is open to veterinarians, veterinary technicians, researchers, stude
     schema:category <https://www.wikidata.org/wiki/Q1723004> ;
     schema:description "Capture 8MP images and HD videos of wildlife using these motion-detecting scout cameras." ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/Reconyx.jpg> ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/techlending/digital-cameras-and-camcorders" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/techlending/digital-cameras-and-camcorders> ;
     schema:manufacturer [ a schema:Organization ;
             schema:name "Reconyx" ] ;
     schema:model "XR6" ;
     schema:name "Reconyx Scouting Camera" ;
     schema:offers [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/about/dhhill" ],
+            schema:availability <http://schema.org/InStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/about/dhhill> ],
         [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/huntlibrary" ] ;
+            schema:availability <http://schema.org/InStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/huntlibrary> ] ;
     schema:url <https://www.lib.ncsu.edu/devices/reconyx-scouting-camera> .
 
 <https://www.wikidata.org/wiki/Q1723004> a schema:Thing ;
@@ -2114,14 +2113,14 @@ The library is open to veterinarians, veterinary technicians, researchers, stude
         <https://www.wikidata.org/wiki/Q46384> ;
     schema:description "Video kit for Canon DSLR cameras that includes an additional lens, shotgun microphone, and a LED light that help enhance the standard features of the camera to better light scenes and capture stereo audio." ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/videokit.png> ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/techlending/digital-cameras-and-camcorders" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/techlending/digital-cameras-and-camcorders> ;
     schema:name "DSLR Video Kit" ;
     schema:offers [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/huntlibrary" ],
+            schema:availability <http://schema.org/InStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/huntlibrary> ],
         [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/about/dhhill" ] ;
+            schema:availability <http://schema.org/InStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/about/dhhill> ] ;
     schema:url <https://www.lib.ncsu.edu/devices/dslr-video-kit> .
 
 <https://www.wikidata.org/wiki/Q192234> a schema:Thing ;
@@ -2143,17 +2142,17 @@ The library is open to veterinarians, veterinary technicians, researchers, stude
 Item comes with a flat mount, a vertical mount, and a pivoting mount.
 Head mounts, helmet mounts, chest mounts, and tripod mounts are available by request.""" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/gopro.jpg> ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/techlending/digital-cameras-and-camcorders" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/techlending/digital-cameras-and-camcorders> ;
     schema:manufacturer <https://www.wikidata.org/wiki/Q733482> ;
     schema:model "HERO4" ;
     schema:name "GoPro Hero" ;
     schema:offers [ a schema:Offer ;
-            schema:availability "http://schema.org/OutOfStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/huntlibrary" ;
+            schema:availability <http://schema.org/OutOfStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/huntlibrary> ;
             schema:itemAvailability "0" ],
         [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/about/dhhill" ;
+            schema:availability <http://schema.org/InStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/about/dhhill> ;
             schema:itemAvailability "6" ] ;
     schema:url <https://www.lib.ncsu.edu/devices/gopro-hero> .
 
@@ -2169,15 +2168,15 @@ Head mounts, helmet mounts, chest mounts, and tripod mounts are available by req
     schema:category <https://www.wikidata.org/wiki/Q13428276> ;
     schema:description "Compact, handheld infrared camera for assessing heat distribution and measuring temperatures without physical contact." ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/flir.jpg> ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/techlending/digital-cameras-and-camcorders" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/techlending/digital-cameras-and-camcorders> ;
     schema:name "Thermal Imager" ;
     schema:offers [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/about/dhhill" ;
+            schema:availability <http://schema.org/InStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/about/dhhill> ;
             schema:itemAvailability "1" ],
         [ a schema:Offer ;
-            schema:availability "http://schema.org/OutOfStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/huntlibrary" ;
+            schema:availability <http://schema.org/OutOfStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/huntlibrary> ;
             schema:itemAvailability "0" ] ;
     schema:url <https://www.lib.ncsu.edu/devices/thermal-imager> .
 
@@ -2191,19 +2190,19 @@ Head mounts, helmet mounts, chest mounts, and tripod mounts are available by req
         <https://www.wikidata.org/wiki/Q861508> ;
     schema:description "Netbook style computer that runs Google Chrome OS." ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/Chromebook_0.jpg> ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/techlending/laptops-netbooks" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/techlending/laptops-netbooks> ;
     schema:name "Chromebook" ;
     schema:offers [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/huntlibrary" ;
+            schema:availability <http://schema.org/InStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/huntlibrary> ;
             schema:itemAvailability "13" ],
         [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/nrl" ;
+            schema:availability <http://schema.org/InStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/nrl> ;
             schema:itemAvailability "1" ],
         [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/about/dhhill" ;
+            schema:availability <http://schema.org/InStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/about/dhhill> ;
             schema:itemAvailability "15" ] ;
     schema:url <https://www.lib.ncsu.edu/devices/chromebook> .
 
@@ -2220,14 +2219,14 @@ Head mounts, helmet mounts, chest mounts, and tripod mounts are available by req
         <https://www.wikidata.org/wiki/Q486053> ;
     schema:description "The NCSU Libraries loans both MacBook Airs and MacBook Pros from Ask Us." ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/Macbook_1.jpg> ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/techlending/laptops-netbooks" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/techlending/laptops-netbooks> ;
     schema:name "Mac Laptop" ;
     schema:offers [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/about/dhhill" ],
+            schema:availability <http://schema.org/InStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/about/dhhill> ],
         [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/huntlibrary" ] ;
+            schema:availability <http://schema.org/InStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/huntlibrary> ] ;
     schema:url <https://www.lib.ncsu.edu/devices/mac-laptop> .
 
 <https://www.wikidata.org/wiki/Q3962> a schema:Thing ;
@@ -2243,14 +2242,14 @@ Head mounts, helmet mounts, chest mounts, and tripod mounts are available by req
         <https://www.wikidata.org/wiki/Q3962> ;
     schema:description "Windows Laptop" ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/Dell%20Laptop.jpg> ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/techlending/laptops-netbooks" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/techlending/laptops-netbooks> ;
     schema:name "Windows Laptop" ;
     schema:offers [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/huntlibrary" ],
+            schema:availability <http://schema.org/InStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/huntlibrary> ],
         [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/about/dhhill" ] ;
+            schema:availability <http://schema.org/InStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/about/dhhill> ] ;
     schema:url <https://www.lib.ncsu.edu/devices/windows-laptops> .
 
 <https://www.wikidata.org/wiki/Q1406> a schema:Thing ;
@@ -2266,27 +2265,27 @@ Head mounts, helmet mounts, chest mounts, and tripod mounts are available by req
         <https://www.wikidata.org/wiki/Q2796> ;
     schema:description "Handheld tablet that runs Apple iOS." ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/iPad%20Pro.jpg> ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/techlending/tablets" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/techlending/tablets> ;
     schema:name "iPad" ;
     schema:offers [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/nrl" ;
+            schema:availability <http://schema.org/InStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/nrl> ;
             schema:itemAvailability "8" ],
         [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/vetmed" ;
+            schema:availability <http://schema.org/InStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/vetmed> ;
             schema:itemAvailability "5" ],
         [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/about/dhhill" ;
+            schema:availability <http://schema.org/InStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/about/dhhill> ;
             schema:itemAvailability "17" ],
         [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/design" ;
+            schema:availability <http://schema.org/InStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/design> ;
             schema:itemAvailability "1" ],
         [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/huntlibrary" ;
+            schema:availability <http://schema.org/InStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/huntlibrary> ;
             schema:itemAvailability "7" ] ;
     schema:url <https://www.lib.ncsu.edu/devices/ipad> .
 
@@ -2303,15 +2302,15 @@ Head mounts, helmet mounts, chest mounts, and tripod mounts are available by req
         <https://www.wikidata.org/wiki/Q2796> ;
     schema:description "Apple's largest iPad. Includes a powerful A9X processor, a four-speaker audio system, and keyboard." ;
     schema:image <https://www.lib.ncsu.edu/sites/default/files/ipadpro.png> ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/techlending/tablets" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/techlending/tablets> ;
     schema:name "iPad Pro" ;
     schema:offers [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/huntlibrary" ;
+            schema:availability <http://schema.org/InStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/huntlibrary> ;
             schema:itemAvailability "6" ],
         [ a schema:Offer ;
-            schema:availability "http://schema.org/InStock" ;
-            schema:availableAtOrFrom "https://www.lib.ncsu.edu/about/dhhill" ;
+            schema:availability <http://schema.org/InStock> ;
+            schema:availableAtOrFrom <https://www.lib.ncsu.edu/about/dhhill> ;
             schema:itemAvailability "6" ] ;
     schema:url <https://www.lib.ncsu.edu/devices/ipad-pro> .
 
@@ -2326,10 +2325,10 @@ Head mounts, helmet mounts, chest mounts, and tripod mounts are available by req
 <https://www.lib.ncsu.edu/do/gis> a schema:Service ;
     schema:category <https://www.wikidata.org/wiki/Q483130> ;
     schema:description "We provide access to data resources and assist researchers with identifying and using geospatial and tabular data with mapping software." ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/services/data-visualization" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/services/data-visualization> ;
     schema:name "Geographic Information Systems (GIS)" ;
-    schema:provider "https://www.lib.ncsu.edu/staff/jfessic",
-        "https://www.lib.ncsu.edu/staff/mrnutt" ;
+    schema:provider <https://www.lib.ncsu.edu/staff/jfessic>,
+        <https://www.lib.ncsu.edu/staff/mrnutt> ;
     schema:url <https://www.lib.ncsu.edu/do/gis> .
 
 <https://www.wikidata.org/wiki/Q483130> a schema:Thing ;
@@ -2350,14 +2349,14 @@ Head mounts, helmet mounts, chest mounts, and tripod mounts are available by req
     schema:description """Text and data mining are the computer-based processes of extracting relevant information and/or patterns from machine-readable text or data. The work usually involves examining large data sets. Text and data mining is used across disciplines, from history to biology, computer science to political science.
 
 Depending on your discipline and the kind of data you want to mine, the process may be called something other than text mining or data mining. Related terms include: text data mining, text analytics, content mining, audio mining, software mining, image mining, metadata mining, and video mining.""" ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/services/data-visualization" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/services/data-visualization> ;
     schema:name "Text and Data Mining" ;
-    schema:provider "https://www.lib.ncsu.edu/staff/ablaine",
-        "https://www.lib.ncsu.edu/staff/dcorcutt",
-        "https://www.lib.ncsu.edu/staff/hjtebbe",
-        "https://www.lib.ncsu.edu/staff/jfessic",
-        "https://www.lib.ncsu.edu/staff/mgwust",
-        "https://www.lib.ncsu.edu/staff/mrnutt" ;
+    schema:provider <https://www.lib.ncsu.edu/staff/ablaine>,
+        <https://www.lib.ncsu.edu/staff/dcorcutt>,
+        <https://www.lib.ncsu.edu/staff/hjtebbe>,
+        <https://www.lib.ncsu.edu/staff/jfessic>,
+        <https://www.lib.ncsu.edu/staff/mgwust>,
+        <https://www.lib.ncsu.edu/staff/mrnutt> ;
     schema:url <https://www.lib.ncsu.edu/do/text-and-data-mining> .
 
 <https://www.wikidata.org/wiki/Q172491> a schema:Thing ;
@@ -2371,15 +2370,15 @@ Depending on your discipline and the kind of data you want to mine, the process 
 <https://www.lib.ncsu.edu/do/visualization> a schema:Service ;
     schema:category <https://www.wikidata.org/wiki/Q451553> ;
     schema:description "A good data visualization can expose new patterns and relationships in your data and help you communicate about it more clearly. The NCSU Libraries can help you become a data visualization expert." ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/services/data-visualization" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/services/data-visualization> ;
     schema:name "Visualization" ;
-    schema:provider "https://www.lib.ncsu.edu/staff/ablaine",
-        "https://www.lib.ncsu.edu/staff/hlrainey",
-        "https://www.lib.ncsu.edu/staff/jevansg",
-        "https://www.lib.ncsu.edu/staff/jfessic",
-        "https://www.lib.ncsu.edu/staff/jmjeffer",
-        "https://www.lib.ncsu.edu/staff/jwgurley",
-        "https://www.lib.ncsu.edu/staff/kacollin" ;
+    schema:provider <https://www.lib.ncsu.edu/staff/ablaine>,
+        <https://www.lib.ncsu.edu/staff/hlrainey>,
+        <https://www.lib.ncsu.edu/staff/jevansg>,
+        <https://www.lib.ncsu.edu/staff/jfessic>,
+        <https://www.lib.ncsu.edu/staff/jmjeffer>,
+        <https://www.lib.ncsu.edu/staff/jwgurley>,
+        <https://www.lib.ncsu.edu/staff/kacollin> ;
     schema:url <https://www.lib.ncsu.edu/do/visualization> .
 
 <https://www.wikidata.org/wiki/Q451553> a schema:Thing ;
@@ -2390,10 +2389,10 @@ Depending on your discipline and the kind of data you want to mine, the process 
 <https://www.lib.ncsu.edu/do/large-format-printing> a schema:Service ;
     schema:category <https://www.wikidata.org/wiki/Q11034> ;
     schema:description "A large format printer is available at the Ask Us centers at the D. H. Hill and Hunt Libraries for large format printing for NCSU faculty, staff, students, and Centennial Campus affiliates." ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/services/digital-media-production" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/services/digital-media-production> ;
     schema:name "Large Format Printing" ;
-    schema:provider "https://www.lib.ncsu.edu/staff/kmlangdo",
-        "https://www.lib.ncsu.edu/staff/mamathew" ;
+    schema:provider <https://www.lib.ncsu.edu/staff/kmlangdo>,
+        <https://www.lib.ncsu.edu/staff/mamathew> ;
     schema:url <https://www.lib.ncsu.edu/do/large-format-printing> .
 
 <https://www.wikidata.org/wiki/Q11034> a schema:Thing ;
@@ -2411,12 +2410,12 @@ Depending on your discipline and the kind of data you want to mine, the process 
 <https://www.lib.ncsu.edu/do/scanning> a schema:Service ;
     schema:category <https://www.wikidata.org/wiki/Q7098890> ;
     schema:description "Specialized scanners and help with converting almost any printed or photographic material into digital format." ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/services/digital-media-production" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/services/digital-media-production> ;
     schema:name "Scanning" ;
-    schema:provider "https://www.lib.ncsu.edu/staff/dnwoodbu",
-        "https://www.lib.ncsu.edu/staff/jevansg",
-        "https://www.lib.ncsu.edu/staff/kmlangdo",
-        "https://www.lib.ncsu.edu/staff/mamathew" ;
+    schema:provider <https://www.lib.ncsu.edu/staff/dnwoodbu>,
+        <https://www.lib.ncsu.edu/staff/jevansg>,
+        <https://www.lib.ncsu.edu/staff/kmlangdo>,
+        <https://www.lib.ncsu.edu/staff/mamathew> ;
     schema:url <https://www.lib.ncsu.edu/do/scanning> .
 
 <https://www.wikidata.org/wiki/Q7098890> a schema:Thing ;
@@ -2428,12 +2427,12 @@ Depending on your discipline and the kind of data you want to mine, the process 
 <https://www.lib.ncsu.edu/do/photography> a schema:Service ;
     schema:category <https://www.wikidata.org/wiki/Q11633> ;
     schema:description "There are several workshops and cameras available at the NCSU Libraries for your photography needs." ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/services/digital-media-production" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/services/digital-media-production> ;
     schema:name "Photography" ;
-    schema:provider "https://www.lib.ncsu.edu/staff/dnwoodbu",
-        "https://www.lib.ncsu.edu/staff/jevansg",
-        "https://www.lib.ncsu.edu/staff/kmlangdo",
-        "https://www.lib.ncsu.edu/staff/mamathew" ;
+    schema:provider <https://www.lib.ncsu.edu/staff/dnwoodbu>,
+        <https://www.lib.ncsu.edu/staff/jevansg>,
+        <https://www.lib.ncsu.edu/staff/kmlangdo>,
+        <https://www.lib.ncsu.edu/staff/mamathew> ;
     schema:url <https://www.lib.ncsu.edu/do/photography> .
 
 <https://www.wikidata.org/wiki/Q11633> a schema:Thing ;
@@ -2444,12 +2443,12 @@ Depending on your discipline and the kind of data you want to mine, the process 
 <https://www.lib.ncsu.edu/do/audio> a schema:Service ;
     schema:category <https://www.wikidata.org/wiki/Q15280872> ;
     schema:description "Record, play, experiment with voice and music." ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/services/digital-media-production" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/services/digital-media-production> ;
     schema:name "Audio" ;
-    schema:provider "https://www.lib.ncsu.edu/staff/dnwoodbu",
-        "https://www.lib.ncsu.edu/staff/jevansg",
-        "https://www.lib.ncsu.edu/staff/kmlangdo",
-        "https://www.lib.ncsu.edu/staff/mrnutt" ;
+    schema:provider <https://www.lib.ncsu.edu/staff/dnwoodbu>,
+        <https://www.lib.ncsu.edu/staff/jevansg>,
+        <https://www.lib.ncsu.edu/staff/kmlangdo>,
+        <https://www.lib.ncsu.edu/staff/mrnutt> ;
     schema:url <https://www.lib.ncsu.edu/do/audio> .
 
 <https://www.wikidata.org/wiki/Q15280872> a schema:Thing ;
@@ -2461,11 +2460,11 @@ Depending on your discipline and the kind of data you want to mine, the process 
 <https://www.lib.ncsu.edu/do/graphics> a schema:Service ;
     schema:category <https://www.wikidata.org/wiki/Q1027879> ;
     schema:description "Software, computers and expert help for producing high-quality graphics for your projects." ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/services/digital-media-production" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/services/digital-media-production> ;
     schema:name "Graphics" ;
-    schema:provider "https://www.lib.ncsu.edu/staff/dnwoodbu",
-        "https://www.lib.ncsu.edu/staff/jevansg",
-        "https://www.lib.ncsu.edu/staff/mrnutt" ;
+    schema:provider <https://www.lib.ncsu.edu/staff/dnwoodbu>,
+        <https://www.lib.ncsu.edu/staff/jevansg>,
+        <https://www.lib.ncsu.edu/staff/mrnutt> ;
     schema:url <https://www.lib.ncsu.edu/do/graphics> .
 
 <https://www.wikidata.org/wiki/Q1027879> a schema:Thing ;
@@ -2477,13 +2476,13 @@ Depending on your discipline and the kind of data you want to mine, the process 
     schema:category <https://www.wikidata.org/wiki/Q170519>,
         <https://www.wikidata.org/wiki/Q254183> ;
     schema:description "Virtual reality (VR) is a realistic and immersive simulation of a three-dimensional environment, created using interactive software and hardware, and experienced or controlled by movement of the body. Augmented reality (AR) is an enhanced image or environment as viewed on a screen or other display, produced by overlaying computer-generated images, sounds, or other data on a real-world environment." ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/services/digital-media-production" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/services/digital-media-production> ;
     schema:name "Virtual Reality & Augmented Reality" ;
-    schema:provider "https://www.lib.ncsu.edu/staff/asroger2",
-        "https://www.lib.ncsu.edu/staff/dnwoodbu",
-        "https://www.lib.ncsu.edu/staff/mgwust",
-        "https://www.lib.ncsu.edu/staff/mrnutt",
-        "https://www.lib.ncsu.edu/staff/prschrei" ;
+    schema:provider <https://www.lib.ncsu.edu/staff/asroger2>,
+        <https://www.lib.ncsu.edu/staff/dnwoodbu>,
+        <https://www.lib.ncsu.edu/staff/mgwust>,
+        <https://www.lib.ncsu.edu/staff/mrnutt>,
+        <https://www.lib.ncsu.edu/staff/prschrei> ;
     schema:url <https://www.lib.ncsu.edu/do/virtual-reality> .
 
 <https://www.wikidata.org/wiki/Q170519> a schema:Thing ;
@@ -2498,17 +2497,17 @@ Depending on your discipline and the kind of data you want to mine, the process 
     schema:category <https://www.wikidata.org/wiki/Q1149776>,
         <https://www.wikidata.org/wiki/Q15809982> ;
     schema:description "We can help during all phases of the research data lifecycle. We help prepare data management plans (DMPs) for grant proposals, consult on best practices for storage and preservation, and help optimize sharing and discovery of data.  We work with OIT and SPARCS to advance research at NC State." ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/services/researcher-support" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/services/researcher-support> ;
     schema:name "Data Management" ;
-    schema:provider "https://www.lib.ncsu.edu/staff/dmlewis6",
-        "https://www.lib.ncsu.edu/staff/eyhayes",
-        "https://www.lib.ncsu.edu/staff/hmdavis4",
-        "https://www.lib.ncsu.edu/staff/jfessic",
-        "https://www.lib.ncsu.edu/staff/kacollin",
-        "https://www.lib.ncsu.edu/staff/kmalpi",
-        "https://www.lib.ncsu.edu/staff/mramasw",
-        "https://www.lib.ncsu.edu/staff/stnakaso",
-        "https://www.lib.ncsu.edu/staff/wmcross" ;
+    schema:provider <https://www.lib.ncsu.edu/staff/dmlewis6>,
+        <https://www.lib.ncsu.edu/staff/eyhayes>,
+        <https://www.lib.ncsu.edu/staff/hmdavis4>,
+        <https://www.lib.ncsu.edu/staff/jfessic>,
+        <https://www.lib.ncsu.edu/staff/kacollin>,
+        <https://www.lib.ncsu.edu/staff/kmalpi>,
+        <https://www.lib.ncsu.edu/staff/mramasw>,
+        <https://www.lib.ncsu.edu/staff/stnakaso>,
+        <https://www.lib.ncsu.edu/staff/wmcross> ;
     schema:url <https://www.lib.ncsu.edu/do/data-management> .
 
 <https://www.wikidata.org/wiki/Q1149776> a schema:Thing ;
@@ -2530,18 +2529,18 @@ Depending on your discipline and the kind of data you want to mine, the process 
     schema:category <https://www.wikidata.org/wiki/Q14565201>,
         <https://www.wikidata.org/wiki/Q5330> ;
     schema:description "You can analyze your individual or collaborative scholarly output to:" ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/services/researcher-support" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/services/researcher-support> ;
     schema:name "Measuring Research Impact" ;
-    schema:provider "https://www.lib.ncsu.edu/staff/ajcarro4",
-        "https://www.lib.ncsu.edu/staff/dmlewis6",
-        "https://www.lib.ncsu.edu/staff/eyhayes",
-        "https://www.lib.ncsu.edu/staff/gkraschk",
-        "https://www.lib.ncsu.edu/staff/kmalpi",
-        "https://www.lib.ncsu.edu/staff/mlvandeg",
-        "https://www.lib.ncsu.edu/staff/mpark",
-        "https://www.lib.ncsu.edu/staff/mramasw",
-        "https://www.lib.ncsu.edu/staff/reposey",
-        "https://www.lib.ncsu.edu/staff/wmcross" ;
+    schema:provider <https://www.lib.ncsu.edu/staff/ajcarro4>,
+        <https://www.lib.ncsu.edu/staff/dmlewis6>,
+        <https://www.lib.ncsu.edu/staff/eyhayes>,
+        <https://www.lib.ncsu.edu/staff/gkraschk>,
+        <https://www.lib.ncsu.edu/staff/kmalpi>,
+        <https://www.lib.ncsu.edu/staff/mlvandeg>,
+        <https://www.lib.ncsu.edu/staff/mpark>,
+        <https://www.lib.ncsu.edu/staff/mramasw>,
+        <https://www.lib.ncsu.edu/staff/reposey>,
+        <https://www.lib.ncsu.edu/staff/wmcross> ;
     schema:url <https://www.lib.ncsu.edu/do/research-impact> .
 
 <https://www.wikidata.org/wiki/Q14565201> a schema:Thing ;
@@ -2555,14 +2554,14 @@ Depending on your discipline and the kind of data you want to mine, the process 
 <https://www.lib.ncsu.edu/do/grants-and-funding> a schema:Service ;
     schema:category <https://www.wikidata.org/wiki/Q4806846> ;
     schema:description "Librarians can provide assistance with searching funding databases and creating funding opportunity alerts. We can also help Find Research Collaborators. For more information, meet with a librarian or Ask Us." ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/services/researcher-support" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/services/researcher-support> ;
     schema:name "Grants & Funding" ;
-    schema:provider "https://www.lib.ncsu.edu/staff/dmlewis6",
-        "https://www.lib.ncsu.edu/staff/kmalpi",
-        "https://www.lib.ncsu.edu/staff/mpark",
-        "https://www.lib.ncsu.edu/staff/mramasw",
-        "https://www.lib.ncsu.edu/staff/reposey",
-        "https://www.lib.ncsu.edu/staff/wmcross" ;
+    schema:provider <https://www.lib.ncsu.edu/staff/dmlewis6>,
+        <https://www.lib.ncsu.edu/staff/kmalpi>,
+        <https://www.lib.ncsu.edu/staff/mpark>,
+        <https://www.lib.ncsu.edu/staff/mramasw>,
+        <https://www.lib.ncsu.edu/staff/reposey>,
+        <https://www.lib.ncsu.edu/staff/wmcross> ;
     schema:url <https://www.lib.ncsu.edu/do/grants-and-funding> .
 
 <https://www.wikidata.org/wiki/Q4806846> a schema:Thing ;
@@ -2579,10 +2578,10 @@ Depending on your discipline and the kind of data you want to mine, the process 
     schema:description """Digital distribution and changes in the law are transforming the way that scholars share their work. The CDSC offers legal guidance to help you understand the issues and to support your publication decisions.
 
 We also offer more information about publication agreements, the central legal instrument in the academic world and specific issues such as rights reversion for scholarly monographs.''""" ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/services/researcher-support" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/services/researcher-support> ;
     schema:name "Publishing and Copyright" ;
-    schema:provider "https://www.lib.ncsu.edu/staff/mlvandeg",
-        "https://www.lib.ncsu.edu/staff/wmcross" ;
+    schema:provider <https://www.lib.ncsu.edu/staff/mlvandeg>,
+        <https://www.lib.ncsu.edu/staff/wmcross> ;
     schema:url <https://www.lib.ncsu.edu/do/cdsc> .
 
 <https://www.wikidata.org/wiki/Q12948581> a schema:Thing ;
@@ -2605,11 +2604,11 @@ We also offer more information about publication agreements, the central legal i
 <https://www.lib.ncsu.edu/do/citation-management> a schema:Service ;
     schema:category <https://www.wikidata.org/wiki/Q1403556> ;
     schema:description "These tools help you store and organize lots of references, and format bibliographies and papers in specific citation styles." ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/services/researcher-support" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/services/researcher-support> ;
     schema:name "Citation Management" ;
-    schema:provider "https://www.lib.ncsu.edu/staff/kmalpi",
-        "https://www.lib.ncsu.edu/staff/mramasw",
-        "https://www.lib.ncsu.edu/staff/reposey" ;
+    schema:provider <https://www.lib.ncsu.edu/staff/kmalpi>,
+        <https://www.lib.ncsu.edu/staff/mramasw>,
+        <https://www.lib.ncsu.edu/staff/reposey> ;
     schema:url <https://www.lib.ncsu.edu/do/citation-management> .
 
 <https://www.wikidata.org/wiki/Q1403556> a schema:Thing ;
@@ -2622,18 +2621,18 @@ We also offer more information about publication agreements, the central legal i
     schema:category <https://www.wikidata.org/wiki/Q1031140>,
         <https://www.wikidata.org/wiki/Q116781> ;
     schema:description "The NCSU Libraries is committed to fostering change in the current textbook publishing environment. Librarians can partner with faculty members on licensing resources, using digital repositories, and creating and publishing their own open educational resources." ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/services/instructor-support" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/services/instructor-support> ;
     schema:name "Open Education" ;
-    schema:provider "https://www.lib.ncsu.edu/staff/ajcarro4",
-        "https://www.lib.ncsu.edu/staff/aledwar5",
-        "https://www.lib.ncsu.edu/staff/amburke5",
-        "https://www.lib.ncsu.edu/staff/bkpugsle",
-        "https://www.lib.ncsu.edu/staff/eyhayes",
-        "https://www.lib.ncsu.edu/staff/hlrainey",
-        "https://www.lib.ncsu.edu/staff/lmaeschl",
-        "https://www.lib.ncsu.edu/staff/mlvandeg",
-        "https://www.lib.ncsu.edu/staff/mpark",
-        "https://www.lib.ncsu.edu/staff/wmcross" ;
+    schema:provider <https://www.lib.ncsu.edu/staff/ajcarro4>,
+        <https://www.lib.ncsu.edu/staff/aledwar5>,
+        <https://www.lib.ncsu.edu/staff/amburke5>,
+        <https://www.lib.ncsu.edu/staff/bkpugsle>,
+        <https://www.lib.ncsu.edu/staff/eyhayes>,
+        <https://www.lib.ncsu.edu/staff/hlrainey>,
+        <https://www.lib.ncsu.edu/staff/lmaeschl>,
+        <https://www.lib.ncsu.edu/staff/mlvandeg>,
+        <https://www.lib.ncsu.edu/staff/mpark>,
+        <https://www.lib.ncsu.edu/staff/wmcross> ;
     schema:url <https://www.lib.ncsu.edu/do/open-education> .
 
 <https://www.wikidata.org/wiki/Q1031140> a schema:Thing ;
@@ -2654,16 +2653,16 @@ We also offer more information about publication agreements, the central legal i
 <https://www.lib.ncsu.edu/do/manage-course-reserves> a schema:Service ;
     schema:category <https://www.wikidata.org/wiki/Q2586246> ;
     schema:description "The NCSU Libraries course reserves system provides valuable readings and other materials that support the instructional requirements of specific courses." ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/services/instructor-support" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/services/instructor-support> ;
     schema:name "Manage Course Reserves" ;
-    schema:provider "https://www.lib.ncsu.edu/staff/apreher",
-        "https://www.lib.ncsu.edu/staff/arbrand",
-        "https://www.lib.ncsu.edu/staff/cmprinc2",
-        "https://www.lib.ncsu.edu/staff/dbkoh",
-        "https://www.lib.ncsu.edu/staff/ndbayung",
-        "https://www.lib.ncsu.edu/staff/slthomp5",
-        "https://www.lib.ncsu.edu/staff/tdgeib",
-        "https://www.lib.ncsu.edu/staff/wdharnis" ;
+    schema:provider <https://www.lib.ncsu.edu/staff/apreher>,
+        <https://www.lib.ncsu.edu/staff/arbrand>,
+        <https://www.lib.ncsu.edu/staff/cmprinc2>,
+        <https://www.lib.ncsu.edu/staff/dbkoh>,
+        <https://www.lib.ncsu.edu/staff/ndbayung>,
+        <https://www.lib.ncsu.edu/staff/slthomp5>,
+        <https://www.lib.ncsu.edu/staff/tdgeib>,
+        <https://www.lib.ncsu.edu/staff/wdharnis> ;
     schema:url <https://www.lib.ncsu.edu/do/manage-course-reserves> .
 
 <https://www.wikidata.org/wiki/Q2586246> a schema:Thing ;
@@ -2674,15 +2673,15 @@ We also offer more information about publication agreements, the central legal i
 <https://www.lib.ncsu.edu/do/library-instruction-programs> a schema:Service ;
     schema:category <https://www.wikidata.org/wiki/Q17152826> ;
     schema:description "The NCSU Libraries provides research assistance to your classes. Librarians are able to work with you to create an instruction session suited to the needs of your students and your teaching." ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/services/instructor-support" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/services/instructor-support> ;
     schema:name "Library Instruction Programs" ;
-    schema:provider "https://www.lib.ncsu.edu/staff/akorphan",
-        "https://www.lib.ncsu.edu/staff/aledwar5",
-        "https://www.lib.ncsu.edu/staff/amburke5",
-        "https://www.lib.ncsu.edu/staff/dltully",
-        "https://www.lib.ncsu.edu/staff/kgtourin",
-        "https://www.lib.ncsu.edu/staff/mpark",
-        "https://www.lib.ncsu.edu/staff/mrnutt" ;
+    schema:provider <https://www.lib.ncsu.edu/staff/akorphan>,
+        <https://www.lib.ncsu.edu/staff/aledwar5>,
+        <https://www.lib.ncsu.edu/staff/amburke5>,
+        <https://www.lib.ncsu.edu/staff/dltully>,
+        <https://www.lib.ncsu.edu/staff/kgtourin>,
+        <https://www.lib.ncsu.edu/staff/mpark>,
+        <https://www.lib.ncsu.edu/staff/mrnutt> ;
     schema:url <https://www.lib.ncsu.edu/do/library-instruction-programs> .
 
 <https://www.wikidata.org/wiki/Q17152826> a schema:Thing ;
@@ -2704,13 +2703,13 @@ We also offer more information about publication agreements, the central legal i
     schema:description """At the NCSU Libraries, we believe electronics are for everyone to make. We provide access to easy-to-learn yet powerful platforms such as Arduino and the Raspberry Pi, which are available in kits with electronic components for prototyping. The items below are available for checkout at both D.H. Hill and Hunt Library.
 
 We have additional equipment not listed here (boards, sensors, etc.) that can be checked out for projects and even long-term use. Please contact us at hill_makerspace@ncsu.edu with your needs and we will do our best to help.""" ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/services/makerspace" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/services/makerspace> ;
     schema:name "Electronics" ;
-    schema:provider "https://www.lib.ncsu.edu/staff/asroger2",
-        "https://www.lib.ncsu.edu/staff/crnickel",
-        "https://www.lib.ncsu.edu/staff/dnwoodbu",
-        "https://www.lib.ncsu.edu/staff/jmhaynes",
-        "https://www.lib.ncsu.edu/staff/jrhandlo" ;
+    schema:provider <https://www.lib.ncsu.edu/staff/asroger2>,
+        <https://www.lib.ncsu.edu/staff/crnickel>,
+        <https://www.lib.ncsu.edu/staff/dnwoodbu>,
+        <https://www.lib.ncsu.edu/staff/jmhaynes>,
+        <https://www.lib.ncsu.edu/staff/jrhandlo> ;
     schema:url <https://www.lib.ncsu.edu/do/electronics> .
 
 <https://www.wikidata.org/wiki/Q11650> a schema:Thing ;
@@ -2727,13 +2726,13 @@ We have additional equipment not listed here (boards, sensors, etc.) that can be
 <https://www.lib.ncsu.edu/do/3d-printing> a schema:Service ;
     schema:category <https://www.wikidata.org/wiki/Q229367> ;
     schema:description "The NCSU Libraries offers 3D printing in both the D. H. Hill and James B. Hunt Jr. Library Makerspaces." ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/services/makerspace" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/services/makerspace> ;
     schema:name "3D Printing" ;
-    schema:provider "https://www.lib.ncsu.edu/staff/asroger2",
-        "https://www.lib.ncsu.edu/staff/crnickel",
-        "https://www.lib.ncsu.edu/staff/dnwoodbu",
-        "https://www.lib.ncsu.edu/staff/jmhaynes",
-        "https://www.lib.ncsu.edu/staff/jrhandlo" ;
+    schema:provider <https://www.lib.ncsu.edu/staff/asroger2>,
+        <https://www.lib.ncsu.edu/staff/crnickel>,
+        <https://www.lib.ncsu.edu/staff/dnwoodbu>,
+        <https://www.lib.ncsu.edu/staff/jmhaynes>,
+        <https://www.lib.ncsu.edu/staff/jrhandlo> ;
     schema:url <https://www.lib.ncsu.edu/do/3d-printing> .
 
 <https://www.wikidata.org/wiki/Q229367> a schema:Thing ;
@@ -2749,13 +2748,13 @@ We have additional equipment not listed here (boards, sensors, etc.) that can be
 You do not need to attend a Makerspace Orientation prior to your appointment. For safety reasons, only library staff are able to operate the laser cutter.
 
 Design guidelines: In preparing your files (e.g. in Illustrator or Inkscape), please use a canvas of 11.5" x 23.5" and for your cut lines use paths with a stroke weight of 0.001 inches. Any content of thicker weight will be engraved rather than cut.""" ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/services/makerspace" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/services/makerspace> ;
     schema:name "Cutting & Milling" ;
-    schema:provider "https://www.lib.ncsu.edu/staff/asroger2",
-        "https://www.lib.ncsu.edu/staff/crnickel",
-        "https://www.lib.ncsu.edu/staff/dnwoodbu",
-        "https://www.lib.ncsu.edu/staff/eolson",
-        "https://www.lib.ncsu.edu/staff/jmhaynes" ;
+    schema:provider <https://www.lib.ncsu.edu/staff/asroger2>,
+        <https://www.lib.ncsu.edu/staff/crnickel>,
+        <https://www.lib.ncsu.edu/staff/dnwoodbu>,
+        <https://www.lib.ncsu.edu/staff/eolson>,
+        <https://www.lib.ncsu.edu/staff/jmhaynes> ;
     schema:url <https://www.lib.ncsu.edu/do/cutting-milling> .
 
 <https://www.wikidata.org/wiki/Q593053> a schema:Thing ;
@@ -2769,13 +2768,13 @@ Design guidelines: In preparing your files (e.g. in Illustrator or Inkscape), pl
 <https://www.lib.ncsu.edu/do/wearables> a schema:Service ;
     schema:category <https://www.wikidata.org/wiki/Q4845080> ;
     schema:description "The D.H. Hill Makerspace provides tools and support for sewing and working with fabrics, and for integrating electronics into textile projects. Wearable technology is an exciting area for innovation and creativity, with interest in it growing from both consumers and tech companies. Devices like the FitBit and Apple Watch contain sensors and use protocols very much like the ones you can learn and prototype with in the Makerspace!" ;
-    schema:isRelatedTo "https://www.lib.ncsu.edu/services/makerspace" ;
+    schema:isRelatedTo <https://www.lib.ncsu.edu/services/makerspace> ;
     schema:name "Wearables" ;
-    schema:provider "https://www.lib.ncsu.edu/staff/asroger2",
-        "https://www.lib.ncsu.edu/staff/crnickel",
-        "https://www.lib.ncsu.edu/staff/jmhaynes",
-        "https://www.lib.ncsu.edu/staff/jrhandlo",
-        "https://www.lib.ncsu.edu/staff/mamathew" ;
+    schema:provider <https://www.lib.ncsu.edu/staff/asroger2>,
+        <https://www.lib.ncsu.edu/staff/crnickel>,
+        <https://www.lib.ncsu.edu/staff/jmhaynes>,
+        <https://www.lib.ncsu.edu/staff/jrhandlo>,
+        <https://www.lib.ncsu.edu/staff/mamathew> ;
     schema:url <https://www.lib.ncsu.edu/do/wearables> .
 
 <https://www.wikidata.org/wiki/Q4845080> a schema:Thing ;
