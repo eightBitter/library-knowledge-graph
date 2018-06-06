@@ -1,4 +1,3 @@
-@prefix : <http://schema.org/> .
 @prefix cat: <http://www.w3.org/ns/dcat#> .
 @prefix cc: <http://creativecommons.org/ns#> .
 @prefix cnt: <http://www.w3.org/2008/content#> .
