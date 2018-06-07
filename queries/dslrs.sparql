@@ -1,0 +1,11 @@
+#Are there any DSLRs available at Hunt?
+PREFIX schema: <http://schema.org/>
+select ?product ?inventory where {
+ ?product a schema:Product;
+          schema:category ?category.
+    ?category schema:name|schema:alternateName "dslr".
+    ?product schema:offers ?offer.
+    ?offer schema:availableAtOrFrom <https://www.lib.ncsu.edu/huntlibrary>;
+           schema:availability schema:InStock;
+           schema:inventoryLevel ?inventory.
+}

@@ -1520,7 +1520,7 @@ This workshop is an introduction to R for absolute beginners who have little or 
 
 
 
-<https://www.lib.ncsu.edu/design> a schema:Place ;
+<https://www.lib.ncsu.edu/design> a schema:Place, schema:Library ;
     schema:address [ a schema:PostalAddress ;
             schema:addressLocality "Raleigh" ;
             schema:addressRegion "NC" ;
@@ -1561,7 +1561,7 @@ The Design Library Image Collection is now available through Luna Insight 6.3. T
 
 
 
-<https://www.lib.ncsu.edu/about/dhhill> a schema:Place ;
+<https://www.lib.ncsu.edu/about/dhhill> a schema:Place, schema:Library ;
     schema:address [ a schema:PostalAddress ;
             schema:addressLocality "Raleigh" ;
             schema:addressRegion "NC" ;
@@ -1769,7 +1769,7 @@ The Design Library Image Collection is now available through Luna Insight 6.3. T
 
 
 
-<https://www.lib.ncsu.edu/huntlibrary> a schema:Place ;
+<https://www.lib.ncsu.edu/huntlibrary> a schema:Place, schema:Library ;
     schema:address [ a schema:PostalAddress ;
             schema:addressLocality "Raleigh" ;
             schema:addressRegion "NC" ;
@@ -1864,7 +1864,7 @@ The Design Library Image Collection is now available through Luna Insight 6.3. T
 
 
 
-<https://www.lib.ncsu.edu/nrl> a schema:Place ;
+<https://www.lib.ncsu.edu/nrl> a schema:Place, schema:Library ;
     schema:address [ a schema:PostalAddress ;
             schema:addressLocality "Raleigh" ;
             schema:addressRegion "NC" ;
@@ -1904,7 +1904,7 @@ The Design Library Image Collection is now available through Luna Insight 6.3. T
 
 
 
-<https://www.lib.ncsu.edu/vetmed> a schema:Place ;
+<https://www.lib.ncsu.edu/vetmed> a schema:Place, schema:Library ;
     schema:address [ a schema:PostalAddress ;
             schema:addressLocality "Raleigh" ;
             schema:addressRegion "NC" ;

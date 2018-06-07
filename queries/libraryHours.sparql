@@ -1,0 +1,9 @@
+#When does the library close today (Monday)?
+PREFIX schema: <http://schema.org/>
+select ?name ?hours ?library where {
+    ?library a schema:Library;
+             schema:name ?name;
+             schema:openingHoursSpecification ?OpeningHoursSpecification.
+    ?OpeningHoursSpecification schema:dayOfWeek <http://schema.org/Monday>;
+          schema:closes ?hours.
+}

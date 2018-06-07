@@ -1,0 +1,6 @@
+#Are there resources related to this thing?
+PREFIX schema: <http://schema.org/>
+select distinct ?relatedResources where {
+    <https://catalog.lib.ncsu.edu/record/NCSU4110548> schema:about ?subject.
+    ?relatedResources schema:about ?subject.
+}

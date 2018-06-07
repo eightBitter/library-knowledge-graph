@@ -1,0 +1,10 @@
+- [x] Are there resources related to this thing? https://catalog.lib.ncsu.edu/record/NCSU4110548
+- [x] ]hen does the library close today?
+- [x] Are there any DSLRs available at Hunt?
+- Who can help me with visualization?
+- I would like to research x
+- How do I get to Hill?
+- I just went to this workshop on x, where do I go from here?
+- What services can the library provide?
+- Where can I go for Macbooks?
+- When's the next R workshop?
