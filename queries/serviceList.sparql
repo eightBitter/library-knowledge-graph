@@ -1,0 +1,6 @@
+#What services can the library provide?
+PREFIX schema: <http://schema.org/>
+select ?serviceName ?serviceUrl where {
+    ?serviceUrl a schema:Service;
+                schema:name ?serviceName.
+}

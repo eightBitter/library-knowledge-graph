@@ -1,0 +1,7 @@
+#How do I get to Hill?
+PREFIX schema: <http://schema.org/>
+select ?streetAddress where {
+	?dhhill a schema:Library;
+         schema:name "D. H. Hill Library";
+         schema:address [schema:streetAddress ?streetAddress].
+}

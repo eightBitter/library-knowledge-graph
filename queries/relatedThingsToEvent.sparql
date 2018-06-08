@@ -1,0 +1,7 @@
+#I just went to this workshop on x, where do I go from here?
+PREFIX schema: <http://schema.org/>
+select ?relatedThing ?relatedThingName where {
+    <https://www.lib.ncsu.edu/workshops/introduction-to-google-cardboard> schema:about ?about.
+    ?relatedThing schema:about ?about;
+                  schema:name ?relatedThingName.
+}

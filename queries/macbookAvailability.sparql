@@ -1,0 +1,11 @@
+#Where can I go for Macbooks?
+PREFIX schema: <http://schema.org/>
+select ?libraryUrl ?libraryName ?productName where {
+    ?product a schema:Product;
+             schema:name "Mac Laptop";
+             schema:name ?productName;
+             schema:offers ?offer.
+    ?offer schema:availableAtOrFrom ?libraryUrl.
+    ?libraryUrl schema:name ?libraryName.
+}
+#note that Mac Laptop doesn't have schema:itemAvailability

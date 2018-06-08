@@ -1,0 +1,8 @@
+#Who can help me with visualization?
+PREFIX schema: <http://schema.org/>
+select ?personName ?personUrl where {
+ ?service a schema:Service;
+          schema:name "Visualization";
+          schema:provider ?personUrl.
+    ?personUrl schema:name ?personName.
+}

@@ -1,0 +1,8 @@
+#When's the next R workshop?
+PREFIX schema: <http://schema.org/>
+select ?event ?date where {
+ ?event a schema:Event;
+        schema:about [schema:name "R"];
+        schema:startDate ?date
+}
+#The piece that is missing here is that schema:startDate needs to run against the current time and date

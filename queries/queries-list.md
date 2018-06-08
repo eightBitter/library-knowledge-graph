@@ -1,10 +1,11 @@
 - [x] Are there resources related to this thing? https://catalog.lib.ncsu.edu/record/NCSU4110548
-- [x] ]hen does the library close today?
+- [x] When does the library close today?
 - [x] Are there any DSLRs available at Hunt?
-- Who can help me with visualization?
+- [x] Who can help me with visualization?
 - I would like to research x
-- How do I get to Hill?
-- I just went to this workshop on x, where do I go from here?
-- What services can the library provide?
-- Where can I go for Macbooks?
-- When's the next R workshop?
+  - This one will take some finesse. There are a variety of ways you can handle this: matching against a taxonomy, free text searching, etc
+- [x] How do I get to Hill?
+- [x] I just went to this workshop on x, where do I go from here? https://www.lib.ncsu.edu/workshops/introduction-to-google-cardboard
+- [x] What services can the library provide?
+- [x] Where can I go for Macbooks?
+- [x] When's the next R workshop?
